@@ -71,8 +71,6 @@ Article(24445736)
  2021: 69}
 ```
 
-"placeholder for debut time-series fitting"
-
 Please note that all results presented here are based solely on the demo resource data provided in this repository.
 
 # Data Coverage

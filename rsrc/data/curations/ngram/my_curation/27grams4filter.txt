@@ -1,0 +1,2 @@
+keyword, paper_matches, ngram_counts, case_insensitive_in_removed
+(+)-(1(10)E,4E,6S,7R)-germacradien-6-ol synthase, 1, 0, undetermined, , {'E8W6C7'}, {'(+)-(1(10)E,4E,6S,7R)-germacradien-6-ol synthase'}

@@ -1,0 +1,20 @@
+keyword, paper_matches, ngram_counts, case_insensitive_in_removed
+dTDP-4-keto-6-deoxy-D-glucose reductase, 2, 0, undetermined, , {'Q9L9E9'}, {'dTDP-4-keto-6-deoxy-D-glucose reductase'}
+S-adenosyl-L-methionine:norcoclaurine 6-O-methyltransferase, 2, 0, undetermined, , {'Q9LEL6'}, {'S-adenosyl-L-methionine:norcoclaurine 6-O-methyltransferase'}
+GDP-4-keto-6-deoxy-d-mannose reductase, 2, 0, undetermined, , {'Q9JRN7'}, {'GDP-4-keto-6-deoxy-D-mannose reductase'}
+6-Hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase, 2, 0, undetermined, , {'O87871'}, {'6-hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase'}
+β-1,2-mannobiose:phosphate α-d-mannosyltransferase, 1, 0, undetermined, , {'B0K2C3'}, {'Beta-1,2-mannobiose:phosphate alpha-D-mannosyltransferase'}
+Δ(3),Δ(2)-Enoyl-CoA isomerases, 1, 0, undetermined, , {'Q05871', 'O75521', 'Q9WUR2', 'P42126', 'Q78JN3', 'Q5XIC0', 'P42125', 'P23965'}, {'Delta(3),Delta(2)-enoyl-CoA isomerase', 'Delta(3),delta(2)-enoyl-CoA isomerase'}
+serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit beta isoform, 1, 0, undetermined, , {'Q6PD28', 'Q15173', 'Q28647', 'Q80W83'}, {'Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit beta isoform'}
+phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 2 protein, 1, 0, undetermined, , {'Q3LAC4', 'Q70Z35'}, {'Phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 2 protein'}
+phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 1 protein, 1, 0, undetermined, , {'Q8TCU6', 'Q69ZK0'}, {'Phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 1 protein'}
+dTDP-6-deoxy-L-lyxo-4-hexulose reductases, 1, 0, undetermined, , {'P9WH08', 'P37778', 'O66251', 'A0QTF8', 'P37760', 'P26392', 'Q46769', 'Q2SYI1', 'P55463', 'P9WH09', 'P29781', 'O66256'}, {'dTDP-6-deoxy-L-lyxo-4-hexulose reductase'}
+S-adenosyl-L-methionine: norcoclaurine 6-O-methyltransferase, 1, 0, undetermined, , {'Q9LEL6'}, {'S-adenosyl-L-methionine:norcoclaurine 6-O-methyltransferase'}
+Phosphatidylinositol 3,4,5-Trisphosphate-Dependent Rac Exchanger 2 Protein, 1, 0, undetermined, , {'Q3LAC4', 'Q70Z35'}, {'Phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 2 protein'}
+N-(1-D-carboxyethyl)-L- norvaline dehydrogenase, 1, 0, undetermined, , {'Q44297'}, {'N-(1-D-carboxyethyl)-L-norvaline dehydrogenase'}
+Delta(3),Delta(2)-enoyl-CoA isomerases, 1, 0, undetermined, , {'Q05871', 'O75521', 'Q9WUR2', 'P42126', 'Q78JN3', 'Q5XIC0', 'P42125', 'P23965'}, {'Delta(3),Delta(2)-enoyl-CoA isomerase', 'Delta(3),delta(2)-enoyl-CoA isomerase'}
+BCL2/adenovirus E1B 19 kDa protein-interacting proteins 3, 1, 0, undetermined, , {'Q12983', 'Q32KN2', 'O55003'}, {'BCL2/adenovirus E1B 19 kDa protein-interacting protein 3'}
+6-Oxocyclohex-1-ene-1-carbonyl-CoA hydrolase, 1, 0, undetermined, , {'Q39TV7', 'O87872', 'Q2LXU2'}, {'6-oxocyclohex-1-ene-1-carbonyl-CoA hydrolase'}
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase 1, 1, 0, undetermined, , {'Q89UU5', 'Q629Z7', 'Q63WH0', 'P9WKF8', 'Q6N3G0', 'P0A5I1', 'P9WKF9'}, {'4-hydroxy-3-methylbut-2-enyl diphosphate reductase 1'}
+1,2-β-oligomannan:phosphate α-d-mannosyltransferase, 1, 0, undetermined, , {'B0K2C2'}, {'1,2-beta-oligomannan:phosphate alpha-D-mannosyltransferase'}
+(-)-(1S,5S)-pinene synthase, 1, 0, undetermined, , {'Q6XDB5', 'O24475'}, {'(-)-(1S,5S)-pinene synthase'}

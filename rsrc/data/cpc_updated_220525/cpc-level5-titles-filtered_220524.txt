@@ -1,0 +1,39 @@
+# Additional codes searched for gene/protein/enzyme tagged titles and their child for filtering code title match
+A23C19/032	characterised by the use of specific microorganisms, or enzymes of microbial origin
+A23C19/04	characterised by the use of specific enzymes of vegetable or animal origin (A23C19/032 takes precedence)
+A23C3/085	{Inorganic compounds, e.g. lactoperoxidase - H2O2 systems}
+A23C9/12	Fermented milk preparations; Treatment using microorganisms or enzymes (whey preparations A23C21/00)
+A23V2250/54	Proteins
+A61F2002/2817	{Bone stimulation by chemical reactions or by osteogenic or biological products for enhancing ossification, e.g. by bone morphogenetic or morphogenic proteins [BMP] or by transforming growth factors [TGF]}
+A61F2310/00976	Coating or prosthesis-covering structure made of proteins or of polypeptides, e.g. of bone morphogenic proteins BMP or of transforming growth factors TGF
+A61K2039/555	{characterised by a specific combination antigen/adjuvant}
+A61K2039/60	{characteristics by the carrier linked to the antigen}
+A61K2039/62	{characterised by the link between antigen and carrier}
+A61K47/62	the modifying agent being a protein, peptide or polyamino acid
+A61K49/0045	{the fluorescent agent being a peptide or protein used for imaging or diagnosis in vivo}
+A61K49/14	Peptides, e.g. proteins
+A61K49/1866	{the nanoparticle having a (super)(para)magnetic core coated or functionalised with a peptide, e.g. protein, polyamino acid}
+A61K51/08	Peptides, e.g. proteins {, carriers being peptides, polyamino acids, proteins}
+A61L24/10	Polypeptides; Proteins {(A61L24/043 takes precedence)}
+A61L26/0028	{Polypeptides; Proteins; Degradation products thereof}
+A61L27/22	Polypeptides or derivatives thereof {, e.g. degradation products}
+A61L29/044	{Proteins; Polypeptides; Degradation products thereof}
+A61L31/043	{Proteins; Polypeptides; Degradation products thereof}
+A61L33/0047	{Enzymes, e.g. urokinase, streptokinase}
+A61M2202/0445	Proteins (immunoglobulin A61M2202/0417; beta-2-microglobulin A61M2202/0421; thrombin A61M2202/0425; haemoglobin A61M2202/0433)
+A62D2101/02	Chemical warfare substances, e.g. cholinesterase inhibitors
+B01F2101/44	Mixing of ingredients for microbiology, enzymology, in vitro culture or genetic manipulation
+B01F23/062	{Mixing ingredients in very small quantity, adding microingredients or microconcentration, e.g. adding vitamins, minerals, proteins, enzymes, hormones, antibiotics or worm medicines}
+B09B3/60	Biochemical treatment, e.g. by using enzymes
+C05F17/20	using specific microorganisms or substances, e.g. enzymes, for activating or stimulating the treatment (use of invertebrates C05F17/05)
+C09K23/28	Aminocarboxylic acids (proteins and protein hydrolysates C09K23/30)
+C09K23/30	Proteins; Protein hydrolysates
+C12C5/004	{Enzymes}
+C12N2500/24	Iron; Fe chelators; Transferrin
+C12N2500/25	Insulin-transferrin; Insulin-transferrin-selenium
+C12N2533/50	Proteins
+D03D15/233	protein-based, e.g. wool or silk
+G01N33/50	Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing (measuring or testing processes involving enzymes or microorganisms, compositions or test papers therefor; processes for forming such compositions, condition responsive control in microbiological or enzymological processes C12Q)
+G01N33/54387	{Immunochromatographic test strips}
+G06F2111/06	Multi-objective optimisation, e.g. Pareto optimisation using simulated annealing [SA], ant colony algorithms or genetic algorithms [GA]
+Y10T436/105831	Protein or peptide standard or control [e.g., hemoglobin, etc.]

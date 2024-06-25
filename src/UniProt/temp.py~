@@ -1,0 +1,24 @@
+from Papers import Journal
+from UniProt.containers import *
+from multiprocessing import Pool
+
+q = Nested()
+
+
+def check(medline_ta):
+    j = Journal[medline_ta]
+    articles = {art.pmid: art for art in j.get_articles()}
+    for pmid, old_matches_ in j.get_matches().items():
+        art = articles[pmid]
+        new_matches_ = q.strict_matches(art.title), q.strict_matches(art.abstract)
+        for old_matches, new_matches in zip(old_matches_, new_matches_):
+            for old_match in old_matches:
+                if old_match not in new_matches:
+                    print(f'Found {medline_ta}: {pmid}')
+
+
+if __name__ == '__main__':
+    medline_tas = {j.medline_ta: j.counts for j in Journal.unique_values()}
+    medline_tas = sorted(medline_tas, key=medline_tas.get)
+    with Pool(50) as p:
+        p.map(check, Journal.unique_keys())

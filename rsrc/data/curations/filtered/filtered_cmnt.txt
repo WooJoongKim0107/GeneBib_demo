@@ -1,0 +1,84 @@
+# From hit_map_post_process.py
+1
+2
+
+# From top-70 cmnts for their paper & patent hits
+146504  # VP4, Rep, rep, ...; irrelevant collection of entries
+252  # NS3, L protein, Xyl, ...; irrelevant collection of entries
+25615  # Cas, cas, ...; CRISPR/Cas hit while the cmnt itself is not + irrelevant collection of entries
+
+# From old LoHL.py
+1486
+18682
+28756
+9912
+20521
+4911
+3898
+
+# Korea Army Training Center
+131  # TPI
+240  # HSK
+394  # PHS
+1285  # Sep
+1380
+1683  # PIP
+1775  # DBP
+2061  # gld
+2453  # ADF
+2782
+2829  # PPL
+2894  # hom
+3328
+3484  # NDF
+3548  # PLB
+3653  # CPC
+3908
+4518
+4631
+5958
+6292
+6697
+6796  # ARI
+7981
+7981
+8032
+8653
+9312
+12352  # me2
+12352
+14414
+14921
+15329
+16255  # ITR
+17420
+17765
+23097
+24096  # HMB
+25355  # me3
+25355
+25410
+26108  # Nle
+26108
+28703
+35493
+40296
+41212  # Mch
+42433
+44240
+44555
+44824  # CORA
+58681  # Tre
+59243
+65971
+74775  # NIH
+74775
+74966
+81734  # Pca
+81734
+85241
+88339  # Sar
+91577
+105075
+138300
+146485

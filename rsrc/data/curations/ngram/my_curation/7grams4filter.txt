@@ -1,0 +1,1054 @@
+keyword, paper_matches, ngram_counts, case_insensitive_in_removed
+recQ-mediated genome instability protein 1, 1, 0, preserved, {'RecQ-mediated genome instability protein 1'}, {'Q5XUX6', 'Q7ZVM9', 'Q5ZHV8', 'Q9D4G9', 'Q6DDH2', 'Q02685', 'Q7XRV0', 'A4IF98', 'Q10160', 'Q9H9A7'}, {'RecQ-mediated genome instability protein 1'}
+ran-specific GTPase-activating protein, 1, 0, preserved, {'Ran-specific GTPase-activating protein'}, {'Q3T0M7', 'P43487', 'P34022'}, {'Ran-specific GTPase-activating protein'}
+pregnancy-associated plasma protein a2, 1, 0, preserved, {'pregnancy-associated plasma protein A2'}, {'Q9BXP8'}, {'Pregnancy-associated plasma protein A2'}
+omega-Atracotoxin-Hv1a, 1, 0, preserved, {'OMEGA-ATRACOTOXIN-HV1A'}, {'P56207'}, {'Omega-atracotoxin-Hv1a'}
+o6-methylguanine-dna methyltransferase, 1, 0, preserved, {'O6-methylguanine-DNA methyltransferase', 'O6-METHYLGUANINE-DNA METHYLTRANSFERASE', 'O6-Methylguanine-DNA Methyltransferase'}, {'P19220'}, {'O6-methylguanine-DNA methyltransferase'}
+muscle-specific Ring finger protein 1, 1, 0, preserved, {'Muscle-specific RING finger protein 1'}, {'Q38HM4', 'Q969Q1', 'Q91Z63'}, {'Muscle-specific RING finger protein 1'}
+mid-cell-anchored protein Z, 1, 0, preserved, {'Mid-cell-anchored protein Z'}, {'Q8DR55'}, {'Mid-cell-anchored protein Z'}
+i-kappa-B-alpha, 1, 0, preserved, {'I-kappa-B-alpha', 'I-KAPPA-B-ALPHA'}, {'Q08353', 'Q9Z1E3', 'P25963', 'Q63746', 'Q91974'}, {'I-kappa-B-alpha'}
+alpha-1,4-glucosidase, 104, 0, undetermined, , {'O43451'}, {'Alpha-1,4-glucosidase'}
+alpha-1,2-mannosidase, 74, 0, undetermined, , {'O18498'}, {'Alpha-1,2-mannosidase'}
+α-1,2-mannosidase, 32, 0, undetermined, , {'O18498'}, {'Alpha-1,2-mannosidase'}
+phosphatidylinositol 5-phosphate 4-kinase, 25, 0, undetermined, , {'P48426', 'O70172'}, {'Phosphatidylinositol 5-Phosphate 4-Kinase'}
+angiotensin-converting enzyme-related carboxypeptidase, 19, 0, undetermined, , {'Q9BYF1'}, {'Angiotensin-converting enzyme-related carboxypeptidase'}
+α-1,4-glucosidase, 18, 0, undetermined, , {'O43451'}, {'Alpha-1,4-glucosidase'}
+alpha-1,2-mannosidases, 18, 0, undetermined, , {'O18498'}, {'Alpha-1,2-mannosidase'}
+IGF2BP2-AS1, 16, 0, undetermined, , {'Q96M15'}, {'IGF2BP2-AS1'}
+Mg(2+)-dependent nuclease, 13, 0, undetermined, , {'Q9JJ00', 'O15162', 'P58195'}, {'Mg(2+)-dependent nuclease'}
+7,8-diaminopelargonic acid synthase, 13, 0, undetermined, , {'P9WQ81'}, {'7,8-diaminopelargonic acid synthase'}
+adipokinetic hormone/corazonin-related peptide, 12, 0, undetermined, , {'Q16RI5'}, {'Adipokinetic hormone/corazonin-related peptide'}
+Rab3 GDP/GTP exchange protein, 11, 0, undetermined, , {'O08873', 'Q8WXG6', 'Q80U28'}, {'Rab3 GDP/GTP exchange protein'}
+heat shock transcription factor HSF-1, 10, 0, undetermined, , {'G5EFT5'}, {'Heat shock transcription factor hsf-1'}
+head-to-tail cyclized peptide, 10, 0, undetermined, , {'P0DTW2'}, {'Head-to-tail cyclized peptide'}
+Na-K-Cl cotransporter 1, 10, 0, undetermined, , {'A0A0G2KTI4'}, {'Na-K-Cl cotransporter 1'}
+Gram-negative bacteria-binding protein, 10, 0, undetermined, , {'Q8MU95'}, {'Gram-negative bacteria-binding protein'}
+Glc-6-Pase-beta, 10, 0, undetermined, , {'Q6NSQ9'}, {'Glc-6-Pase-beta'}
+α-1,2-mannosidases, 9, 0, undetermined, , {'O18498'}, {'Alpha-1,2-mannosidase'}
+inositol polyphosphate-5-phosphatase E, 9, 0, undetermined, , {'Q9NRR6', 'Q9JII1', 'A0FI79', 'Q9WVR1'}, {'Inositol polyphosphate-5-phosphatase E'}
+alpha-1, 4-glucosidase, 9, 0, undetermined, , {'O43451'}, {'Alpha-1,4-glucosidase'}
+Gram-negative bacteria-binding proteins, 9, 0, undetermined, , {'Q8MU95'}, {'Gram-negative bacteria-binding protein'}
+phosphatidylinositol 5-phosphate 4-kinases, 8, 0, undetermined, , {'P48426', 'O70172'}, {'Phosphatidylinositol 5-Phosphate 4-Kinase'}
+major facilitator superfamily domain-containing protein, 8, 0, undetermined, , {'A0A7J6K338', 'S8EZA7'}, {'Major facilitator superfamily domain-containing protein'}
+head-to-tail cyclized peptides, 8, 0, undetermined, , {'P0DTW2'}, {'Head-to-tail cyclized peptide'}
+glucose-6-phosphatase-β, 8, 0, undetermined, , {'Q6NSQ9'}, {'glucose-6-phosphatase-beta'}
+alpha-1,4-glucosidases, 8, 0, undetermined, , {'O43451'}, {'Alpha-1,4-glucosidase'}
+Pf14-3-3I, 8, 0, undetermined, , {'C0H4V6'}, {'Pf14-3-3I'}
+L-3-hydroxyacyl CoA dehydrogenase, 8, 0, undetermined, , {'P00348'}, {'L-3-hydroxyacyl CoA dehydrogenase'}
+43 kDa inositol polyphosphate 5-phosphatase, 8, 0, undetermined, , {'Q14642'}, {'43 kDa inositol polyphosphate 5-phosphatase'}
+delta-hexatoxin-Mg1a, 7, 0, undetermined, , {'P83560'}, {'Delta-hexatoxin-Mg1a'}
+alpha-like toxin BmK M1, 7, 0, undetermined, , {'P45697'}, {'Alpha-like toxin BmK M1'}
+β-1,2-glucanase, 6, 0, undetermined, , {'A6LGF6'}, {'Beta-1,2-glucanase'}
+guanosine diphospho-D-mannose dehydrogenase, 6, 0, undetermined, , {'P11759'}, {'Guanosine diphospho-D-mannose dehydrogenase'}
+M-PONTX-Dq3a, 6, 0, undetermined, , {'P0DSK0'}, {'M-PONTX-Dq3a'}
+4-hydroxyphenylpyruvate dioxygenase-like protein, 6, 0, undetermined, , {'Q8K248', 'Q96IR7', 'Q5XIH9'}, {'4-hydroxyphenylpyruvate dioxygenase-like protein'}
+sterol-C4-methyl oxidase, 5, 0, undetermined, , {'O59933', 'Q6UGB2', 'Q9CRA4', 'Q4R4Q4', 'Q5R574', 'Q15800', 'O35532'}, {'Sterol-C4-methyl oxidase'}
+keratin-associated protein 2-1, 5, 0, undetermined, , {'Q9BYU5'}, {'Keratin-associated protein 2-1'}
+glucose-6-phosphatase-beta, 5, 0, undetermined, , {'Q6NSQ9'}, {'glucose-6-phosphatase-beta'}
+e(12S)-LOX, 5, 0, undetermined, , {'P55249', 'D3ZQF9'}, {'e(12S)-LOX'}
+cyclin-dependent kinase-like 3, 5, 0, undetermined, , {'Q8IVW4', 'Q4R8T9', 'Q8BLF2', 'Q9JM01'}, {'Cyclin-dependent kinase-like 3'}
+amyloid-beta precursor-like protein, 5, 0, undetermined, , {'Q06BR2'}, {'Amyloid-beta precursor-like protein'}
+alpha-bungarotoxin (A31), 5, 0, undetermined, , {'Q7T3J2', 'P60615'}, {'Alpha-bungarotoxin (A31)'}
+acyl-CoA synthetase family member 3, 5, 0, undetermined, , {'Q3URE1', 'Q58DN7', 'Q4G176', 'Q6GLK6'}, {'Acyl-CoA synthetase family member 3'}
+Phosphatidylinositol 5-phosphate 4-kinases, 5, 0, undetermined, , {'P48426', 'O70172'}, {'Phosphatidylinositol 5-Phosphate 4-Kinase'}
+Mg(2+)-dependent nucleases, 5, 0, undetermined, , {'Q9JJ00', 'O15162', 'P58195'}, {'Mg(2+)-dependent nuclease'}
+Alpha-1,4-glucosidase, 5, 0, undetermined, , {'O43451'}, {'Alpha-1,4-glucosidase'}
+κ-TRTX-Ec2a, 4, 0, undetermined, , {'P0DQO5'}, {'Kappa-TRTX-Ec2a'}
+spindle and kinetochore-associated protein 2, 4, 0, undetermined, , {'Q4R8E8', 'B5X5N3', 'Q2TBY0', 'Q0P426', 'Q9CR46', 'Q5I0J4', 'Q8WVK7'}, {'Spindle and kinetochore-associated protein 2'}
+sphingosine-1-phosphate phosphohydrolase 1, 4, 0, undetermined, , {'Q9BX95'}, {'Sphingosine-1-phosphate phosphohydrolase 1'}
+protein-arginine deiminase type-4, 4, 0, undetermined, , {'Q9UM07', 'Q9Z183', 'O88807'}, {'Protein-arginine deiminase type-4'}
+proline/arginine-rich antimicrobial peptide, 4, 0, undetermined, , {'A6XMY1'}, {'Proline/arginine-rich antimicrobial peptide'}
+mitogen-activated protein kinase Pmk1, 4, 0, undetermined, , {'Q92246'}, {'Mitogen-activated protein kinase PMK1'}
+mitochondrial inner membrane protein Oxa1L, 4, 0, undetermined, , {'Q8BGA9', 'Q15070', 'Q3SYV3'}, {'Mitochondrial inner membrane protein OXA1L'}
+gram-negative bacteria-binding proteins, 4, 0, undetermined, , {'Q8MU95'}, {'Gram-negative bacteria-binding protein'}
+glycerol-3-phosphate acyltransferase 5, 4, 0, undetermined, , {'Q9CAY3', 'Q3Z643'}, {'Glycerol-3-phosphate acyltransferase 5'}
+glucose/H(+) symporter, 4, 0, undetermined, , {'A0A0H2VG78'}, {'Glucose/H(+) symporter'}
+eukaryotic translation initiation factor 3 subunit a, 4, 0, undetermined, , {'A8PKH2', 'A2Q8I1', 'B4M693', 'P23116', 'Q2H6G4', 'Q6C161', 'P38249', 'Q295G5', 'A5E1T3', 'Q7RWT1', 'B0XP13', 'Q0CUP6', 'A1D4A7', 'B3LY22', 'Q2UKG6', 'P0CN42', 'A5DHL9', 'A2VD00', 'Q9XHR2', 'Q7PGE8', 'Q173M7', 'B4KA44', 'Q6FK21', 'Q5B9N7', 'Q1DXU0', 'Q6CT90', 'A4RM69', 'Q9VN25', 'A8WM57', 'Q6PCR7', 'B5RUP5', 'B0W6N3', 'Q4WJQ1', 'A7SK48', 'P0CN43', 'O74760', 'B4QVI2', 'A1CRE5', 'Q1JU68', 'Q4P358', 'B4PTS9', 'B4I3P3', 'B3P211', 'Q9LD55', 'B4GDX4', 'Q40554', 'P34339', 'B4K250', 'Q75DT8', 'Q86B20', 'Q59PL9', 'B4NIC3', 'A7TL64', 'Q14152', 'A4II09', 'A9V549'}, {'Eukaryotic translation initiation factor 3 subunit A'}
+beta-1, 3-galactosyltransferase, 4, 0, undetermined, , {'Q9NS00'}, {'Beta-1,3-galactosyltransferase'}
+[Hyp3]Met-callatostatin, 4, 0, undetermined, , {'P41841'}, {'[Hyp3]Met-callatostatin'}
+Type III restriction enzyme EcoP15I, 4, 0, undetermined, , {'Q5ZND2'}, {'Type III restriction enzyme EcoP15I'}
+Juxtaposed with another zinc finger protein 1, 4, 0, undetermined, , {'Q5RDF5', 'Q86VZ6', 'Q80ZQ5'}, {'Juxtaposed with another zinc finger protein 1'}
+Glucose-6-phosphatase-β, 4, 0, undetermined, , {'Q6NSQ9'}, {'glucose-6-phosphatase-beta'}
+D1 C-terminal processing protease, 4, 0, undetermined, , {'O04073'}, {'D1 C-terminal processing protease'}
+ATP1A1-AS1, 4, 0, undetermined, , {'Q5TC04'}, {'ATP1A1-AS1'}
+6-aminohexanoic acid linear oligomer hydrolase, 4, 0, undetermined, , {'P07061', 'P07062'}, {'6-aminohexanoic acid linear oligomer hydrolase'}
+κ-TRTX-Ec2b, 3, 0, undetermined, , {'P0DQO6'}, {'Kappa-TRTX-Ec2b'}
+α-helical pore-forming toxin, 3, 0, undetermined, , {'B9W5G6', 'A0A515MEM9', 'P0DUW9', 'A0A515MEN7', 'P0DUW8'}, {'Alpha-helical pore-forming toxin'}
+α-1,6-mannosidases, 3, 0, undetermined, , {'Q9Y2E5'}, {'Alpha-1,6-mannosidase'}
+type I protein arginine N-methyltransferase, 3, 0, undetermined, , {'Q9URX7'}, {'Type I protein arginine N-methyltransferase'}
+tubulin/FtsZ-like protein TubZ, 3, 0, undetermined, , {'Q331T7'}, {'Tubulin/FtsZ-like protein TubZ'}
+sex-determining protein FEM-1, 3, 0, undetermined, , {'P17221'}, {'Sex-determining protein fem-1'}
+protein NH2-terminal asparagine amidohydrolase, 3, 0, undetermined, , {'Q64311', 'Q28955', 'Q96AB6', 'O64876'}, {'Protein NH2-terminal asparagine amidohydrolase'}
+poly(3-hydroxyalkanoate) polymerases, 3, 0, undetermined, , {'P52070', 'Q9ZHI2'}, {'Poly(3-hydroxyalkanoate) polymerase'}
+phosphatidylinositol 3-kinase regulatory subunit alpha, 3, 0, undetermined, , {'P27986', 'P23727', 'Q63787', 'Q5R685', 'Q8UUU2', 'P26450'}, {'Phosphatidylinositol 3-kinase regulatory subunit alpha'}
+nucleosome assembly protein 1-like 3, 3, 0, undetermined, , {'Q794H2', 'Q924R9', 'A2ZX50', 'Q99457', 'Q70Z17', 'Q5R675', 'Q5MGA9'}, {'Nucleosome assembly protein 1-like 3'}
+mitochondrial editosome-like complex associated TUTase, 3, 0, undetermined, , {'C7AJA4'}, {'Mitochondrial editosome-like complex associated TUTase'}
+l-3-hydroxyacyl CoA dehydrogenase, 3, 0, undetermined, , {'P00348'}, {'L-3-hydroxyacyl CoA dehydrogenase'}
+hypoxia-inducible factor prolyl hydroxylase 3, 3, 0, undetermined, , {'Q91UZ4', 'Q9H6Z9', 'Q62630'}, {'Hypoxia-inducible factor prolyl hydroxylase 3'}
+glycinin A5A4B3, 3, 0, undetermined, , {'P02858'}, {'Glycinin A5A4B3'}
+fatty acid-binding protein, intestinal, 3, 0, undetermined, , {'P81175', 'Q45KW7', 'P55050', 'Q56JX9', 'P02693', 'Q91775', 'P12104'}, {'Fatty acid-binding protein, intestinal'}
+cyclin-dependent-like kinase 5, 3, 0, undetermined, , {'Q02399', 'G5ECH7', 'Q03114', 'P49615', 'P51166', 'Q00535'}, {'Cyclin-dependent-like kinase 5'}
+alpha-1,2-mannosyltransferases, 3, 0, undetermined, , {'P27809'}, {'Alpha-1,2-mannosyltransferase'}
+Spindle and kinetochore-associated protein 2, 3, 0, undetermined, , {'Q4R8E8', 'B5X5N3', 'Q2TBY0', 'Q0P426', 'Q9CR46', 'Q5I0J4', 'Q8WVK7'}, {'Spindle and kinetochore-associated protein 2'}
+ROOT HAIR DEFECTIVE 6-LIKE 4, 3, 0, undetermined, , {'Q8LEG1'}, {'ROOT HAIR DEFECTIVE 6-LIKE 4'}
+Phosphatidylinositol 5-phosphate 4-kinase, 3, 0, undetermined, , {'P48426', 'O70172'}, {'Phosphatidylinositol 5-Phosphate 4-Kinase'}
+MyoD family inhibitor domain-containing protein, 3, 0, undetermined, , {'Q98SK0', 'Q8BX65', 'Q9P1T7'}, {'MyoD family inhibitor domain-containing protein'}
+L(+)-mandelate dehydrogenases, 3, 0, undetermined, , {'P32953', 'P20932'}, {'L(+)-mandelate dehydrogenase'}
+CCAAT/enhancer-binding proteins β, 3, 0, undetermined, , {'P28033', 'P17676', 'O02755', 'P21272', 'Q05826'}, {'CCAAT/enhancer-binding protein beta'}
+CCAAT/enhancer-binding  protein alpha, 3, 0, undetermined, , {'P49715', 'O02754', 'P05554', 'P53566'}, {'CCAAT/enhancer-binding protein alpha'}
+κ-TRTX-Ec2c, 2, 0, undetermined, , {'P0DQO7'}, {'Kappa-TRTX-Ec2c'}
+β-actin-like protein 2, 2, 0, undetermined, , {'Q562R1', 'Q8BFZ3'}, {'Beta-actin-like protein 2'}
+α-helical pore-forming toxins, 2, 0, undetermined, , {'B9W5G6', 'A0A515MEM9', 'P0DUW9', 'A0A515MEN7', 'P0DUW8'}, {'Alpha-helical pore-forming toxin'}
+α-1-acid glycoprotein 2, 2, 0, undetermined, , {'P07361', 'P19652'}, {'Alpha-1-acid glycoprotein 2'}
+α-1,2-Mannosidases, 2, 0, undetermined, , {'O18498'}, {'Alpha-1,2-mannosidase'}
+α-1, 2-mannosidase, 2, 0, undetermined, , {'O18498'}, {'Alpha-1,2-mannosidase'}
+zinc finger transcription factor PQM-1, 2, 0, undetermined, , {'G5EFY7'}, {'Zinc finger transcription factor pqm-1'}
+ubiquitin-specific-processing protease 35, 2, 0, undetermined, , {'Q9P2H5'}, {'Ubiquitin-specific-processing protease 35'}
+ubiquitin-like-specific protease 1, 2, 0, undetermined, , {'O42957', 'Q02724'}, {'Ubiquitin-like-specific protease 1'}
+ubiquitin-conjugating enzyme E2K, 2, 0, undetermined, , {'P61087', 'P61085', 'P61086'}, {'Ubiquitin-conjugating enzyme E2 K'}
+ubiquitin-conjugating enzyme E2 T, 2, 0, undetermined, , {'Q9CQ37', 'Q08BH7', 'Q7ZY08', 'Q32LD2', 'Q9NPD8'}, {'Ubiquitin-conjugating enzyme E2 T'}
+triggering receptors expressed on myeloid cells 1, 2, 0, undetermined, , {'Q5RDA5', 'Q9NP99', 'Q6QUN5', 'Q9JKE2', 'Q6TYI6'}, {'Triggering receptor expressed on myeloid cells 1'}
+transmembrane AMPAR regulatory protein γ-8, 2, 0, undetermined, , {'Q8VHW5', 'Q8WXS5', 'Q8VHW2'}, {'Transmembrane AMPAR regulatory protein gamma-8'}
+transcription antitermination factor M2-1, 2, 0, undetermined, , {'O42050', 'Q5MKM1', 'P04545', 'P29792'}, {'Transcription antitermination factor M2-1'}
+serine/threonine-protein phosphatase 1, 2, 0, undetermined, , {'Q8ZNY9', 'P55798'}, {'Serine/threonine-protein phosphatase 1'}
+secretory carrier-associated membrane protein 3, 2, 0, undetermined, , {'O35609', 'Q58DR5', 'Q9M5P2', 'Q60EA5', 'O14828'}, {'Secretory carrier-associated membrane protein 3'}
+sarcoplasmic/endoplasmic reticulum calcium ATPase 3, 2, 0, undetermined, , {'P18596', 'Q64518', 'O77696', 'Q93084', 'Q9YGL9'}, {'Sarcoplasmic/endoplasmic reticulum calcium ATPase 3'}
+ribosomal 5 S RNA-binding protein, 2, 0, undetermined, , {'P26321'}, {'Ribosomal 5S RNA-binding protein'}
+retinoic acid-degrading enzyme CYP26, 2, 0, undetermined, , {'Q9PUB4', 'O93323'}, {'Retinoic acid-degrading enzyme CYP26'}
+regulator of G-protein signaling 12, 2, 0, undetermined, , {'O08774', 'O14924', 'Q8CGE9'}, {'Regulator of G-protein signaling 12'}
+ras-related protein Ral-A, 2, 0, undetermined, , {'P63322', 'P48555', 'P63321', 'P11233', 'P63320'}, {'Ras-related protein Ral-A', 'Ras-related protein Ral-a'}
+protein kinase C-interacting protein 1, 2, 0, undetermined, , {'P62959', 'P62958', 'P70349', 'P49773'}, {'Protein kinase C-interacting protein 1'}
+nuclear valosin-containing protein-like, 2, 0, undetermined, , {'O15381', 'Q54SY2', 'Q9DBY8'}, {'Nuclear valosin-containing protein-like'}
+non-haem iron halogenase SyrB2, 2, 0, undetermined, , {'Q9RBY6'}, {'Non-haem iron halogenase SyrB2'}
+mitogen-activated protein kinase kinases1, 2, 0, undetermined, , {'Q94A06', 'Q0D598', 'A2YMV6', 'Q5QN75'}, {'Mitogen-activated protein kinase kinase 1'}
+mitochondrial 3-oxoacyl-CoA thiolases, 2, 0, undetermined, , {'P13437', 'Q5RES5', 'P42765', 'Q8BWT1', 'Q3T0R7'}, {'Mitochondrial 3-oxoacyl-CoA thiolase'}
+membrane-type-2 matrix metalloproteinase, 2, 0, undetermined, , {'O54732', 'P51511'}, {'Membrane-type-2 matrix metalloproteinase'}
+membrane-associated guanylate kinase inverted 3, 2, 0, undetermined, , {'Q5TCQ9', 'Q5F488', 'Q9EQJ9', 'Q9JK71', 'A1A5G4'}, {'Membrane-associated guanylate kinase inverted 3'}
+mannose 6-phosphate-uncovering enzyme, 2, 0, undetermined, , {'Q8BJ48', 'Q9UK23', 'P68827'}, {'Mannose 6-phosphate-uncovering enzyme'}
+long-chain fatty acid transport proteins, 2, 0, undetermined, , {'Q8XCN6', 'Q8CVU7', 'P59741', 'Q8ZNA5', 'P10384', 'Q8Z4Y8'}, {'Long-chain fatty acid transport protein'}
+long chain acyl-CoA synthetase 5, 2, 0, undetermined, , {'Q9T009'}, {'Long chain acyl-CoA synthetase 5'}
+long chain acyl-CoA synthetase 4, 2, 0, undetermined, , {'Q9T0A0'}, {'Long chain acyl-CoA synthetase 4'}
+keratin-associated protein 6-1, 2, 0, undetermined, , {'Q3LI64', 'Q02957', 'Q02958'}, {'Keratin-associated protein 6-1'}
+katanin-like microtubule-severing protein, 2, 0, undetermined, , {'Q9SEX2'}, {'Katanin-like microtubule-severing protein'}
+juxtaposed with another zinc finger protein 1, 2, 0, undetermined, , {'Q5RDF5', 'Q86VZ6', 'Q80ZQ5'}, {'Juxtaposed with another zinc finger protein 1'}
+iron-regulated surface determinant protein B, 2, 0, undetermined, , {'Q6GA86', 'Q8NX66', 'Q2YX96', 'Q2FZF0', 'Q5HGV5', 'Q7A656', 'P0C7J5', 'Q99UX5', 'A5IS15', 'A7X146', 'Q6GHV7', 'A6U0U6', 'A6QG30', 'Q2FHV2'}, {'Iron-regulated surface determinant protein B'}
+inositol polyphosphate-5-phosphatase A, 2, 0, undetermined, , {'Q14642', 'Q29467', 'Q7TNC9', 'D3ZZX1'}, {'Inositol polyphosphate-5-phosphatase A'}
+inositol polyphosphate 4-phosphatase-1, 2, 0, undetermined, , {'Q9EPW0'}, {'Inositol polyphosphate 4-phosphatase-1'}
+glyceraldehyde-3-phosphate dehydrogenase I, 2, 0, undetermined, , {'P07486'}, {'Glyceraldehyde-3-phosphate dehydrogenase I'}
+glutathione S-transferase α-2, 2, 0, undetermined, , {'O18879', 'P04903'}, {'Glutathione S-transferase alpha-2'}
+flavonoid 4'-O-methyltransferase, 2, 0, undetermined, , {'C6TAY1'}, {"Flavonoid 4'-O-methyltransferase"}
+factor associated with N-SMase activation, 2, 0, undetermined, , {'O35242', 'Q92636'}, {'Factor associated with N-SMase activation'}
+ethylene-responsive transcription factor 1B, 2, 0, undetermined, , {'Q8LDC8'}, {'Ethylene-responsive transcription factor 1B'}
+dual specificity Yak1-related kinase, 2, 0, undetermined, , {'Q63470', 'Q61214', 'Q13627', 'P85051'}, {'Dual specificity YAK1-related kinase'}
+differentiation-specific element-binding protein, 2, 0, undetermined, , {'P35601'}, {'Differentiation-specific element-binding protein'}
+cytochrome c oxidase subunit VIb isoform 1, 2, 0, undetermined, , {'P80430', 'P56391', 'Q7YRK6', 'Q53CG4', 'P14854', 'Q4R374', 'Q5RCT0', 'P00429'}, {'Cytochrome c oxidase subunit VIb isoform 1'}
+cytochrome bc1 complex cytochrome b subunit, 2, 0, undetermined, , {'Q6NGA3', 'Q79VE9', 'Q9ZFB6', 'P9WP36', 'Q9X806', 'P9WP37', 'P15878', 'Q8FNR2', 'P63886'}, {'Cytochrome bc1 complex cytochrome b subunit'}
+cysteine-rich interactor of PDZ3, 2, 0, undetermined, , {'Q1WCC0', 'Q6NU28', 'Q567Z6', 'O70333', 'Q792Q4', 'Q9P021', 'Q3ZC66', 'Q5ZKB6'}, {'Cysteine-rich interactor of PDZ3'}
+cyclin-dependent kinase inhibitor 2 A, 2, 0, undetermined, , {'P42771', 'Q64364', 'O77617', 'Q9R0Z3', 'P51480', 'O77618', 'Q8QZZ9', 'Q8N726'}, {'Cyclin-dependent kinase inhibitor 2A'}
+cancer-related regulator of actin dynamics, 2, 0, undetermined, , {'Q6ZU35', 'Q5PR69'}, {'Cancer-related regulator of actin dynamics'}
+calcium/ calmodulin-dependent protein kinase, 2, 0, undetermined, , {'Q24210', 'O14408'}, {'Calcium/calmodulin-dependent protein kinase'}
+cGMP-binding cGMP-specific phosphodiesterases, 2, 0, undetermined, , {'Q8CG03', 'O77746', 'O54735', 'Q28156', 'O76074'}, {'cGMP-binding cGMP-specific phosphodiesterase'}
+beta-1, 4-mannosyltransferases, 2, 0, undetermined, , {'Q6C3K2', 'Q6FLZ2', 'P90522', 'Q6CVU2', 'Q75BA5', 'Q9BT22', 'Q59Q79', 'Q921Q3', 'P16661', 'Q6BS98', 'O13933', 'Q5R7A2'}, {'Beta-1,4-mannosyltransferase'}
+b(0, +)AT, 2, 0, undetermined, , {'P82252', 'Q9N1R6'}, {'b(0,+)AT'}
+autophagy-related protein 2 homolog B, 2, 0, undetermined, , {'Q80XK6', 'Q96BY7'}, {'Autophagy-related protein 2 homolog B'}
+arylalkylamine N-acetyltransferase-like 2, 2, 0, undetermined, , {'Q9VMG0'}, {'Arylalkylamine N-acetyltransferase-like 2'}
+alpha-ketoglutarate-dependent dioxygenase FTO, 2, 0, undetermined, , {'Q5R7X0', 'Q68F54', 'F1PLN3', 'Q8BGW1', 'Q2A121', 'Q9C0B1'}, {'Alpha-ketoglutarate-dependent dioxygenase FTO'}
+alpha-amylase inhibitor Z-2685, 2, 0, undetermined, , {'P07512'}, {'Alpha-amylase inhibitor Z-2685'}
+alpha-1,6-mannosidase, 2, 0, undetermined, , {'Q9Y2E5'}, {'Alpha-1,6-mannosidase'}
+alpha-1, 2-mannosidase, 2, 0, undetermined, , {'O18498'}, {'Alpha-1,2-mannosidase'}
+alkyl hydroperoxide reductase F52a protein, 2, 0, undetermined, , {'P19480', 'P35340'}, {'Alkyl hydroperoxide reductase F52A protein'}
+acyl-CoA delta-9 desaturase, 2, 0, undetermined, , {'Q9BH41'}, {'Acyl-CoA Delta-9 desaturase'}
+acyl-CoA dehydrogenase family member 9, 2, 0, undetermined, , {'B1WC61', 'Q9H845', 'Q8JZN5'}, {'Acyl-CoA dehydrogenase family member 9'}
+Ubiquitin-Conjugating Enzyme E2T, 2, 0, undetermined, , {'Q9CQ37', 'Q08BH7', 'Q7ZY08', 'Q32LD2', 'Q9NPD8'}, {'Ubiquitin-conjugating enzyme E2 T'}
+Toxins C13S1C3, 2, 0, undetermined, , {'P00982'}, {'Toxin C13S1C3'}
+Talin rod domain-containing protein 1, 2, 0, undetermined, , {'Q9H1K6', 'Q9ERE8'}, {'Talin rod domain-containing protein 1'}
+Steroid receptor-associated and regulated protein, 2, 0, undetermined, , {'Q3ULG3', 'Q8NEQ6'}, {'Steroid receptor-associated and regulated protein'}
+Sodium/Imino-acid Transporter 1, 2, 0, undetermined, , {'Q9NP91', 'Q64093'}, {'Sodium/imino-acid transporter 1'}
+S100 Calcium-Binding Protein P, 2, 0, undetermined, , {'P25815'}, {'S100 calcium-binding protein P'}
+Rieske oxygenase DAF-36/Neverland, 2, 0, undetermined, , {'Q17938'}, {'Rieske oxygenase DAF-36/Neverland'}
+Regulator of G-protein signaling 12, 2, 0, undetermined, , {'O08774', 'O14924', 'Q8CGE9'}, {'Regulator of G-protein signaling 12'}
+RAD52 motif-containing protein 1, 2, 0, undetermined, , {'Q8JFQ4', 'Q4R856', 'Q9CQK3', 'Q5U3G4', 'Q8NG50'}, {'RAD52 motif-containing protein 1'}
+Protein-tyrosine phosphatase 4A3, 2, 0, undetermined, , {'A2VDT1', 'O75365', 'Q9D658'}, {'Protein-tyrosine phosphatase 4a3'}
+Protein-tyrosine Phosphatase 4A3, 2, 0, undetermined, , {'A2VDT1', 'O75365', 'Q9D658'}, {'Protein-tyrosine phosphatase 4a3'}
+Poly(U)-binding protein, 2, 0, undetermined, , {'P32588'}, {'Poly(U)-binding protein'}
+Phospholipid Phosphatase-Related Protein Type 1, 2, 0, undetermined, , {'Q8BFZ2', 'Q6WAY2', 'Q8TBJ4', 'A4II83', 'Q6IQH6'}, {'Phospholipid phosphatase-related protein type 1'}
+PI3K-interacting protein 1, 2, 0, undetermined, , {'Q96FE7'}, {'PI3K-interacting protein 1'}
+NADPH-dependent enoyl-ACP reductase, 2, 0, undetermined, , {'Q2FZQ3', 'Q6GI75', 'P71079'}, {'NADPH-dependent enoyl-ACP reductase'}
+NADH-dependent l-xylulose reductase, 2, 0, undetermined, , {'Q70FD1'}, {'NADH-dependent L-xylulose reductase'}
+Interferon-stimulated gene 20 kDa protein, 2, 0, undetermined, , {'Q96AZ6', 'Q66UW5', 'Q9JL16'}, {'Interferon-stimulated gene 20 kDa protein'}
+Inositol Polyphosphate-5-Phosphatase A, 2, 0, undetermined, , {'Q14642', 'Q29467', 'Q7TNC9', 'D3ZZX1'}, {'Inositol polyphosphate-5-phosphatase A'}
+HSP70-HSP90 organizing proteins, 2, 0, undetermined, , {'F8RP11'}, {'Hsp70-Hsp90 organizing protein'}
+HEAT repeat-containing protein 5B, 2, 0, undetermined, , {'Q8C547', 'Q9P2D3', 'A1A5F2'}, {'HEAT repeat-containing protein 5B'}
+Glucosamine-6-Phosphate Isomerase 1, 2, 0, undetermined, , {'O35000', 'A4FV08', 'P46926', 'O97439', 'O88958', 'Q64422', 'Q5R8T8'}, {'Glucosamine-6-phosphate isomerase 1'}
+Gap1(IP4BP), 2, 0, undetermined, , {'Q28013', 'Q9QYJ2', 'Q14644', 'Q60790'}, {'GAP1(IP4BP)'}
+Exchange Protein Directly Activated by cAMP 2, 2, 0, undetermined, , {'Q8WZA2', 'Q9EQZ6', 'Q9Z1C7'}, {'Exchange protein directly activated by cAMP 2'}
+Eukaryotic translation initiation factor 3 subunit C, 2, 0, undetermined, , {'A4QSX4', 'A5DPQ5', 'Q0CVT0', 'Q4W9S8', 'A1D9P1', 'Q6BJF7', 'Q1DP77', 'Q99613', 'Q6C855', 'Q2U0Q9', 'Q2H731', 'B4KN00', 'B0W0S3', 'A8WWU0', 'Q9XHM1', 'Q6P1V4', 'O02328', 'Q0ZB76', 'Q6CLH3', 'B4GIB1', 'Q17Q06', 'B4MRZ8', 'Q5AML1', 'B4HMY3', 'Q3SYW6', 'Q7PMU8', 'A3GGB4', 'Q0V1H5', 'O49160', 'Q4QR58', 'B4P562', 'Q7SBD4', 'Q28Z41', 'A1C987', 'A5E3Q2', 'Q5AX75', 'Q5RAT8', 'P0CN47', 'Q6FIJ6', 'A1ZAX1', 'O14164', 'Q8R1B4', 'A7TML4', 'Q6PFQ2', 'Q54X97', 'Q4P0P0', 'A6ZN26', 'P0CN46', 'A7E471', 'P32497', 'B4J789', 'A6S043', 'Q751S5', 'B3MIF1', 'B5DFC8', 'B4LNA1', 'B0YEH1', 'B3NML0'}, {'Eukaryotic translation initiation factor 3 subunit C'}
+E3 ubiquitin-protein ligase Chfr, 2, 0, undetermined, , {'Q5RF77', 'Q96EP1', 'A5WW08', 'Q5FWP4', 'Q6P256', 'Q810L3'}, {'E3 ubiquitin-protein ligase CHFR'}
+Differentiation Antagonizing Non-Protein Coding RNA, 2, 0, undetermined, , {'P0C864'}, {'Differentiation antagonizing non-protein coding RNA'}
+Deleted in azoospermia-associated protein 2, 2, 0, undetermined, , {'Q3T0K9', 'Q5R526', 'P60486', 'Q9DCP9', 'Q4R5H7', 'Q15038'}, {'Deleted in azoospermia-associated protein 2'}
+DNA-directed RNA polymerase subunit L, 2, 0, undetermined, , {'C3MXM0', 'Q6L204', 'A0B533', 'Q57832', 'Q5JE88', 'Q8PVT0', 'A6VIQ1', 'A9A836', 'C3MRD1', 'C4KIP6', 'P57671', 'B8YB62', 'A4YHV0', 'A4FZS6', 'B9LTT8', 'Q18JI2', 'Q8ZW46', 'C3MZG6', 'Q12W27', 'Q9V2M4', 'Q3INY0', 'Q8U4N1', 'Q9HR53', 'C3N7I8', 'Q978F5', 'Q6M0K9', 'Q0W8P1', 'B0R4B1', 'B1L7Q7', 'O27372', 'Q9HIC5', 'Q9YEZ1', 'C6A1R5', 'B6YTH7', 'P46217', 'Q8TSS4', 'Q980K0', 'C5A5J3', 'Q46C10', 'A6URP9', 'C3NFY8', 'O30032', 'Q5V2C7', 'Q96YA7', 'Q8TZ81', 'Q74MN9'}, {'DNA-directed RNA polymerase subunit L'}
+Cytochrome C Oxidase Assembly Factor 1 Homolog, 2, 0, undetermined, , {'Q9GZY4'}, {'Cytochrome c oxidase assembly factor 1 homolog'}
+Cyclin-dependent-like kinase 5, 2, 0, undetermined, , {'Q02399', 'G5ECH7', 'Q03114', 'P49615', 'P51166', 'Q00535'}, {'Cyclin-dependent-like kinase 5'}
+Cutaneous T-cell-attracting chemokine, 2, 0, undetermined, , {'Q9Y4X3', 'Q9Z1X0'}, {'Cutaneous T-cell-attracting chemokine'}
+CUGBP elav-like family member 1, 2, 0, undetermined, , {'Q5R995', 'Q5F3T7', 'Q4QQT3', 'Q9IBD0', 'Q28HE9', 'Q92879', 'P28659'}, {'CUGBP Elav-like family member 1'}
+CCAAT/Enhancer-Binding Protein α, 2, 0, undetermined, , {'P49715', 'O02754', 'P05554', 'P53566'}, {'CCAAT/enhancer-binding protein alpha'}
+Bcl-2-associated athanogene 7, 2, 0, undetermined, , {'Q9LVA0'}, {'Bcl-2-associated athanogene 7'}
+B-and T-lymphocyte attenuator, 2, 0, undetermined, , {'Q6PNM1', 'Q7Z6A9', 'Q7TSA3'}, {'B- and T-lymphocyte attenuator'}
+AP2-associated protein kinase 1, 2, 0, undetermined, , {'F1SPM8', 'Q3UHJ0', 'P0C1X8', 'Q2M2I8', 'F1MH24'}, {'AP2-associated protein kinase 1'}
+ADENOSINE 5'-PHOSPHOSULFATE REDUCTASE2, 2, 0, undetermined, , {'O06737'}, {"Adenosine 5'-phosphosulfate reductase 2"}
+7,8-Diaminopelargonic acid synthase, 2, 0, undetermined, , {'P9WQ81'}, {'7,8-diaminopelargonic acid synthase'}
+60S ribosomal protein L7a, 2, 0, undetermined, , {'Q29375', 'Q54ZD1', 'P62424', 'P0DJ14', 'O57592', 'P62425', 'P32429', 'Q8SSG1', 'Q966C6', 'P12970', 'Q4R5C2', 'P46223', 'Q90YW2', 'O76732', 'Q2TBQ5'}, {'60S ribosomal protein L7a'}
+60 S acidic ribosomal protein P0, 2, 0, undetermined, , {'Q29214', 'P05317', 'P29764', 'Q9DG68', 'Q9BMP6', 'P05388', 'P19945', 'Q94660', 'O74864', 'O24573', 'Q9U3U0', 'P26796', 'Q93572', 'P14869', 'Q95140', 'Q90YX1', 'P47826', 'P39097', 'P50346', 'P39096', 'P22685', 'Q967Y7', 'Q8SRJ7', 'Q9PV90', 'Q9C3Z6', 'Q96TJ5', 'P50345', 'P41095', 'P19889'}, {'60S acidic ribosomal protein P0'}
+5-Azacytidine-induced protein 2, 2, 0, undetermined, , {'Q5RD40', 'Q3SYW5', 'Q9QYP6', 'Q9H6S1', 'Q4KMA0', 'Q4R3X1'}, {'5-azacytidine-induced protein 2'}
+4-coumarate:CoA ligase1, 2, 0, undetermined, , {'I3PB37'}, {'4-coumarate:CoA ligase 1'}
+(Pab)Trm-G10, 2, 0, undetermined, , {'Q9UY84'}, {'(Pab)Trm-G10'}
+ω-HXTX-Hv1a, 1, 0, undetermined, , {'P56207'}, {'Omega-HXTX-Hv1a'}
+μ-EPTX-Na1a, 1, 0, undetermined, , {'P0DUK7'}, {'Mu-EPTX-Na1a'}
+δ-HXTX-Ar1a, 1, 0, undetermined, , {'P01478'}, {'Delta-HXTX-Ar1a'}
+β-theraphotoxin-Cj2a, 1, 0, undetermined, , {'Q2PAY4'}, {'Beta-theraphotoxin-Cj2a'}
+β-site app cleaving enzyme 1, 1, 0, undetermined, , {'Q1KLR6', 'P56817', 'Q2HJ40', 'P56819', 'P56818'}, {'Beta-site APP cleaving enzyme 1'}
+β-catenin-like protein 1, 1, 0, undetermined, , {'O62703', 'Q4V8K2', 'Q9CWL8', 'Q8WYA6'}, {'Beta-catenin-like protein 1'}
+β-Theraphotoxin-Cj2a, 1, 0, undetermined, , {'Q2PAY4'}, {'Beta-theraphotoxin-Cj2a'}
+β-N-acetylhexosaminidases Am2301, 1, 0, undetermined, , {'B2UP57'}, {'Beta-N-acetylhexosaminidase Am2301'}
+β-N-acetylhexosaminidase Am0868, 1, 0, undetermined, , {'B2UQG6'}, {'Beta-N-acetylhexosaminidase Am0868'}
+β-Diguetoxin-Dc1a, 1, 0, undetermined, , {'P49126'}, {'Beta-diguetoxin-Dc1a'}
+β-1,3-endoglucanases, 1, 0, undetermined, , {'P49236', 'P52407', 'P52395', 'P36401', 'P33157', 'P52396', 'Q03467', 'P23433', 'P52397', 'P86102', 'P52402', 'P49237', 'P52409', 'P23535', 'P85483', 'P23547', 'A7PQW3', 'Q06915', 'P52401', 'P23432', 'P50694', 'P52398', 'P52400', 'Q03773', 'P52399', 'P52408'}, {'Beta-1,3-endoglucanase'}
+β-1,2-glucanases, 1, 0, undetermined, , {'A6LGF6'}, {'Beta-1,2-glucanase'}
+β-1, 3- glucanase, 1, 0, undetermined, , {'B3EWS0', 'G5DC91', 'O22317'}, {'Beta-1,3-glucanase'}
+α-ketoglutarate-dependent dioxygenase alkB, 1, 0, undetermined, , {'P37462', 'P05050', 'Q54N08', 'Q9SA98'}, {'Alpha-ketoglutarate-dependent dioxygenase alkB', 'Alpha-ketoglutarate-dependent dioxygenase AlkB'}
+α-Ketoglutarate-Dependent Dioxygenase AlkB, 1, 0, undetermined, , {'P37462', 'P05050', 'Q54N08', 'Q9SA98'}, {'Alpha-ketoglutarate-dependent dioxygenase alkB', 'Alpha-ketoglutarate-dependent dioxygenase AlkB'}
+α-Helical Pore-Forming Toxin, 1, 0, undetermined, , {'B9W5G6', 'A0A515MEM9', 'P0DUW9', 'A0A515MEN7', 'P0DUW8'}, {'Alpha-helical pore-forming toxin'}
+α-1,6-mannosidase, 1, 0, undetermined, , {'Q9Y2E5'}, {'Alpha-1,6-mannosidase'}
+α-1,4-glucosidases, 1, 0, undetermined, , {'O43451'}, {'Alpha-1,4-glucosidase'}
+α-1,4-Glucosidase, 1, 0, undetermined, , {'O43451'}, {'Alpha-1,4-glucosidase'}
+α-1,2-Mannosidase, 1, 0, undetermined, , {'O18498'}, {'Alpha-1,2-mannosidase'}
+zinc-α-2-glycoproteins, 1, 0, undetermined, , {'P25311', 'Q64726', 'Q3ZCH5', 'Q63678'}, {'Zinc-alpha-2-glycoprotein'}
+zinc finger-containing ubiquitin peptidase 1, 1, 0, undetermined, , {'Q96AP4', 'Q4R4A2', 'Q3SWY8', 'Q3T9Z9', 'Q5U2S3'}, {'Zinc finger-containing ubiquitin peptidase 1'}
+zinc finger MYM-type protein 3, 1, 0, undetermined, , {'Q9JLM4', 'Q14202'}, {'Zinc finger MYM-type protein 3'}
+xeroderma pigmentosum group B-complementing protein, 1, 0, undetermined, , {'P19447', 'P49135'}, {'Xeroderma pigmentosum group B-complementing protein'}
+vanillate/3MGA O-demethylase, 1, 0, undetermined, , {'G2IQS7'}, {'Vanillate/3MGA O-demethylase'}
+vacuolar protein sorting-associated protein 54, 1, 0, undetermined, , {'Q9P1Q0', 'Q9JMK8', 'Q12071', 'Q9VLC0', 'Q22639', 'Q61JT8', 'Q5SPW0', 'O14093'}, {'Vacuolar protein sorting-associated protein 54'}
+vacuolar protein sorting-associated protein 26, 1, 0, undetermined, , {'Q9W552', 'O01258', 'P40335', 'Q8I4T1', 'Q10243', 'Q55CA0'}, {'Vacuolar protein sorting-associated protein 26'}
+vacuolar protein sorting-associated protein 18, 1, 0, undetermined, , {'O74925', 'P27801'}, {'Vacuolar protein sorting-associated protein 18'}
+vacuolar protein sorting-associated protein 13, 1, 0, undetermined, , {'Q07878', 'A1Z713'}, {'Vacuolar protein sorting-associated protein 13'}
+ubiquitin-specific-processing protease 11, 1, 0, undetermined, , {'Q5D006', 'Q9MAQ3', 'Q01988', 'Q9UUD6', 'P51784', 'P36026', 'Q99K46'}, {'Ubiquitin-specific-processing protease 11'}
+ubiquitin-conjugating enzyme E2 F, 1, 0, undetermined, , {'Q6IRC7', 'Q969M7', 'Q5U203', 'Q6NY82', 'Q9CY34', 'Q1RMW1', 'Q5ZKX6', 'Q5M8Y2'}, {'Ubiquitin-conjugating enzyme E2 F'}
+ubiquitin- conjugating enzyme E2C, 1, 0, undetermined, , {'Q9D1C1', 'P56616', 'Q32PA5', 'Q95044', 'O00762', 'Q4R9D1', 'Q9VTY6'}, {'Ubiquitin-conjugating enzyme E2 C'}
+tyrosine-protein kinase-like 7, 1, 0, undetermined, , {'Q13308', 'Q8BKG3', 'Q91048'}, {'Tyrosine-protein kinase-like 7'}
+tyrosine-protein kinase receptor TYRO3, 1, 0, undetermined, , {'Q9YI66', 'P55144', 'Q98949', 'Q8QFP9', 'P55146', 'Q06418', 'A0JM20'}, {'Tyrosine-protein kinase receptor TYRO3'}
+tyrosine-protein kinase ZAP-70, 1, 0, undetermined, , {'P43403', 'P43404'}, {'Tyrosine-protein kinase ZAP-70'}
+type III restriction enzyme EcoP15I, 1, 0, undetermined, , {'Q5ZND2'}, {'Type III restriction enzyme EcoP15I'}
+tumor necrosis factor receptor superfamily member 3, 1, 0, undetermined, , {'P36941', 'P50284'}, {'Tumor necrosis factor receptor superfamily member 3'}
+tumor necrosis factor receptor superfamily member 17, 1, 0, undetermined, , {'Q02223', 'O88472'}, {'Tumor necrosis factor receptor superfamily member 17'}
+tudor and KH domain-containing protein, 1, 0, undetermined, , {'Q9Y2W6', 'Q80VL1'}, {'Tudor and KH domain-containing protein'}
+tryptophan 2, 3-dioxygenase 2, 1, 0, undetermined, , {'Q8XRY7'}, {'Tryptophan 2,3-dioxygenase 2'}
+triggering receptors expressed on myeloid cells1, 1, 0, undetermined, , {'Q5RDA5', 'Q9NP99', 'Q6QUN5', 'Q9JKE2', 'Q6TYI6'}, {'Triggering receptor expressed on myeloid cells 1'}
+triggering receptor expressed on myeloid cells 3, 1, 0, undetermined, , {'Q9JKE1'}, {'Triggering receptor expressed on myeloid cells 3'}
+trifunctional sesterterpene/triterpene/sesquarterpene synthase, 1, 0, undetermined, , {'M5AW86'}, {'Trifunctional sesterterpene/triterpene/sesquarterpene synthase'}
+transmembrane 4 L6 family member 4, 1, 0, undetermined, , {'Q91XD3', 'Q9EQL5', 'P48230', 'Q5R6Z4'}, {'Transmembrane 4 L6 family member 4'}
+transforming growth factor beta-2 proprotein, 1, 0, undetermined, , {'P61812', 'P27090', 'Q38L25', 'P09858', 'P61811', 'P17247', 'P21214', 'P30371', 'Q07257'}, {'Transforming growth factor beta-2 proprotein'}
+transcription factor AP-1 subunit JUNB, 1, 0, undetermined, , {'P09450', 'Q0VBZ5', 'P17275', 'P24898', 'P79703'}, {'Transcription factor AP-1 subunit JunB'}
+toxins C13S1C3, 1, 0, undetermined, , {'P00982'}, {'Toxin C13S1C3'}
+toxins C10S2C2, 1, 0, undetermined, , {'P25684'}, {'Toxin C10S2C2'}
+thyroid hormone receptor-interacting protein 1, 1, 0, undetermined, , {'P62198', 'P62195'}, {'Thyroid hormone receptor-interacting protein 1'}
+t-complex protein 1 subunit alpha, 1, 0, undetermined, , {'O15891', 'Q94757', 'P12613', 'Q4R5G2', 'P41988', 'P12612', 'O94501', 'P17987', 'P28769', 'P18279', 'Q32L40', 'P50157', 'Q8SSC9', 'Q9W790', 'Q55BM4', 'Q9XT06', 'P28480', 'P11983', 'P86208'}, {'T-complex protein 1 subunit alpha'}
+suppressor of variegation 4-20 homolog, 1, 0, undetermined, , {'Q09265'}, {'Suppressor of variegation 4-20 homolog'}
+super conserved receptor expressed in brain 3, 1, 0, undetermined, , {'Q9JJH2', 'Q9NS66', 'Q6PI62', 'Q9I918'}, {'Super conserved receptor expressed in brain 3'}
+su(var) 3-9, 1, 0, undetermined, , {'Q294B9', 'P45975'}, {'Su(var)3-9'}
+structural maintenance of chromosomes protein1A, 1, 0, undetermined, , {'O97593', 'O93308', 'Q14683', 'Q9CU62', 'Q9Z1M9'}, {'Structural maintenance of chromosomes protein 1A'}
+structural maintenance of chromosomes protein 1A, 1, 0, undetermined, , {'O97593', 'O93308', 'Q14683', 'Q9CU62', 'Q9Z1M9'}, {'Structural maintenance of chromosomes protein 1A'}
+straight-chain Acyl-CoA oxidase, 1, 0, undetermined, , {'P11915', 'Q15067', 'P22307', 'P32020'}, {'Straight-chain acyl-CoA oxidase'}
+sterol regulatory element-binding proteins1, 1, 0, undetermined, , {'P36956', 'P56720', 'Q9WTN3', 'Q60416', 'O97676', 'Q9UUD1'}, {'Sterol regulatory element-binding protein 1'}
+steroid side-chain-cleaving aldolase, 1, 0, undetermined, , {'D1AB74'}, {'Steroid side-chain-cleaving aldolase'}
+steroid 5-alpha-reductase 1, 1, 0, undetermined, , {'P18405', 'Q28891', 'Q68FF9', 'P24008', 'A5PJS2'}, {'Steroid 5-alpha-reductase 1'}
+stearoyl-CoA desaturase FAT-7, 1, 0, undetermined, , {'G5EGH6'}, {'Stearoyl-CoA desaturase fat-7'}
+spindle pole body assembly component mps3, 1, 0, undetermined, , {'P47069'}, {'Spindle pole body assembly component MPS3'}
+spindle pole body assembly component Mps3, 1, 0, undetermined, , {'P47069'}, {'Spindle pole body assembly component MPS3'}
+spindle and kinetochore-associated protein 3, 1, 0, undetermined, , {'A8PUI7', 'B1H1S4', 'Q8IX90', 'B0BM16', 'B2GUZ2', 'Q8C263', 'Q58EL7'}, {'Spindle and kinetochore-associated protein 3'}
+sphingosine-1-phosphate phosphatases 1, 1, 0, undetermined, , {'Q99P55', 'Q9JI99', 'Q9BX95'}, {'Sphingosine-1-phosphate phosphatase 1'}
+spermatogenic cell HDAC-interacting protein 1, 1, 0, undetermined, , {'Q0GGX2'}, {'Spermatogenic cell HDAC-interacting protein 1'}
+spermatogenesis-associated protein 31D1, 1, 0, undetermined, , {'Q6ZQQ2'}, {'Spermatogenesis-associated protein 31D1'}
+solute carrier family 35 member G1, 1, 0, undetermined, , {'Q2M3R5', 'Q8BY79'}, {'Solute carrier family 35 member G1'}
+sodium-dependent vitamin C transporters 2, 1, 0, undetermined, , {'Q9WTW8', 'Q9UGH3', 'B0JZG0', 'Q9EPR4'}, {'Sodium-dependent vitamin C transporter 2'}
+sodium channel protein type 9 subunit alpha, 1, 0, undetermined, , {'Q15858', 'Q62205', 'Q28644', 'O08562'}, {'Sodium channel protein type 9 subunit alpha'}
+sodium channel protein type 4 subunit alpha, 1, 0, undetermined, , {'P35499', 'Q9ER60', 'P15390', 'Q28371'}, {'Sodium channel protein type 4 subunit alpha'}
+sodium channel protein type 3 subunit alpha, 1, 0, undetermined, , {'A2ASI5', 'P08104', 'Q9NY46'}, {'Sodium channel protein type 3 subunit alpha'}
+small proline-rich protein2A, 1, 0, undetermined, , {'Q9CQK8', 'P35326'}, {'small proline-rich protein 2A', 'Small proline-rich protein 2A'}
+small nuclear ribonucleoprotein-associated proteins N, 1, 0, undetermined, , {'Q5R6I0', 'Q17QN3', 'Q60HD3', 'P63164', 'P63163', 'P63162'}, {'Small nuclear ribonucleoprotein-associated protein N'}
+small GTP-binding proteins Rab5, 1, 0, undetermined, , {'M0RC99'}, {'Small GTP-binding protein rab5'}
+small C-terminal domain phosphatases 1, 1, 0, undetermined, , {'P58466', 'Q9GZU7'}, {'Small C-terminal domain phosphatase 1'}
+small C-terminal domain phosphatase 3, 1, 0, undetermined, , {'O15194', 'Q9PTJ6', 'P58465'}, {'Small C-terminal domain phosphatase 3'}
+single-strand DNA- binding proteins, 1, 0, undetermined, , {'P08062', 'P0A3W8', 'P0A3W9'}, {'Single-strand DNA-binding protein'}
+signal transducer and activators of transcription 4, 1, 0, undetermined, , {'Q14765', 'P42228'}, {'Signal transducer and activator of transcription 4'}
+short-chain enoyl-Coa hydratase, 1, 0, undetermined, , {'Q5R646', 'Q8BH95', 'P30084', 'Q58DM8', 'Q1ZXF1', 'P14604'}, {'Short-chain enoyl-CoA hydratase'}
+short chain alpha-hydroxy acid oxidase, 1, 0, undetermined, , {'P05414'}, {'Short chain alpha-hydroxy acid oxidase'}
+sex-determining protein fem-1, 1, 0, undetermined, , {'P17221'}, {'Sex-determining protein fem-1'}
+serine/threonine-protein kinase pknL, 1, 0, undetermined, , {'Q7TYY6', 'P9WI62', 'P9WI63'}, {'Serine/threonine-protein kinase PknL'}
+serine/threonine-protein kinase mos, 1, 0, undetermined, , {'Q8QHF0', 'Q90XV6', 'Q8AX00', 'Q90XV8', 'Q90XV7', 'P10741', 'Q9GRC0', 'Q8AX01', 'P12965', 'P87347', 'Q90XV9', 'Q8AX02'}, {'Serine/threonine-protein kinase mos'}
+serine/threonine-protein kinase c, 1, 0, undetermined, , {'P74745'}, {'Serine/threonine-protein kinase C'}
+serine/threonine-protein kinase 36, 1, 0, undetermined, , {'Q69ZM6', 'Q5RAJ5', 'Q9NRP7'}, {'Serine/threonine-protein kinase 36'}
+serine/threonine-protein kinase 15, 1, 0, undetermined, , {'Q2TA06', 'A5GFW1', 'O14965'}, {'Serine/threonine-protein kinase 15'}
+serine/arginine repetitive matrix protein 4, 1, 0, undetermined, , {'P0CB65', 'A7MD48', 'Q8BKA3'}, {'Serine/arginine repetitive matrix protein 4'}
+serine/arginine repetitive matrix protein 3, 1, 0, undetermined, , {'A6NNA2', 'Q80WV7'}, {'Serine/arginine repetitive matrix protein 3'}
+serine protease inhibitor Kazal-type 4, 1, 0, undetermined, , {'P37109', 'O60575', 'O35679'}, {'Serine protease inhibitor Kazal-type 4'}
+serine / threonine-protein phosphatase 2, 1, 0, undetermined, , {'P55799', 'Q8ZMH3'}, {'Serine/threonine-protein phosphatase 2'}
+selenocysteinyl-tRNA(Sec) synthase, 1, 0, undetermined, , {'A7ZBQ0', 'Q8R8W4', 'B7M3L6', 'Q83J28', 'Q6AMK5', 'C5BC01', 'Q8Z9Y1', 'B7MFF5', 'Q3AB61', 'C4ZXI2', 'Q2RFK3', 'O26043', 'B4F0S0', 'A1AYS1', 'B0KKB9', 'Q0TBL4', 'B5R5B6', 'Q8TXK0', 'B4SWN1', 'O67140', 'A7H1W2', 'Q8EKI8', 'Q9ZJA7', 'C4XIH0', 'P0A821', 'P58226', 'Q1CDA2', 'Q8FCC1', 'B9LZW4', 'A4TGQ3', 'B7V1L9', 'B9KDG5', 'B7N237', 'O33277', 'Q39ZL4', 'Q18953', 'A5VXT7', 'Q02FL3', 'Q5HT33', 'C1FVV5', 'B7ULF0', 'B4T974', 'B1JH26', 'P0A822', 'A6TQL2', 'Q30SC1', 'Q9S3K3', 'Q57IE9', 'B5RGJ4', 'A0A3S7WQS5', 'Q7VI68', 'A1AHD0', 'Q0BZB0', 'B4TZT5', 'A5I656', 'A7FP80', 'B8J1N0', 'B5EX94', 'B7NP97', 'B8ES25', 'P61736', 'B7L708', 'P56372', 'B7LTJ8', 'Q9PMS2', 'A5G937', 'Q61JN8', 'A7FXT6', 'Q0TNJ4', 'Q7M9L1', 'A8MHJ4', 'P43910', 'A9R4E4', 'Q9HD40', 'Q9HV01', 'B6JP11', 'Q8Z2D8', 'A9MLE0', 'A1W0Z5', 'P61735', 'Q663U3', 'B3GYP5', 'A3N2L0', 'B5FLG0', 'Q88QJ8', 'Q0SR63', 'Q3YVV3', 'Q1IFP3', 'Q7MY02', 'B1J347', 'B1ILX5', 'Q4QML1', 'B1LK21', 'A7ZTD9', 'B1KZQ3', 'Q5RAK7', 'B2U5A3', 'C6BW42', 'Q28EN2', 'Q6LZM9', 'Q8ZL69', 'B6I3G5', 'Q7VKC2', 'A5UE18', 'Q8XIK2', 'A1JT25', 'B8F738', 'A0RR46', 'Q1R503', 'A8EV04', 'B1IZK2', 'B5BHW8', 'Q6P6M7', 'A8FN57', 'Q803A7', 'Q1C3H9', 'Q65Q15', 'B9L5S9', 'Q54VQ6', 'B5YW91', 'A8G7W0', 'Q58027', 'Q5PLQ2', 'B5XMW1', 'A8A651', 'A6VCR3', 'Q0SYB5', 'Q328Y9', 'C0Q1E4', 'Q9CK66', 'A4VFW8', 'Q31V36', 'C3L3I3', 'B2K7H8', 'A7GHJ2', 'B1I3P6', 'A9MVI1', 'B7NEP6', 'A6TFJ1'}, {'Selenocysteinyl-tRNA(Sec) synthase'}
+secretory carrier-associated membrane protein 5, 1, 0, undetermined, , {'Q9JKD3', 'Q9JKE3', 'Q6Z8F5', 'Q17QF8', 'Q8TAC9', 'Q6P0C7', 'Q28F21', 'Q9SXA5', 'Q5R5Z8'}, {'Secretory carrier-associated membrane protein 5'}
+salt-induced RING finger protein 1, 1, 0, undetermined, , {'Q6AVN2'}, {'Salt-induced RING finger protein 1'}
+root hair defective 6-like 4, 1, 0, undetermined, , {'Q8LEG1'}, {'ROOT HAIR DEFECTIVE 6-LIKE 4'}
+robl/LC7-like protein, 1, 0, undetermined, , {'P62628'}, {'robl/LC7-like protein'}
+ribosome-inactivating protein luffin-alpha, 1, 0, undetermined, , {'Q00465'}, {'Ribosome-inactivating protein luffin-alpha'}
+regulator of G-protein signaling9, 1, 0, undetermined, , {'O54828', 'O46469', 'Q80ZD1', 'O75916', 'P49805'}, {'Regulator of G-protein signaling 9'}
+refeeding-induced fat and liver protein, 1, 0, undetermined, , {'Q8R1L8', 'Q6UXH0'}, {'Refeeding-induced fat and liver protein'}
+receptor-type tyrosine-protein phosphatases, 1, 0, undetermined, , {'H2KZM6'}, {'Receptor-type tyrosine-protein phosphatase'}
+receptor-like cytoplasmic kinase PBL34, 1, 0, undetermined, , {'Q9LFP7'}, {'Receptor-like cytoplasmic kinase PBL34'}
+ras-related protein ral-A, 1, 0, undetermined, , {'P63322', 'P48555', 'P63321', 'P11233', 'P63320'}, {'Ras-related protein Ral-A', 'Ras-related protein Ral-a'}
+putative UDP-glucose 4-epimerases, 1, 0, undetermined, , {'Q57664'}, {'Putative UDP-glucose 4-epimerase'}
+putative RNA-binding protein 15B, 1, 0, undetermined, , {'Q8NDT2', 'Q6PHZ5'}, {'Putative RNA-binding protein 15B'}
+proton-activated outwardly rectifying anion channels, 1, 0, undetermined, , {'Q9H813'}, {'Proton-activated outwardly rectifying anion channel'}
+proteins FAR-RED ELONGATED HYPOCOTYL 1, 1, 0, undetermined, , {'Q8S4Q6'}, {'Protein FAR-RED ELONGATED HYPOCOTYL 1'}
+protein-tyrosine kinase 2-β, 1, 0, undetermined, , {'P70600', 'Q9QVP9', 'Q14289'}, {'Protein-tyrosine kinase 2-beta'}
+protein radical-induced cell death1, 1, 0, undetermined, , {'Q8RY59'}, {'Protein RADICAL-INDUCED CELL DEATH 1'}
+protein phosphatase magnesium-dependent 1 δ, 1, 0, undetermined, , {'Q9QZ67', 'O15297'}, {'Protein phosphatase magnesium-dependent 1 delta'}
+protein phosphatase 1 regulatory subunit 9b, 1, 0, undetermined, , {'Q96SB3', 'O35274', 'Q6R891'}, {'Protein phosphatase 1 regulatory subunit 9B'}
+protein phosphatase 1 regulatory subunit 3b, 1, 0, undetermined, , {'A6QNP3', 'Q803M0', 'Q28E28', 'Q86XI6', 'Q6IN01', 'Q8C767'}, {'Protein phosphatase 1 regulatory subunit 3B'}
+protein phosphatase 1 regulatory subunit 15B, 1, 0, undetermined, , {'Q8BFW3', 'Q5SWA1'}, {'Protein phosphatase 1 regulatory subunit 15B'}
+protein phosphatase 1 regulatory subunit 14B, 1, 0, undetermined, , {'Q8K3F3', 'Q8MIK9', 'Q96C90', 'Q62084'}, {'Protein phosphatase 1 regulatory subunit 14B'}
+protein kinase C-binding protein 1, 1, 0, undetermined, , {'Q9ULU4'}, {'Protein kinase C-binding protein 1'}
+protein far-red elongated hypocotyl 1, 1, 0, undetermined, , {'Q8S4Q6'}, {'Protein FAR-RED ELONGATED HYPOCOTYL 1'}
+protein associated with small stress proteins 1, 1, 0, undetermined, , {'Q8BK58', 'Q5BKC6', 'Q96EW2'}, {'Protein associated with small stress protein 1'}
+protein associated with UVRAG as autophagy enhancer, 1, 0, undetermined, , {'Q3TD16', 'Q9H714', 'A7E316'}, {'Protein associated with UVRAG as autophagy enhancer'}
+protein associated with Lin-7 1, 1, 0, undetermined, , {'Q8N3R9', 'E2QY99', 'B4F7E7', 'Q9JLB2', 'Q8JHF4', 'Q5RDQ2'}, {'Protein associated with Lin-7 1'}
+protein Unc-93 homolog B1, 1, 0, undetermined, , {'Q9H1C4', 'Q8VCW4'}, {'Protein unc-93 homolog B1'}
+protein NH2-terminal asparagine deamidase, 1, 0, undetermined, , {'Q64311', 'Q28955', 'Q96AB6', 'O64876'}, {'Protein NH2-terminal asparagine deamidase'}
+protein IN2-1 homolog B, 1, 0, undetermined, , {'A1XBB7', 'Q8H8U5'}, {'Protein IN2-1 homolog B'}
+prostate epithelium-specific ets transcription factor, 1, 0, undetermined, , {'O95238', 'Q9WTP3'}, {'Prostate epithelium-specific Ets transcription factor'}
+prolyl 3-hydroxylase family member 4, 1, 0, undetermined, , {'Q92791', 'Q8K2B0', 'Q64375'}, {'Prolyl 3-hydroxylase family member 4'}
+proline-glutamic acid-rich protein, 1, 0, undetermined, , {'Q2M5K2'}, {'Proline-glutamic acid-rich protein'}
+proliferating-cell nucleolar antigen p120, 1, 0, undetermined, , {'Q922K7', 'P46087'}, {'Proliferating-cell nucleolar antigen p120'}
+progestin and adipoQ receptor family member IV, 1, 0, undetermined, , {'Q9JJE4', 'Q8N4S7'}, {'Progestin and adipoQ receptor family member IV'}
+progestin and adipoQ receptor family member 5, 1, 0, undetermined, , {'Q9DCU0', 'Q9NXK6'}, {'Progestin and adipoQ receptor family member 5'}
+probable low-affinity inorganic phosphate transporters, 1, 0, undetermined, , {'O34436', 'Q50173', 'O30499', 'P9WIA6', 'P41132', 'P59950', 'P9WIA7'}, {'Probable low-affinity inorganic phosphate transporter'}
+probable glutathione S-transferase GSTU1, 1, 0, undetermined, , {'A2XMN2', 'Q10CE7'}, {'Probable glutathione S-transferase GSTU1'}
+probable cytochrome p450 49a1, 1, 0, undetermined, , {'Q9V5L3'}, {'Probable cytochrome P450 49a1'}
+polypyrimidine tract-binding protein homolog 3, 1, 0, undetermined, , {'Q6ICX4'}, {'Polypyrimidine tract-binding protein homolog 3'}
+poly(U) polymerase Cid1, 1, 0, undetermined, , {'O13833'}, {'Poly(U) polymerase cid1'}
+poly(3-hydroxyoctanoate) depolymerase, 1, 0, undetermined, , {'Q51718'}, {'Poly(3-hydroxyoctanoate) depolymerase'}
+poly (U)-specific endoribonuclease, 1, 0, undetermined, , {'B1H3D5'}, {'Poly(U)-specific endoribonuclease'}
+poly (ADP-ribose)glycohydrolase, 1, 0, undetermined, , {'O02776', 'Q9QYM2', 'O88622', 'O46043', 'Q86W56'}, {'Poly(ADP-ribose) glycohydrolase'}
+poly (3-hydroxyalkanoate) depolymerases, 1, 0, undetermined, , {'P26495'}, {'Poly(3-hydroxyalkanoate) depolymerase'}
+phytanoyl-CoA 2-hydroxylase 2, 1, 0, undetermined, , {'Q9UJ83', 'Q8CHM7', 'Q9QXE0'}, {'Phytanoyl-CoA 2-hydroxylase 2'}
+phosphoinositide 3-kinase adapter protein 1, 1, 0, undetermined, , {'Q9DDT2', 'Q6ZUJ8', 'Q9EQ32'}, {'Phosphoinositide 3-kinase adapter protein 1'}
+phosphatidylinositol 5-Phosphate 4-Kinase, 1, 0, undetermined, , {'P48426', 'O70172'}, {'Phosphatidylinositol 5-Phosphate 4-Kinase'}
+phosphatidylinositol 3-kinase regulatory subunit α, 1, 0, undetermined, , {'P27986', 'P23727', 'Q63787', 'Q5R685', 'Q8UUU2', 'P26450'}, {'Phosphatidylinositol 3-kinase regulatory subunit alpha'}
+phosphatidylinositol 3-kinase age-1, 1, 0, undetermined, , {'Q94125', 'P0C5E7'}, {'Phosphatidylinositol 3-kinase age-1'}
+phenol-soluble modulin α2 peptides, 1, 0, undetermined, , {'P0C7Z1', 'P0C7Z0', 'P0C800', 'A9JX06', 'P0C7Z9', 'P0C7Z7', 'P0C7Z4', 'P0C7Z8', 'P0C7Z2', 'P0C801', 'P0C7Z3', 'A8Z0V0', 'P0C7Z6', 'P0C7Z5'}, {'Phenol-soluble modulin alpha 2 peptide'}
+p-coumaroyl-CoA monolignol transferase, 1, 0, undetermined, , {'Q5JNT2'}, {'p-coumaroyl-CoA monolignol transferase'}
+p-COUMAROYL-CoA MONOLIGNOL TRANSFERASE, 1, 0, undetermined, , {'Q5JNT2'}, {'p-coumaroyl-CoA monolignol transferase'}
+ornithine--oxo-acid aminotransferase, 1, 0, undetermined, , {'Q9FNK4', 'C3LBX0', 'Q4XWV5', 'Q81GP2', 'B9ITF9', 'Q5HQK4', 'Q9P7L5', 'P04181', 'Q6LFH8', 'Q6CWC1', 'Q8CT82', 'Q9VW26', 'Q89RB7', 'Q54JP5', 'Q07805', 'P29758', 'B9DIU0', 'C4L2E7', 'C0ZBR4', 'P04182', 'P07991', 'P38021', 'B9EAM9', 'Q9K5Z2', 'Q7W1E4', 'Q7WP51', 'Q10G56', 'C1EL61', 'P49724', 'Q3ZCF5', 'Q7RT90', 'Q81TV3', 'Q8EP32', 'Q7VSA0', 'Q92413', 'C3P3K3', 'P31893', 'Q18040', 'C5D6R2'}, {'Ornithine--oxo-acid aminotransferase'}
+omega-ACTX-Hv1f, 1, 0, undetermined, , {'P81599'}, {'Omega-AcTx-Hv1f'}
+oligodendrocytic myelin paranodal and inner loop protein, 1, 0, undetermined, , {'Q5R461', 'Q96PE5', 'Q29102', 'Q5E9I3', 'Q7M750'}, {'Oligodendrocytic myelin paranodal and inner loop protein'}
+nucleotide-binding oligomerization domain protein 27, 1, 0, undetermined, , {'Q86WI3'}, {'Nucleotide-binding oligomerization domain protein 27'}
+nucleosome assembly protein 1-like 4, 1, 0, undetermined, , {'Q5U2Z3', 'Q70Z16', 'Q2TA40', 'B9FU45', 'Q99733', 'Q78ZA7', 'B8B4K9'}, {'Nucleosome assembly protein 1-like 4'}
+nuclear pore membrane glycoprotein 210-like, 1, 0, undetermined, , {'Q9D2F7', 'Q5VU65'}, {'Nuclear pore membrane glycoprotein 210-like'}
+nuclear cytoplasmic O-GlcNAcase and acetyltransferase, 1, 0, undetermined, , {'O60502'}, {'Nuclear cytoplasmic O-GlcNAcase and acetyltransferase'}
+non-muscle α-actinin 4, 1, 0, undetermined, , {'P57780', 'A5D7D1', 'Q9QXQ0', 'Q5RCS6', 'Q90734', 'O43707'}, {'Non-muscle alpha-actinin 4'}
+nitrogen regulation protein NR (II), 1, 0, undetermined, , {'P0A2E0', 'P41503', 'P09431', 'P0AFB7', 'Q52977', 'P0AFB5', 'P28788', 'P19906', 'P0A2D9', 'P0AFB6', 'P06218', 'P45670', 'P10578'}, {'Nitrogen regulation protein NR(II)'}
+nitrogen permease regulator 3-like protein, 1, 0, undetermined, , {'Q8VIJ8', 'Q9HGM7', 'Q12980', 'Q20069', 'Q9VUB4'}, {'Nitrogen permease regulator 3-like protein'}
+nicotinate-nucleotide pyrophosphorylase [carboxylating], 1, 0, undetermined, , {'P30011', 'Q5I0M2', 'A7SG73', 'Q3T063', 'P9WJJ7', 'P30819', 'I3LK75', 'P30012', 'P46714', 'Q75JX0', 'P9WJJ6', 'Q15274', 'Q91X91', 'P43619'}, {'Nicotinate-nucleotide pyrophosphorylase [carboxylating]'}
+neuropeptide Y receptor homolog npr-1, 1, 0, undetermined, , {'Q18534'}, {'Neuropeptide Y receptor homolog npr-1'}
+neuronal leucine-rich repeat protein 3, 1, 0, undetermined, , {'Q8CBC6', 'Q9H3W5', 'Q9ESY6', 'Q5R482'}, {'Neuronal leucine-rich repeat protein 3'}
+neuronal acetylcholine receptor subunit beta-4, 1, 0, undetermined, , {'P26153', 'Q8SPU6', 'Q8R493', 'P12392', 'P30926'}, {'Neuronal acetylcholine receptor subunit beta-4'}
+neuroepithelial cell-transforming gene 1 protein, 1, 0, undetermined, , {'Q7Z628', 'Q9Z206'}, {'Neuroepithelial cell-transforming gene 1 protein'}
+nepetalactol-related short-chain dehydrogenase, 1, 0, undetermined, , {'A0A3Q8GL18'}, {'Nepetalactol-related short-chain dehydrogenase'}
+myotonic dystrophy protein kinase-like alpha, 1, 0, undetermined, , {'O54874', 'Q5VT25', 'Q6DT37', 'Q80UW5'}, {'Myotonic dystrophy protein kinase-like alpha'}
+myosin light chain kinase family member 4, 1, 0, undetermined, , {'Q86YV6', 'Q5SUV5'}, {'Myosin light chain kinase family member 4'}
+mutated in poikiloderma with neutropenia protein 1, 1, 0, undetermined, , {'O13915', 'Q9BQ65'}, {'Mutated in Poikiloderma with Neutropenia protein 1', 'Mutated in poikiloderma with neutropenia protein 1'}
+muscle, intestine and stomach expression 1, 1, 0, undetermined, , {'Q9QYC3', 'P70562', 'Q7RTS1'}, {'Muscle, intestine and stomach expression 1'}
+motor neuron and pancreas homeobox protein 1, 1, 0, undetermined, , {'Q9QZW9', 'P50219'}, {'Motor neuron and pancreas homeobox protein 1'}
+motile sperm domain-containing protein 3, 1, 0, undetermined, , {'Q8BGG6', 'O75425', 'Q3T033'}, {'Motile sperm domain-containing protein 3'}
+mortality factor 4-like protein 1, 1, 0, undetermined, , {'Q9UBU8', 'Q6AYU1', 'P60762', 'Q5NVP9'}, {'Mortality factor 4-like protein 1'}
+mono-ADP-ribosyltransferase C3, 1, 0, undetermined, , {'P15879', 'Q46134', 'Q00901'}, {'Mono-ADP-ribosyltransferase C3'}
+mitogen-activated protein kinase kinase 8, 1, 0, undetermined, , {'Q9M8J5'}, {'Mitogen-activated protein kinase kinase 8'}
+mitogen-activated protein kinase Mps1, 1, 0, undetermined, , {'O13352', 'G4N374'}, {'Mitogen-activated protein kinase MPS1'}
+mitogen-activated protein kinase Cpk1, 1, 0, undetermined, , {'P0CP66', 'P0CP67'}, {'Mitogen-activated protein kinase CPK1'}
+mitochondrial translational release factor 1-like, 1, 0, undetermined, , {'Q2KI15', 'Q9UGC7', 'Q8BJU9', 'Q4V7E5'}, {'Mitochondrial translational release factor 1-like'}
+microtubule-associated tumor suppressor candidate 2, 1, 0, undetermined, , {'Q5JR59'}, {'Microtubule-associated tumor suppressor candidate 2'}
+methyl-branched lipid ω-hydroxylase, 1, 0, undetermined, , {'P0A517', 'P9WPP2', 'P9WPP3'}, {'Methyl-branched lipid omega-hydroxylase'}
+methyl-accepting chemotaxis protein Amb0994, 1, 0, undetermined, , {'Q2W8M7'}, {'Methyl-accepting chemotaxis protein Amb0994'}
+membrane-type-5 matrix metalloproteinase, 1, 0, undetermined, , {'Q9Y5R2', 'Q9R0S2', 'Q99PW6'}, {'Membrane-type-5 matrix metalloproteinase'}
+membrane-type-4 matrix metalloproteinase, 1, 0, undetermined, , {'Q9ULZ9', 'Q9R0S3'}, {'Membrane-type-4 matrix metalloproteinase'}
+membrane-type-1 matrix metalloproteinases, 1, 0, undetermined, , {'Q9XT90', 'Q95220', 'P53690', 'P50281', 'Q10739', 'Q9GLE4'}, {'Membrane-type-1 matrix metalloproteinase'}
+matrix-remodeling-associated protein 5, 1, 0, undetermined, , {'Q9NR99'}, {'Matrix-remodeling-associated protein 5'}
+male-specific submandibular salivary gland proteins, 1, 0, undetermined, , {'Q9QXU1'}, {'Male-specific submandibular salivary gland protein'}
+macrophage-restricted C-type lectin, 1, 0, undetermined, , {'Q9Z2H6'}, {'Macrophage-restricted C-type lectin'}
+mRNA Cap Guanine-N7 Methyltransferase, 1, 0, undetermined, , {'P0CO64', 'Q6CC11', 'Q61E36', 'Q6CKI0', 'Q5U2U7', 'Q1MTD3', 'Q9I8S2', 'A1CT57', 'Q754U7', 'P32783', 'Q6BMH4', 'Q4WN42', 'P0CO65', 'Q5ADX5', 'A5E032', 'Q9D0L8', 'Q9XVS1', 'Q28FT4', 'Q2UM19', 'Q9VJQ4', 'A1DMG9', 'O43148', 'A4R8D7', 'A5DDJ4', 'Q4R7K1', 'Q8SR66', 'Q6FML4', 'A2QVS9', 'A3GEV2', 'O74880'}, {'mRNA cap guanine-N7 methyltransferase'}
+lysine-specific histone demethylase 1B, 1, 0, undetermined, , {'Q8CIG3', 'Q8NB78'}, {'Lysine-specific histone demethylase 1B'}
+low density lipoprotein receptor- related protein, 1, 0, undetermined, , {'P98162'}, {'Low density lipoprotein receptor-related protein'}
+long chain acyl-coa synthetase 1, 1, 0, undetermined, , {'O22898'}, {'Long chain acyl-CoA synthetase 1'}
+liver fibrinogen-related protein-1, 1, 0, undetermined, , {'Q71KU9'}, {'Liver fibrinogen-related protein-1'}
+lipocalin-1-interacting membrane receptor, 1, 0, undetermined, , {'Q5RBY7', 'Q6UX01', 'Q4R7X9', 'Q9D1E5'}, {'Lipocalin-1-interacting membrane receptor'}
+leucine-rich repeat neuronal protein 3, 1, 0, undetermined, , {'Q9H3W5', 'Q8CBC6', 'Q9ESY6', 'Q7L985', 'Q5R482'}, {'Leucine-rich repeat neuronal protein 3'}
+kinesin-like proteins Kif3A, 1, 0, undetermined, , {'Q4R628', 'P28741', 'Q5R4H3', 'Q9Y496'}, {'Kinesin-like protein KIF3A'}
+kinesin-like protein Klp10A, 1, 0, undetermined, , {'Q960Z0'}, {'Kinesin-like protein Klp10A'}
+kin of IRRE-Like protein 1, 1, 0, undetermined, , {'Q6X936', 'Q80W68', 'Q96J84'}, {'Kin of IRRE-like protein 1'}
+kappa-Hexatoxin-Hv1a, 1, 0, undetermined, , {'P82227'}, {'Kappa-hexatoxin-Hv1a'}
+junction-associated coiled-coil protein, 1, 0, undetermined, , {'Q6AW69', 'Q0VF96'}, {'Junction-associated coiled-coil protein'}
+iron-regulated surface determinant protein A, 1, 0, undetermined, , {'Q2FZE9', 'Q2YX95', 'A8Z1R0', 'Q2FHV1', 'Q6GA85', 'Q7A152', 'Q6GHV6', 'Q99UX4', 'P0C1S5', 'Q5HGV4', 'A6QG31', 'Q7A655', 'A7X148', 'A6U0U7', 'A5IS16'}, {'Iron-regulated surface determinant protein A'}
+ionized calcium- binding adapter molecule 1, 1, 0, undetermined, , {'O70200', 'P55008', 'P55009'}, {'Ionized calcium-binding adapter molecule 1'}
+interleukin-1beta-converting enzymes, 1, 0, undetermined, , {'Q9MZV6', 'Q9TV13', 'P29466', 'Q9N2I1', 'P29452', 'P43527', 'Q9MZV7'}, {'Interleukin-1 beta-converting enzyme'}
+interleukin- 1beta-converting enzyme, 1, 0, undetermined, , {'Q9MZV6', 'Q9TV13', 'P29466', 'Q9N2I1', 'P29452', 'P43527', 'Q9MZV7'}, {'Interleukin-1 beta-converting enzyme'}
+interferon-inducible protein 9-27, 1, 0, undetermined, , {'P13164'}, {'Interferon-inducible protein 9-27'}
+insulin receptor substrate protein of 53kDa, 1, 0, undetermined, , {'Q60437', 'Q8BKX1', 'Q9UQB8', 'Q6GMN2'}, {'Insulin receptor substrate protein of 53 kDa'}
+inositol-tetrakisphosphate 1-kinase 3, 1, 0, undetermined, , {'B8AR41', 'Q9SUG3', 'Q75GI4'}, {'Inositol-tetrakisphosphate 1-kinase 3'}
+inositol-tetrakisphosphate 1-kinase 2, 1, 0, undetermined, , {'O81893', 'B8AJL9', 'Q10PL5'}, {'Inositol-tetrakisphosphate 1-kinase 2'}
+inositol polyphosphate-5-phosphatase D, 1, 0, undetermined, , {'Q9ES52', 'Q92835', 'P97573', 'Q6P4S2'}, {'Inositol polyphosphate-5-phosphatase D'}
+inosine- 5'-monophosphate dehydrogenase, 1, 0, undetermined, , {'O50316', 'P44334', 'F1DBB2', 'Q5KP44', 'Q12658', 'Q54QQ0', 'Q8T6T2', 'Q49729', 'P9WKI6', 'Q8G3N6', 'Q5HIQ7', 'Q9KGN8', 'P50097', 'P31002', 'Q8KCW4', 'W6QIT2', 'P0ADG9', 'Q4WHZ9', 'Q6GC82', 'Q6GJQ7', 'P0DB89', 'P49058', 'Q5HRX2', 'Q9HLK8', 'P99106', 'P42851', 'P50098', 'Q8CMQ7', 'Q9GZH3', 'O14344', 'Q84XA3', 'B1L5U5', 'P0C0H6', 'Q9UY49', 'Q7SFX7', 'Q59Q46', 'Q2FJM6', 'Q2YVL6', 'P0DB88', 'Q2G0Y7', 'P0ADG7', 'O00086', 'P68839', 'Q49UU8', 'Q0WD32', 'Q9KH33', 'P65169', 'Q07152', 'Q8F4Q4', 'P0ADG8', 'P56088', 'Q59011', 'O67820', 'A9A5Y7', 'Q9ZL14', 'O58045', 'Q7UJL3', 'Q9HQU4', 'P9WKI7', 'A0A0B5L585', 'P65168', 'P21620', 'Q4VRV8', 'Q9L6B7', 'Q5X9A3', 'Q4L385', 'Q8NY70', 'P21879', 'P0C0H7'}, {"Inosine-5'-monophosphate dehydrogenase"}
+inhibitor-5 of protein phosphatase 1, 1, 0, undetermined, , {'Q8WVI7'}, {'Inhibitor-5 of protein phosphatase 1'}
+indoleamine 2,3-dioxygenases 1, 1, 0, undetermined, , {'P28776', 'Q9ERD9', 'P14902'}, {'Indoleamine 2,3-dioxygenase 1'}
+indoleamine 2,3- dioxygenase 1, 1, 0, undetermined, , {'P28776', 'Q9ERD9', 'P14902'}, {'Indoleamine 2,3-dioxygenase 1'}
+ileal sodium-dependent bile acid transporters, 1, 0, undetermined, , {'Q62633', 'P70172', 'Q12908', 'Q28727', 'Q60414'}, {'Ileal sodium-dependent bile acid transporter'}
+hypoxia-inducible factors 1-α, 1, 0, undetermined, , {'Q61221', 'Q0PGG7', 'Q309Z6', 'Q9XTA5', 'Q9YIB9', 'Q16665', 'Q98SW2', 'Q9I8A9', 'O35800'}, {'Hypoxia-inducible factor 1-alpha'}
+hypoxia-inducible factors 1-alpha, 1, 0, undetermined, , {'Q61221', 'Q0PGG7', 'Q309Z6', 'Q9XTA5', 'Q9YIB9', 'Q16665', 'Q98SW2', 'Q9I8A9', 'O35800'}, {'Hypoxia-inducible factor 1-alpha'}
+hypoxia-inducible factor 2-α, 1, 0, undetermined, , {'Q9JHS1', 'P97481', 'Q99814'}, {'Hypoxia-inducible factor 2-alpha'}
+homeobox-leucine zipper protein HDG12, 1, 0, undetermined, , {'Q9LMT8'}, {'Homeobox-leucine zipper protein HDG12'}
+histone-lysine N-methyltransferase eggless, 1, 0, undetermined, , {'Q28Z18', 'Q32KD2'}, {'Histone-lysine N-methyltransferase eggless'}
+histone stem-loop-binding protein, 1, 0, undetermined, , {'Q09599', 'P97440', 'Q14493', 'Q9VAN6'}, {'Histone stem-loop-binding protein'}
+histone H2B 1/2, 1, 0, undetermined, , {'Q5BJA5'}, {'Histone H2B 1/2'}
+high molecular weight form of myosin I, 1, 0, undetermined, , {'P47808'}, {'High molecular weight form of myosin I'}
+high mobility group protein HMGI-C, 1, 0, undetermined, , {'P52926', 'P52927'}, {'High mobility group protein HMGI-C'}
+high affinity immunoglobulin epsilon receptor subunit gamma, 1, 0, undetermined, , {'Q07249', 'P20491', 'Q9XSZ6', 'P20411', 'Q9BDR7', 'Q8SPW1', 'P30273'}, {'High affinity immunoglobulin epsilon receptor subunit gamma'}
+heparin-binding growth-associated molecules, 1, 0, undetermined, , {'P63090', 'P21246', 'P21782', 'P63089', 'P32760'}, {'Heparin-binding growth-associated molecule'}
+hemin/hemoglobin-binding protein 2, 1, 0, undetermined, , {'Q7AP54'}, {'Hemin/hemoglobin-binding protein 2'}
+heat shock protein HSP90-beta, 1, 0, undetermined, , {'Q4R4T5', 'P11499', 'Q76LV1', 'O57521', 'P30947', 'Q9GKX8', 'Q5R710', 'P34058', 'P08238'}, {'Heat shock protein HSP 90-beta'}
+heat shock factor-binding protein 1, 1, 0, undetermined, , {'Q3ZC22', 'O75506', 'Q9CQZ1', 'Q8K3X8', 'Q5RDI2'}, {'Heat shock factor-binding protein 1'}
+heat shock 70kDa protein 1B, 1, 0, undetermined, , {'Q6S4N2', 'P0DMW1', 'Q27965', 'P0DMV9', 'Q4U0F3', 'P17879'}, {'Heat shock 70 kDa protein 1B'}
+heat shock 70kDA protein 1A, 1, 0, undetermined, , {'P0DMV8', 'Q61696', 'P0DMW0', 'P34930', 'Q27975'}, {'Heat shock 70 kDa protein 1A'}
+guanosine diphospho-d-mannose dehydrogenase, 1, 0, undetermined, , {'P11759'}, {'Guanosine diphospho-D-mannose dehydrogenase'}
+guanine nucleotide-binding protein subunit gamma, 1, 0, undetermined, , {'Q75BU5', 'O94309', 'Q6FJ50', 'P54406', 'Q6CPB4', 'Q6CHP5', 'Q870G5', 'P18852', 'Q95ZG8', 'Q01821', 'Q4VT26', 'Q7RWT0'}, {'Guanine nucleotide-binding protein subunit gamma'}
+grb10-interacting GYF protein 1, 1, 0, undetermined, , {'Q99MR1', 'O75420'}, {'GRB10-interacting GYF protein 1'}
+granulocyte -macrophage colony-stimulating factor, 1, 0, undetermined, , {'P01587', 'P48750', 'Q29118', 'P51748', 'Q0MUT8', 'Q60481', 'O62757', 'P48749', 'P28773', 'P04141', 'P11052'}, {'Granulocyte-macrophage colony-stimulating factor'}
+gram-negative bacteria-binding protein, 1, 0, undetermined, , {'Q8MU95'}, {'Gram-negative bacteria-binding protein'}
+glycosyltransferase 8 domain-containing protein 1, 1, 0, undetermined, , {'Q6DJM3', 'Q6NSU3', 'Q6AYF6', 'Q68CQ7', 'Q5U3H3', 'Q28I33', 'Q5E9E7'}, {'Glycosyltransferase 8 domain-containing protein 1'}
+glycerol-3-phosphate dehydrogenase2, 1, 0, undetermined, , {'P9WN78', 'P64185', 'P9WN79'}, {'Glycerol-3-phosphate dehydrogenase 2'}
+glycerol-3-phosphate acyltransferase 7, 1, 0, undetermined, , {'Q9LHS7'}, {'Glycerol-3-phosphate acyltransferase 7'}
+glycerol-3- phosphate dehydrogenase 1, 1, 0, undetermined, , {'P9WN80', 'P64183', 'P9WN81'}, {'Glycerol-3-phosphate dehydrogenase 1'}
+glyceraldehyde-3-phosphate dehydrogenase II, 1, 0, undetermined, , {'O44104', 'O44105', 'P07487'}, {'Glyceraldehyde-3-phosphate dehydrogenase II'}
+glyceraldehyde- 3-phosphate dehydrogenase 1, 1, 0, undetermined, , {'Q5HHP5', 'Q6GB58', 'P49433', 'Q5HQV4', 'P00360', 'P84998', 'Q9C136', 'O16027', 'Q82IZ2', 'Q46AH5', 'P17819', 'P04970', 'P32635', 'P07486', 'P17729', 'P0A036', 'Q8CPY5', 'P99136', 'P34916', 'P09124', 'P58837', 'P0A037', 'Q6GIL8', 'P80506', 'P53429', 'P78958', 'Q4MQ58', 'P54226', 'Q6FPW3'}, {'Glyceraldehyde-3-phosphate dehydrogenase 1'}
+glutathione-specific γ-glutamylcyclotransferase 1, 1, 0, undetermined, , {'B3STU3', 'Q8R3J5', 'Q5SPB6', 'Q9BUX1'}, {'Glutathione-specific gamma-glutamylcyclotransferase 1'}
+glutathione s-transferase-like proteins, 1, 0, undetermined, , {'P9WEZ8'}, {'Glutathione S-transferase-like protein'}
+glutathione S-transferase-like proteins, 1, 0, undetermined, , {'P9WEZ8'}, {'Glutathione S-transferase-like protein'}
+glutathione S-transferase-like protein, 1, 0, undetermined, , {'P9WEZ8'}, {'Glutathione S-transferase-like protein'}
+glutathione S-transferase ω-1, 1, 0, undetermined, , {'Q9Z339', 'Q9N1F5', 'O09131', 'P78417'}, {'Glutathione S-transferase omega-1'}
+glutathione S-transferase alpha-3, 1, 0, undetermined, , {'P04904'}, {'Glutathione S-transferase alpha-3'}
+glutathione S-transferase Yb-3, 1, 0, undetermined, , {'P08009'}, {'Glutathione S-transferase Yb-3'}
+glutathione S-transferase Yb-1, 1, 0, undetermined, , {'P04905'}, {'Glutathione S-transferase Yb-1'}
+glutaminyl-peptide cyclotransferase-like protein, 1, 0, undetermined, , {'Q0V8G3', 'Q4R942', 'Q9NXS2', 'Q8BH73'}, {'Glutaminyl-peptide cyclotransferase-like protein'}
+glucosamine-6-phosphate isomerase 1, 1, 0, undetermined, , {'O35000', 'A4FV08', 'P46926', 'O97439', 'O88958', 'Q64422', 'Q5R8T8'}, {'Glucosamine-6-phosphate isomerase 1'}
+gibberellin 3-beta-dioxygenase 1, 1, 0, undetermined, , {'Q6AT12', 'Q39103', 'O24648'}, {'Gibberellin 3-beta-dioxygenase 1'}
+gibberellin 20-oxidase-like protein, 1, 0, undetermined, , {'F4KBY0'}, {'Gibberellin 20-oxidase-like protein'}
+gibberellin 2-beta-dioxygenase 2, 1, 0, undetermined, , {'Q9XHM5', 'Q5ZA21', 'Q9XFR9'}, {'Gibberellin 2-beta-dioxygenase 2'}
+gametocyte-specific factor 1-like, 1, 0, undetermined, , {'Q9H1H1', 'Q3T026', 'Q9CWD0'}, {'Gametocyte-specific factor 1-like'}
+furosemide-sensitive K-Cl cotransporter, 1, 0, undetermined, , {'Q63633', 'Q63632'}, {'Furosemide-sensitive K-Cl cotransporter'}
+fumarylacetoacetate hydrolase domain-containing protein 1, 1, 0, undetermined, , {'Q2HJ98', 'P34673', 'A3AJ77', 'Q93ZE5', 'Q5RDW0', 'Q6P587', 'Q6AYQ8', 'Q8R0F8', 'Q86I22'}, {'Fumarylacetoacetate hydrolase domain-containing protein 1'}
+fibroblast growth factor-binding protein 3, 1, 0, undetermined, , {'Q8TAT2', 'Q1HCM0'}, {'Fibroblast growth factor-binding protein 3'}
+fibroblast growth factor-binding protein 2, 1, 0, undetermined, , {'Q802A9', 'Q9BYJ0'}, {'Fibroblast growth factor-binding protein 2'}
+fibrinogen- and Ig-binding protein, 1, 0, undetermined, , {'P30141'}, {'Fibrinogen- and Ig-binding protein'}
+ferredoxin, 2Fe-2S, 1, 0, undetermined, , {'P07324', 'P82802', 'O66511'}, {'Ferredoxin, 2Fe-2S', 'Ferredoxin, 2Fe-2s'}
+fatty acid-binding protein, brain, 1, 0, undetermined, , {'Q09139', 'P55051', 'P51880', 'Q05423', 'O15540'}, {'Fatty acid-binding protein, brain'}
+fat storage-inducing transmembrane protein1, 1, 0, undetermined, , {'A7YWN2', 'Q91V79', 'B2MVP8', 'A5D6W6', 'Q5CZN0'}, {'Fat storage-inducing transmembrane protein 1'}
+exchange proteins directly activated by cAMP 2, 1, 0, undetermined, , {'Q8WZA2', 'Q9EQZ6', 'Q9Z1C7'}, {'Exchange protein directly activated by cAMP 2'}
+exchange factor directly activated by cAMP 2, 1, 0, undetermined, , {'Q8WZA2', 'Q9EQZ6', 'Q9Z1C7'}, {'Exchange factor directly activated by cAMP 2'}
+exchange factor directly activated by cAMP 1, 1, 0, undetermined, , {'O95398', 'Q8VCC8', 'Q9Z1C8'}, {'Exchange factor directly activated by cAMP 1'}
+eukaryotic translation initiation factor 4 γ 1, 1, 0, undetermined, , {'P41110', 'Q04637', 'Q6NZJ6'}, {'Eukaryotic translation initiation factor 4 gamma 1'}
+eukaryotic translation initiation factor 3 subunit 8, 1, 0, undetermined, , {'Q99613', 'B4KN00', 'B0W0S3', 'A8WWU0', 'Q9XHM1', 'Q6P1V4', 'O02328', 'Q0ZB76', 'Q17Q06', 'B4GIB1', 'B4MRZ8', 'B4HMY3', 'Q7PMU8', 'Q3SYW6', 'O49160', 'Q4QR58', 'B4P562', 'Q28Z41', 'Q5RAT8', 'A1ZAX1', 'Q8R1B4', 'Q6PFQ2', 'Q54X97', 'B4J789', 'B3MIF1', 'B5DFC8', 'B4LNA1', 'B3NML0'}, {'Eukaryotic translation initiation factor 3 subunit 8'}
+eukaryotic translation initiation factor 2 subunit beta, 1, 0, undetermined, , {'P20042', 'Q41969', 'O24473', 'Q99L45', 'P09064', 'Q5E9D0', 'P41035', 'P41375', 'Q21230', 'P55871', 'Q5R4T9', 'Q54T27'}, {'Eukaryotic translation initiation factor 2 subunit beta'}
+eukaryotic initiation factor 4A-III, 1, 0, undetermined, , {'B5FZY7', 'B7ZTW1', 'Q3B8Q2', 'Q91VC3', 'Q2NL22', 'Q9VHS8', 'A6M931', 'Q7ZVA6', 'Q4R3Q1', 'B5DG42', 'Q5ZM36', 'P38919'}, {'Eukaryotic initiation factor 4A-III'}
+eukaryotic initiation factor 4A-3, 1, 0, undetermined, , {'Q9CAI7', 'Q6Z2Z4', 'P41380'}, {'Eukaryotic initiation factor 4A-3'}
+eukaryotic initiation Factor 4A-III, 1, 0, undetermined, , {'B5FZY7', 'B7ZTW1', 'Q3B8Q2', 'Q91VC3', 'Q2NL22', 'Q9VHS8', 'A6M931', 'Q7ZVA6', 'Q4R3Q1', 'B5DG42', 'Q5ZM36', 'P38919'}, {'Eukaryotic initiation factor 4A-III'}
+ethylene-responsive transcription factor WIN1, 1, 0, undetermined, , {'Q9XI33'}, {'Ethylene-responsive transcription factor WIN1'}
+ethylene-responsive transcription factor ERF017, 1, 0, undetermined, , {'Q84QC2'}, {'Ethylene-responsive transcription factor ERF017'}
+ethylene-responsive transcription factor ERF011, 1, 0, undetermined, , {'Q9SNE1'}, {'Ethylene-responsive transcription factor ERF011'}
+endoplasmic reticulum stress-response protein 25, 1, 0, undetermined, , {'Q7Z7H5', 'Q8R1V4'}, {'Endoplasmic reticulum stress-response protein 25'}
+endoplasmic reticulum membrane protein complex subunit 10, 1, 0, undetermined, , {'Q12025'}, {'Endoplasmic reticulum membrane protein complex subunit 10'}
+endoplasmic reticulum P5A-ATPase, 1, 0, undetermined, , {'P39986', 'Q9EPE9', 'Q9HD20'}, {'Endoplasmic reticulum P5A-ATPase'}
+dystrophia myotonica WD repeat-containing protein, 1, 0, undetermined, , {'Q08274', 'Q09019'}, {'Dystrophia myotonica WD repeat-containing protein'}
+dynein light chain tctex-type 1, 1, 0, undetermined, , {'Q9Z336', 'P63172', 'P63171', 'P51807'}, {'Dynein light chain Tctex-type 1'}
+dynein light chain roadblock-type 2, 1, 0, undetermined, , {'Q9DAJ5', 'Q8TF09', 'Q32P85'}, {'Dynein light chain roadblock-type 2'}
+dual specificity Yak 1-related kinase, 1, 0, undetermined, , {'Q63470', 'Q61214', 'Q13627', 'P85051'}, {'Dual specificity YAK1-related kinase'}
+disheveled-associated activator of morphogenesis 2, 1, 0, undetermined, , {'Q86T65', 'Q80U19', 'A0A1D5P556'}, {'Disheveled-associated activator of morphogenesis 2'}
+dietary Pi-regulated RNA-1, 1, 0, undetermined, , {'Q9JJ40'}, {'Dietary Pi-regulated RNA-1'}
+deleted in azoospermia-associated protein 2, 1, 0, undetermined, , {'Q3T0K9', 'Q5R526', 'P60486', 'Q9DCP9', 'Q4R5H7', 'Q15038'}, {'Deleted in azoospermia-associated protein 2'}
+d-dopachrome tautomerase-like proteins, 1, 0, undetermined, , {'A6NHG4'}, {'D-dopachrome tautomerase-like protein'}
+d-aminoacyl-tRNA deacylase 2, 1, 0, undetermined, , {'E1C762', 'Q96FN9', 'Q8BHA3', 'Q68EL2'}, {'D-aminoacyl-tRNA deacylase 2'}
+d-Erythritol 1-phosphate dehydrogenase, 1, 0, undetermined, , {'Q2YIQ2'}, {'D-erythritol 1-phosphate dehydrogenase'}
+cytotoxic and regulatory T-cell molecule, 1, 0, undetermined, , {'O95727', 'Q149L7'}, {'Cytotoxic and regulatory T-cell molecule'}
+cytochrome c oxidase subunit VIIa-M, 1, 0, undetermined, , {'P56392', 'P07470', 'P24310'}, {'Cytochrome c oxidase subunit VIIa-M'}
+cytochrome c oxidase subunit 6b2, 1, 0, undetermined, , {'Q6YFQ2', 'Q6YFP9', 'Q80ZN9', 'Q6YFQ1'}, {'Cytochrome c oxidase subunit 6B2'}
+cytochrome c oxidase subunit 6B2, 1, 0, undetermined, , {'Q6YFQ2', 'Q6YFP9', 'Q80ZN9', 'Q6YFQ1'}, {'Cytochrome c oxidase subunit 6B2'}
+cytochrome c oxidase assembly protein Cox19, 1, 0, undetermined, , {'Q8K0C8', 'P0CT19', 'P0CM87', 'Q4P821', 'P0CM86', 'Q462Q7', 'Q49B96', 'Q3E731', 'Q75AF9', 'A8E4L1', 'Q6CS47', 'Q5AL10', 'Q6FVQ3', 'Q54IA0'}, {'Cytochrome c oxidase assembly protein COX19'}
+cytochrome P450 CYP74C3, 1, 0, undetermined, , {'Q8GZP5'}, {'Cytochrome P450 CYP74C3'}
+cytochrome P-450 MUT-2, 1, 0, undetermined, , {'Q64458'}, {'Cytochrome P-450 MUT-2'}
+cysteine-rich PDZ-binding protein, 1, 0, undetermined, , {'Q1WCC0', 'Q6NU28', 'Q567Z6', 'O70333', 'Q792Q4', 'Q9P021', 'Q3ZC66', 'Q5ZKB6'}, {'Cysteine-rich PDZ-binding protein'}
+cyclin- dependent kinase inhibitor p27, 1, 0, undetermined, , {'Q60439', 'Q6SLL5', 'P46529', 'O19001', 'P46527', 'P46414'}, {'Cyclin-dependent kinase inhibitor p27'}
+complement factor h-related protein 3, 1, 0, undetermined, , {'Q02985'}, {'Complement factor H-related protein 3'}
+complement Factor H-related protein 3, 1, 0, undetermined, , {'Q02985'}, {'Complement factor H-related protein 3'}
+complement C1q subcomponent subunit C, 1, 0, undetermined, , {'P02747', 'Q02105', 'P31722'}, {'Complement C1q subcomponent subunit C'}
+coenzyme-a-acylating propionaldehyde dehydrogenase, 1, 0, undetermined, , {'B1VB75'}, {'Coenzyme-A-acylating propionaldehyde dehydrogenase'}
+ceramide-1-phosphate transfer proteins, 1, 0, undetermined, , {'Q5TA50', 'Q6DBQ8', 'Q0VCQ0', 'Q8BS40', 'Q5HZ92', 'Q66JG2', 'Q5XIS2'}, {'Ceramide-1-phosphate transfer protein'}
+cellulose synthase-like protein G2, 1, 0, undetermined, , {'Q8VYR4'}, {'Cellulose synthase-like protein G2'}
+cell surface glycoprotein CD200 receptor 1, 1, 0, undetermined, , {'Q9ES58', 'Q9ES57', 'Q8TD46', 'A5D7V5'}, {'Cell surface glycoprotein CD200 receptor 1'}
+cell division cycle-associated protein 5, 1, 0, undetermined, , {'Q96FF9', 'Q9CPY3'}, {'Cell division cycle-associated protein 5'}
+cell division cycle-associated protein 3, 1, 0, undetermined, , {'P0C2X8', 'Q68FW2', 'Q99M54', 'Q99618'}, {'Cell division cycle-associated protein 3'}
+cell division cycle-associated protein 2, 1, 0, undetermined, , {'Q14B71', 'Q69YH5', 'Q29RT4'}, {'Cell division cycle-associated protein 2'}
+cell division control-related protein 2, 1, 0, undetermined, , {'A0A096MJN4', 'P28661', 'O43236'}, {'Cell division control-related protein 2'}
+cell cycle and apoptosis regulatory protein 1, 1, 0, undetermined, , {'Q8CH18', 'Q8IX12'}, {'Cell cycle and apoptosis regulatory protein 1'}
+ccaat/enhancer-binding protein β, 1, 0, undetermined, , {'P28033', 'P17676', 'O02755', 'P21272', 'Q05826'}, {'CCAAT/enhancer-binding protein beta'}
+casein kinase 2-interacting protein 1, 1, 0, undetermined, , {'A4IG55', 'Q53GL0'}, {'Casein kinase 2-interacting protein 1'}
+carnitine O-palmitoyltransferase 2, mitochondrial, 1, 0, undetermined, , {'Q60HG9', 'Q2KJB7', 'Q6P4X5', 'P52825', 'Q7ZXE1', 'P18886', 'Q5U3U3', 'P23786'}, {'Carnitine O-palmitoyltransferase 2, mitochondrial'}
+carminomycin 4-O-methyltransferase DnrK, 1, 0, undetermined, , {'Q06528'}, {'Carminomycin 4-O-methyltransferase DnrK'}
+cardiolipin and phosphatidic acid-binding protein, 1, 0, undetermined, , {'Q8C886', 'Q494U1'}, {'Cardiolipin and phosphatidic acid-binding protein'}
+carbohydrate substrate-binding protein SP0092, 1, 0, undetermined, , {'A0A0H2UMY0'}, {'Carbohydrate substrate-binding protein SP0092'}
+calcium-dependent lipid-binding proteins, 1, 0, undetermined, , {'Q9LEX1'}, {'Calcium-dependent lipid-binding protein'}
+calcium-dependent lipid-binding protein, 1, 0, undetermined, , {'Q9LEX1'}, {'Calcium-dependent lipid-binding protein'}
+calcium-binding protein 65/67, 1, 0, undetermined, , {'P48037'}, {'Calcium-binding protein 65/67'}
+calcium-activated potassium channel subunit β, 1, 0, undetermined, , {'O46372', 'Q8CAE3', 'Q16558', 'Q28067', 'Q28266', 'P97678'}, {'Calcium-activated potassium channel subunit beta'}
+cadmium-translocating P-type ATPases, 1, 0, undetermined, , {'P38360'}, {'Cadmium-translocating P-type ATPase'}
+cAMP-dependent protein kinase type 2, 1, 0, undetermined, , {'P06245'}, {'cAMP-dependent protein kinase type 2'}
+c-myc promoter-binding proteins, 1, 0, undetermined, , {'Q7Z401', 'P06733'}, {'C-myc promoter-binding protein'}
+brain-enriched hyaluronan-binding protein, 1, 0, undetermined, , {'Q96GW7', 'P41725', 'P55068'}, {'Brain-enriched hyaluronan-binding protein'}
+brain and reproductive organ-expressed protein, 1, 0, undetermined, , {'Q8WN69', 'Q6SP92', 'Q9NXR7', 'Q8K3W0', 'Q6GPL9', 'Q568D5', 'A6QQW8', 'Q5REX9', 'Q6DJ78', 'B6NXD5', 'Q5ZML0', 'Q6P7Q1', 'Q8WN70'}, {'Brain and reproductive organ-expressed protein'}
+bile acid beta-glucosidase GBA2, 1, 0, undetermined, , {'Q5M868', 'Q9HCG7', 'Q69ZF3'}, {'Bile acid beta-glucosidase GBA2'}
+beta-Ketoacyl-ACP synthase I, 1, 0, undetermined, , {'P57193', 'Q8KA28', 'P0A954', 'Q02K94', 'Q89AY4', 'P43710', 'P23902', 'P0A953', 'P52410'}, {'Beta-ketoacyl-ACP synthase I'}
+beta-D-glucoside glucohydrolase E, 1, 0, undetermined, , {'A1DLJ5', 'Q5AYH8', 'Q4WD56', 'Q2UTX5', 'A1CMH6', 'B0YD91'}, {'Beta-D-glucoside glucohydrolase E'}
+basophilic leukemia-expressed protein BLES03, 1, 0, undetermined, , {'Q8VD62', 'Q566Q8', 'Q9H3H3'}, {'Basophilic leukemia-expressed protein Bles03'}
+barrier-to-autointegration factor 2, 1, 0, undetermined, , {'Q5HZM3', 'Q9H503', 'Q32PE7', 'Q8BVR0'}, {'Barrier-to-autointegration factor 2'}
+baculoviral IAP repeat-containing protein 3, 1, 0, undetermined, , {'Q13489', 'A1E2V0', 'O08863'}, {'Baculoviral IAP repeat-containing protein 3'}
+avidin-related protein 4/5, 1, 0, undetermined, , {'P56734'}, {'Avidin-related protein 4/5'}
+autophagy-related proteins LC3A, 1, 0, undetermined, , {'Q91VR7', 'Q6XVN8', 'Q2HJ23', 'Q9H492'}, {'Autophagy-related protein LC3 A'}
+autophagy-related protein LC3 B, 1, 0, undetermined, , {'O41515', 'Q9CQV6', 'Q9GZQ8', 'Q62625'}, {'Autophagy-related protein LC3 B'}
+arginine/serine-rich protein 1, 1, 0, undetermined, , {'Q5R840', 'Q1ECZ9', 'Q3UC65', 'Q5U2S0', 'Q4R626', 'Q9BUV0'}, {'Arginine/serine-rich protein 1'}
+ankyrin repeat domain-containing protein 40, 1, 0, undetermined, , {'Q6AI12', 'Q5SUE8'}, {'Ankyrin repeat domain-containing protein 40'}
+ankyrin repeat and SOCS box protein 17, 1, 0, undetermined, , {'Q8HYV8', 'Q8WXJ9', 'Q95LR4', 'Q32KY8', 'Q8VHP9'}, {'Ankyrin repeat and SOCS box protein 17'}
+amyloid-beta precursor-like proteins, 1, 0, undetermined, , {'Q06BR2'}, {'Amyloid-beta precursor-like protein'}
+alpha-helical pore-forming toxins, 1, 0, undetermined, , {'B9W5G6', 'A0A515MEM9', 'P0DUW9', 'A0A515MEN7', 'P0DUW8'}, {'Alpha-helical pore-forming toxin'}
+alpha-dystrobrevin-associated MAGE protein, 1, 0, undetermined, , {'A1A5P9', 'Q9BE18', 'Q9HCI5', 'Q6PCZ4'}, {'Alpha-dystrobrevin-associated MAGE Protein'}
+alpha-1,4-Glucosidase, 1, 0, undetermined, , {'O43451'}, {'Alpha-1,4-glucosidase'}
+alpha- 2-HS-glycoprotein, 1, 0, undetermined, , {'P02765', 'P29700', 'P97515', 'P29701', 'P12763', 'P80191', 'C0HJD1', 'P29699', 'O70159', 'Q9N2D0', 'P24090'}, {'Alpha-2-HS-glycoprotein'}
+alpha platelet-derived growth factor receptors, 1, 0, undetermined, , {'Q8AXC7', 'P26619', 'P26618', 'Q9DE49', 'P20786', 'P16234', 'Q9PUF6'}, {'Alpha platelet-derived growth factor receptor'}
+aldehyde dehydrogenase family 18 member A1, 1, 0, undetermined, , {'Q5R4M8', 'P54886', 'Q9Z110'}, {'Aldehyde dehydrogenase family 18 member A1'}
+albumin D-element-binding protein, 1, 0, undetermined, , {'Q10586', 'P16443', 'Q60925', 'Q32PF6'}, {'Albumin D-element-binding protein'}
+adipose-derived insulin-sensitizing factor, 1, 0, undetermined, , {'A4IH36', 'Q5T7M4', 'A1A5X5', 'Q8R2Z0'}, {'Adipose-derived insulin-sensitizing factor'}
+adipokinetic hormone/corazonin-related peptides, 1, 0, undetermined, , {'Q16RI5'}, {'Adipokinetic hormone/corazonin-related peptide'}
+adenosine deaminase-like protein isoform 1, 1, 0, undetermined, , {'Q6DHV7'}, {'Adenosine deaminase-like protein isoform 1'}
+adenosine 5'-phosphosulfate reductase 2, 1, 0, undetermined, , {'O06737'}, {"Adenosine 5'-phosphosulfate reductase 2"}
+additional sex combs-like protein 3, 1, 0, undetermined, , {'Q8C4A5', 'Q9C0F0'}, {'Additional sex combs-like protein 3'}
+acyl-coenzyme a:cholesterol acyltransferase, 1, 0, undetermined, , {'Q8VCC2', 'P23141', 'P12337'}, {'Acyl-coenzyme A:cholesterol acyltransferase'}
+acyl-coenzyme A:cholesterol acyltransferases, 1, 0, undetermined, , {'Q8VCC2', 'P23141', 'P12337'}, {'Acyl-coenzyme A:cholesterol acyltransferase'}
+acyl-coenzyme A: cholesterol acyltransferases, 1, 0, undetermined, , {'Q8VCC2', 'P23141', 'P12337'}, {'Acyl-coenzyme A:cholesterol acyltransferase'}
+acyl-CoA:monoacylglycerol acyltransferase 1, 1, 0, undetermined, , {'Q91ZV4', 'Q28C88', 'Q96PD6', 'Q3KPP4'}, {'Acyl-CoA:monoacylglycerol acyltransferase 1'}
+activity-regulated cadherin-like protein, 1, 0, undetermined, , {'D3ZE55'}, {'Activity-regulated cadherin-like protein'}
+activating signal cointegrator 1 complex subunit 1, 1, 0, undetermined, , {'Q9D8Z1', 'Q8N9N2'}, {'Activating signal cointegrator 1 complex subunit 1'}
+abhydrolase domain-containing protein 16A, 1, 0, undetermined, , {'Q9Z1Q2', 'Q1JPD2', 'O95870', 'Q5R6S0', 'Q6MG55', 'Q4R8P0'}, {'Abhydrolase domain-containing protein 16A'}
+abhydrolase domain-containing protein 14B, 1, 0, undetermined, , {'Q5R816', 'Q6DGG1', 'A7YY28', 'Q96IU4', 'Q8VCR7'}, {'Abhydrolase domain-containing protein 14B'}
+[HYP3]Met-callatostatin, 1, 0, undetermined, , {'P41841'}, {'[Hyp3]Met-callatostatin'}
+Zinc finger DHHC-type containing 8, 1, 0, undetermined, , {'Q9W345'}, {'Zinc finger DHHC-type containing 8'}
+ZRT/IRT-like protein 5, 1, 0, undetermined, , {'O23039', 'Q6L8G0'}, {'ZRT/IRT-like protein 5'}
+Yip1-interacting factor homolog B, 1, 0, undetermined, , {'Q9CX30', 'Q6P301', 'Q5U3G6', 'Q5BJH7', 'Q6PEC3'}, {'YIP1-interacting factor homolog B'}
+YTH domain-containing family protein 2, 1, 0, undetermined, , {'Q9Y5A9', 'Q0VCZ3', 'Q91YT7', 'E7F1H9', 'Q4R5D9'}, {'YTH domain-containing family protein 2'}
+YTH domain-containing family protein 1, 1, 0, undetermined, , {'P59326', 'Q9BYJ9'}, {'YTH domain-containing family protein 1'}
+YTH Domain-Containing Family Protein 2, 1, 0, undetermined, , {'Q9Y5A9', 'Q0VCZ3', 'Q91YT7', 'E7F1H9', 'Q4R5D9'}, {'YTH domain-containing family protein 2'}
+Y-box-binding protein 3, 1, 0, undetermined, , {'P16989', 'Q62764', 'Q9JKB3'}, {'Y-box-binding protein 3'}
+Y-box-binding protein 2, 1, 0, undetermined, , {'Q9Z2C8', 'Q9Y2T7'}, {'Y-box-binding protein 2'}
+Y-Box-binding Protein 1, 1, 0, undetermined, , {'Q28618', 'P67809', 'P67808', 'B5DE31', 'Q06066', 'P21573', 'P62960', 'P62961'}, {'Y-box-binding protein 1'}
+Y-Box-Binding Protein 3, 1, 0, undetermined, , {'P16989', 'Q62764', 'Q9JKB3'}, {'Y-box-binding protein 3'}
+Xeroderma pigmentosum group F-complementing protein, 1, 0, undetermined, , {'Q92889'}, {'Xeroderma pigmentosum group F-complementing protein'}
+WW domain binding protein 1-like, 1, 0, undetermined, , {'P0C1G7', 'Q9NX94', 'Q8BGW2'}, {'WW domain binding protein 1-like'}
+Vacuolar protein sorting-associated protein 28, 1, 0, undetermined, , {'Q54NF1', 'Q02767'}, {'Vacuolar protein sorting-associated protein 28'}
+V-type proton ATPase subunit G, 1, 0, undetermined, , {'Q25532', 'P78713', 'Q9XZH6', 'O74174', 'Q9SP55', 'P48836', 'Q54Z13'}, {'V-type proton ATPase subunit G'}
+V-type proton ATPase subunit A, 1, 0, undetermined, , {'O13742', 'Q01290'}, {'V-type proton ATPase subunit a'}
+Ubiquitin-specific-processing protease 29, 1, 0, undetermined, , {'Q9ES63', 'Q9HBJ7'}, {'Ubiquitin-specific-processing protease 29'}
+Ubiquitin-conjugating enzyme E2W, 1, 0, undetermined, , {'B5DEI4', 'Q28FC1', 'Q8VDW4', 'A6H795', 'Q96B02', 'Q9XWF6'}, {'Ubiquitin-conjugating enzyme E2 W'}
+Ubiquitin-conjugating enzyme E2 T, 1, 0, undetermined, , {'Q9CQ37', 'Q08BH7', 'Q7ZY08', 'Q32LD2', 'Q9NPD8'}, {'Ubiquitin-conjugating enzyme E2 T'}
+Ubiquitin-conjugating enzyme E2 O, 1, 0, undetermined, , {'Q6ZPJ3', 'Q9C0C9'}, {'Ubiquitin-conjugating enzyme E2 O'}
+Ubiquitin-conjugating enzyme E2 M, 1, 0, undetermined, , {'Q6P8D9', 'A3KN22', 'Q54TI6', 'Q6DCZ9', 'P61081', 'P61082'}, {'Ubiquitin-conjugating enzyme E2M', 'Ubiquitin-conjugating enzyme E2 M'}
+Ubiquitin-Conjugating Enzyme E2 C, 1, 0, undetermined, , {'Q9D1C1', 'P56616', 'Q32PA5', 'Q95044', 'O00762', 'Q4R9D1', 'Q9VTY6'}, {'Ubiquitin-conjugating enzyme E2 C'}
+UPF0324 membrane protein Cj0999c, 1, 0, undetermined, , {'Q9PNU1'}, {'UPF0324 membrane protein Cj0999c'}
+UDP-glucuronic acid:anthocyanin glucuronosyltransferase, 1, 0, undetermined, , {'Q5NTH0'}, {'UDP-glucuronic acid:anthocyanin glucuronosyltransferase'}
+U6 snRNA-specific terminal uridylyltransferase, 1, 0, undetermined, , {'Q23652'}, {'U6 snRNA-specific terminal uridylyltransferase'}
+U1 small nuclear ribonucleoprotein 70 kDa, 1, 0, undetermined, , {'P17133', 'Q1RMR2', 'P08621', 'P09406', 'Q66II8', 'Q62376', 'Q42404', 'Q55FQ0'}, {'U1 small nuclear ribonucleoprotein 70 kDa'}
+U-AITX-Aeq5a, 1, 0, undetermined, , {'Q3C258'}, {'U-AITX-Aeq5a'}
+Type-II 5'-deiodinase, 1, 0, undetermined, , {'Q9Z1Y9', 'Q5I3B2', 'Q6QN12', 'P49896', 'L7WGA7', 'Q9IAX2', 'Q92813', 'Q8UVX8', 'P79747', 'P70551'}, {"Type-II 5'-deiodinase"}
+Trinucleotide Repeat-Containing Gene 18 Protein, 1, 0, undetermined, , {'Q80WC3', 'O15417'}, {'Trinucleotide repeat-containing gene 18 protein'}
+Triggering Receptors expressed on Myeloid Cells 1, 1, 0, undetermined, , {'Q5RDA5', 'Q9NP99', 'Q6QUN5', 'Q9JKE2', 'Q6TYI6'}, {'Triggering receptor expressed on myeloid cells 1'}
+Trehalose-6-Phosphate Synthase 3, 1, 0, undetermined, , {'Q9SHG0'}, {'Trehalose-6-phosphate synthase 3'}
+Transmembrane 4 L6 family member 20, 1, 0, undetermined, , {'Q53R12', 'Q9CQY8', 'Q3T0Z4'}, {'Transmembrane 4 L6 family member 20'}
+Translocase of outer membrane 22 kDa subunit, 1, 0, undetermined, , {'P49334', 'Q07335', 'O13813'}, {'Translocase of outer membrane 22 kDa subunit'}
+Translocase of outer membrane 20 kDa subunit, 1, 0, undetermined, , {'Q5JJI4', 'P35180', 'A2WYG9', 'O14225', 'P35848', 'P92792'}, {'Translocase of outer membrane 20 kDa subunit'}
+Transforming growth factor β-1 proprotein, 1, 0, undetermined, , {'P54831', 'P18341', 'P09531', 'P07200', 'P01137', 'Q9Z1Y6', 'P04202', 'O93449', 'O19011', 'Q9PTQ2', 'Q38HS2', 'P50414', 'P16176', 'P09533', 'P17246'}, {'Transforming growth factor beta-1 proprotein'}
+Toxins C10S2C2, 1, 0, undetermined, , {'P25684'}, {'Toxin C10S2C2'}
+Thyroid hormone receptor-interacting protein 1, 1, 0, undetermined, , {'P62198', 'P62195'}, {'Thyroid hormone receptor-interacting protein 1'}
+TRAF6-inhibitory zinc finger protein, 1, 0, undetermined, , {'Q8TD23'}, {'TRAF6-inhibitory zinc finger protein'}
+TNF- Related Weak Inducer of Apoptosis, 1, 0, undetermined, , {'O43508', 'O54907'}, {'TNF-related weak inducer of apoptosis'}
+TNF- Related Apoptosis-Inducing Ligand, 1, 0, undetermined, , {'P50591', 'P50592'}, {'TNF-related apoptosis-inducing ligand'}
+TLS-associated serine-arginine protein, 1, 0, undetermined, , {'Q9R0U0', 'O75494'}, {'TLS-associated serine-arginine protein'}
+TIR domain-containing adapter molecule 2, 1, 0, undetermined, , {'Q2LGB7', 'Q8BJQ4', 'Q86XR7'}, {'TIR domain-containing adapter molecule 2'}
+TGF-β-activated Kinase 1, 1, 0, undetermined, , {'Q62073', 'Q9V3Q6', 'O43318'}, {'TGF-beta-activated kinase 1'}
+TBC1 domain family member 22A, 1, 0, undetermined, , {'Q8R5A6', 'Q8WUA7', 'Q95KI1'}, {'TBC1 domain family member 22A'}
+TBC1 domain family member 10B, 1, 0, undetermined, , {'Q8BHL3', 'Q4KMP7'}, {'TBC1 domain family member 10B'}
+T-lymphocyte activation antigens CD80, 1, 0, undetermined, , {'P42070', 'Q00609', 'P33681'}, {'T-lymphocyte activation antigen CD80'}
+T-complex protein 1 subunit ζ, 1, 0, undetermined, , {'O77622', 'Q5RCD2', 'Q5ZJ54', 'P46550', 'P39079', 'O94515', 'Q3MHL7', 'P80317', 'Q76NU3', 'P40227', 'Q29236'}, {'T-complex protein 1 subunit zeta'}
+T-complex protein 1 subunit zeta, 1, 0, undetermined, , {'O77622', 'Q5RCD2', 'Q5ZJ54', 'P46550', 'P39079', 'O94515', 'Q3MHL7', 'P80317', 'Q76NU3', 'P40227', 'Q29236'}, {'T-complex protein 1 subunit zeta'}
+T-complex protein 1 subunit Gamma, 1, 0, undetermined, , {'Q5NVF9', 'Q9LKI7', 'Q29068', 'O00782', 'Q54TH8', 'P39077', 'Q4R963', 'Q8SR76', 'Q6P502', 'O74341', 'P48605', 'P49368', 'P50143', 'P54408', 'Q9N4J8', 'Q3T0K2', 'P80318', 'Q84WV1'}, {'T-complex protein 1 subunit gamma'}
+T-complex Protein 1 Subunit ζ, 1, 0, undetermined, , {'O77622', 'Q5RCD2', 'Q5ZJ54', 'P46550', 'P39079', 'O94515', 'Q3MHL7', 'P80317', 'Q76NU3', 'P40227', 'Q29236'}, {'T-complex protein 1 subunit zeta'}
+T-cell immunoglobulin mucin receptor 3, 1, 0, undetermined, , {'P0C0K5', 'Q8TDQ0', 'Q8VIM0'}, {'T-cell immunoglobulin mucin receptor 3'}
+T-box transcription factor TBX19, 1, 0, undetermined, , {'O60806', 'Q5XNS0', 'Q99ME7', 'P79778'}, {'T-box transcription factor TBX19'}
+T-box transcription factor TBX15, 1, 0, undetermined, , {'O70306', 'Q96SF7'}, {'T-box transcription factor TBX15'}
+Synaptic Ras GTPase-activating protein 1, 1, 0, undetermined, , {'Q9QUH6', 'Q96PV0', 'F6SEU4'}, {'Synaptic Ras GTPase-activating protein 1'}
+Sterol-C4-methyl oxidase, 1, 0, undetermined, , {'O59933', 'Q6UGB2', 'Q9CRA4', 'Q4R4Q4', 'Q5R574', 'Q15800', 'O35532'}, {'Sterol-C4-methyl oxidase'}
+Steroid Receptor-Associated and Regulated Protein, 1, 0, undetermined, , {'Q3ULG3', 'Q8NEQ6'}, {'Steroid receptor-associated and regulated protein'}
+Stearoyl-CoA Desaturases FAT-6, 1, 0, undetermined, , {'G5EGN2'}, {'Stearoyl-CoA desaturase fat-6'}
+Sphingosine-1-phosphate lyase1, 1, 0, undetermined, , {'Q5R4G0', 'Q8CHN6', 'O95470', 'Q8R0X7'}, {'Sphingosine-1-phosphate lyase 1'}
+Spalt-like protein SEM-4, 1, 0, undetermined, , {'G5EFF4'}, {'Spalt-like protein sem-4'}
+Solute carrier family 35 member F3, 1, 0, undetermined, , {'Q1LZI2', 'Q8IY50'}, {'Solute carrier family 35 member F3'}
+Sodium-dependent vitamin C transporter 1, 1, 0, undetermined, , {'Q9Z2J0', 'Q9WTW7', 'Q9UHI7'}, {'Sodium-dependent vitamin C transporter 1'}
+Sodium-Dependent Vitamin C Transporter 1, 1, 0, undetermined, , {'Q9Z2J0', 'Q9WTW7', 'Q9UHI7'}, {'Sodium-dependent vitamin C transporter 1'}
+Small C-terminal Domain Phosphatase 3, 1, 0, undetermined, , {'O15194', 'Q9PTJ6', 'P58465'}, {'Small C-terminal domain phosphatase 3'}
+Small C-terminal Domain Phosphatase 1, 1, 0, undetermined, , {'P58466', 'Q9GZU7'}, {'Small C-terminal domain phosphatase 1'}
+Sit4-associating proteins Sap185, 1, 0, undetermined, , {'P40856'}, {'SIT4-associating protein SAP185'}
+Single-stranded DNA-binding Proteins, 1, 0, undetermined, , {'P22336', 'Q8UF87', 'O21957', 'P66846', 'P59927', 'P0DF76', 'O21946', 'Q8DSD8', 'P46390', 'Q92G30', 'Q9PPT7', 'P69542', 'Q82S98', 'Q9MCD0', 'P25762', 'P20313', 'P09035', 'P9WGD4', 'O85824', 'Q72UU3', 'O66475', 'P0A4K1', 'P03695', 'Q89L50', 'O84048', 'Q87LA3', 'Q99SQ9', 'Q9K5N9', 'O21955', 'Q8K933', 'P68675', 'Q8G0J1', 'Q889U1', 'Q9KUW2', 'P57610', 'Q2YPX7', 'Q8KSB6', 'O21947', 'Q8F052', 'Q9CJP4', 'P59932', 'P66849', 'P17637', 'Q9AFI5', 'Q37885', 'P56898', 'P9WGD5', 'O21958', 'P66847', 'Q88QK5', 'Q8R6M2', 'Q9ZCC2', 'O21952', 'P15417', 'O21956', 'Q8L2A6', 'P59928', 'Q8CX55', 'P03670', 'P0A611', 'Q8G757', 'Q83EP4', 'P47337', 'Q8Y2B4', 'Q9RY51', 'Q68Y11', 'Q89A53', 'O25841', 'Q9A894', 'Q8NVN2', 'P03672', 'Q98M41', 'Q899R2', 'P68676', 'P69544', 'Q9MCD1', 'P03696', 'Q8EA81', 'Q98PV9', 'P77953', 'P0AGE0', 'Q4UJW3', 'O69302', 'Q9WZ73', 'Q8NLG0', 'P0AGE1', 'Q81JI3', 'P59931', 'P27694', 'Q9Z8F7', 'Q8RE26', 'Q814G6', 'O83101', 'Q839Y9', 'P66848', 'Q5SLP9', 'Q8A7M7', 'O21945', 'Q87DQ5', 'O21948', 'P66854', 'O21949', 'P75542', 'O21950', 'P60471', 'Q8DIU1', 'P0AGE2', 'Q9XJG4', 'P41453', 'P0C118', 'Q58559', 'Q890K1', 'Q6GF73', 'Q8GAN5', 'O21960', 'P59930', 'Q1RK72', 'P66855', 'Q8XH44', 'Q8PIJ2', 'Q823K0', 'O51141', 'O27438', 'Q8D254', 'Q847G1', 'P03671', 'Q8VMM4', 'O21951', 'P44409', 'O21959', 'Q9PKZ4', 'O21953', 'P28046', 'Q8P778', 'Q8DCJ0', 'O80294', 'P40947', 'Q8ZJ06', 'Q01588', 'Q24492', 'Q9ZAQ8', 'Q8YHC2', 'P06953', 'P66852', 'O21954', 'P0DF77', 'Q38504', 'Q8FLP9', 'Q9ZJY2', 'Q8EWT6', 'P09797', 'P0AGE3', 'Q9KH06', 'P59933', 'P69543', 'Q8CNK0'}, {'Single-stranded DNA-binding protein'}
+Signal Transducer And Activator Of Transcription 3.1, 1, 0, undetermined, , {'Q9PVX8'}, {'Signal transducer and activator of transcription 3.1'}
+Short-chain acyl-CoA oxidases, 1, 0, undetermined, , {'Q96329'}, {'Short-chain acyl-CoA oxidase'}
+Shk1 kinase-binding protein 1, 1, 0, undetermined, , {'P78963'}, {'Shk1 kinase-binding protein 1'}
+Serine/threonine-protein kinases 3, 1, 0, undetermined, , {'Q13188', 'Q7ZUQ3', 'O54748', 'Q6IP06', 'Q9JI10'}, {'Serine/threonine-protein kinase 3'}
+Serine protease inhibitor kazal-type 6, 1, 0, undetermined, , {'Q6IE47', 'Q6UWN8', 'P01001', 'Q8BT20'}, {'Serine protease inhibitor Kazal-type 6'}
+Serine Protease Inhibitor Kazal-Type 2, 1, 0, undetermined, , {'P20155', 'Q6IE49', 'Q8BMY7', 'P34953'}, {'Serine protease inhibitor Kazal-type 2'}
+Serine Protease Inhibitor Kazal-Type 1, 1, 0, undetermined, , {'P00998', 'P00997', 'P81635', 'P00996', 'P09036', 'P04542', 'P81634', 'Q9PSM2', 'P00995', 'P09655'}, {'Serine protease inhibitor Kazal-type 1'}
+Seminal plasma protein BSP-30 kDa, 1, 0, undetermined, , {'P81019'}, {'Seminal plasma protein BSP-30 kDa'}
+Secretory carrier-associated membrane protein 3, 1, 0, undetermined, , {'O35609', 'Q58DR5', 'Q9M5P2', 'Q60EA5', 'O14828'}, {'Secretory carrier-associated membrane protein 3'}
+Secretory Carrier-Associated Membrane Protein 4, 1, 0, undetermined, , {'Q969E2', 'Q5RCY9', 'Q58DF6', 'Q9JKV5', 'Q9C6X2', 'Q75IC7', 'Q9ET20'}, {'Secretory carrier-associated membrane protein 4'}
+Sam68-Like Mammalian Protein 2, 1, 0, undetermined, , {'Q9R226', 'Q9JLP1', 'O75525'}, {'Sam68-like mammalian protein 2'}
+Salt-induced RING finger protein 1, 1, 0, undetermined, , {'Q6AVN2'}, {'Salt-induced RING finger protein 1'}
+SH3 domain-binding proteins 1, 1, 0, undetermined, , {'P55194', 'Q9Y3L3', 'Q9H299', 'D3ZFJ3'}, {'SH3 domain-binding protein 1'}
+SET domain-containing protein 1A, 1, 0, undetermined, , {'E9PYH6', 'O15047'}, {'SET domain-containing protein 1A'}
+SANT and BTB domain regulator of CSR, 1, 0, undetermined, , {'A1A5R8', 'Q08AX9', 'Q68FF0', 'Q6NSI8'}, {'SANT and BTB domain regulator of CSR'}
+SAM hydrolase (adenosine-forming), 1, 0, undetermined, , {'O58212', 'A8M783'}, {'SAM hydrolase (adenosine-forming)'}
+S100 calcium-binding protein b, 1, 0, undetermined, , {'Q6YNR6', 'P02638', 'P50114', 'P04271', 'P04631'}, {'S100 calcium-binding protein B'}
+S100 Calcium Binding Protein A16, 1, 0, undetermined, , {'Q9D708'}, {'S100 calcium binding protein A16'}
+S-Acyl fatty acid synthase thioesterase, 1, 0, undetermined, , {'Q9UUG0', 'P07149', 'Q92215', 'A0A1U8QK63', 'Q5AV07', 'P34229', 'P34731', 'M2XHU6', 'I1S489', 'Q2TXG3', 'Q8TGA1'}, {'S-acyl fatty acid synthase thioesterase'}
+S-(hydroxymethyl) glutathione dehydrogenase, 1, 0, undetermined, , {'P28474', 'Q96533', 'A7ZX04', 'B1LIP1', 'O19053', 'Q1RFI7', 'A2XAZ3', 'P81601', 'P45382', 'Q3Z550', 'O74685', 'P44557', 'P80360', 'P0CL53', 'P81431', 'P80467', 'P46415', 'P39450', 'P80572', 'P73138', 'Q06099', 'Q0DWH1', 'P86884', 'Q8X5J4', 'P81600', 'Q3ZC42', 'Q54TC2', 'P32771', 'A7ZIA4', 'B1J085', 'P79896', 'Q8FKG1', 'P19854', 'A1A835', 'Q0TKS7', 'P11766', 'P12711', 'P25437', 'P47734', 'Q17335', 'P93629', 'P72324'}, {'S-(hydroxymethyl)glutathione dehydrogenase'}
+Ribose import ATP-binding protein RbsA, 1, 0, undetermined, , {'P36947', 'P04983', 'Q87H79', 'Q1J3P2', 'Q81HW8', 'Q28P50', 'Q9KN37', 'Q5KUX3', 'Q62K91', 'Q81V36', 'Q8ZKV9', 'Q7UU57', 'Q0TAW0', 'Q8NR12', 'Q63FX9', 'Q891M1', 'Q8Z2R4', 'Q9CF44', 'Q7NA79', 'Q65E55', 'Q0SSJ0', 'Q1GHE5', 'Q02XM9', 'Q63P06', 'Q7MEV1', 'Q8XJX3', 'Q5WC31', 'Q3J3V9', 'Q11C01', 'Q1R4I3', 'Q7NTN6', 'Q3MB44', 'Q8D7T7', 'Q5PJX5', 'Q8FBS3', 'Q8E281', 'P44735', 'Q03CA4', 'Q2SJ99', 'Q3K3R2', 'Q4QN44', 'Q8ENB3', 'Q664G2', 'Q3YVK8', 'Q8RD43', 'Q0S9A4', 'Q7CG00', 'Q73DH7', 'Q1CDJ0', 'Q88J90', 'Q57HW1', 'Q8E7N9', 'Q5E4V6', 'Q164K3', 'Q1C1B8', 'Q13LX0', 'Q9K6J9', 'Q0TPX5', 'Q6DB87', 'Q6LH11', 'Q329G7', 'Q6HNE7'}, {'Ribose import ATP-binding protein RbsA'}
+Retinol-Binding Protein Receptor STRA6, 1, 0, undetermined, , {'Q0V8E7', 'Q9BX79', 'Q4QR83', 'O70491', 'Q5R7B4'}, {'Retinol-binding protein receptor STRA6'}
+Regulator of G-protein signaling 7, 1, 0, undetermined, , {'P49803', 'O46470', 'P49802', 'O54829'}, {'Regulator of G-protein signaling 7'}
+Regulator of G-protein Signaling 8, 1, 0, undetermined, , {'Q95K68', 'P57771', 'Q6DGI0', 'Q8BXT1', 'P49804'}, {'Regulator of G-protein signaling 8'}
+Receptor-like protein kinase HERK 1, 1, 0, undetermined, , {'Q9LX66'}, {'Receptor-like protein kinase HERK 1'}
+Receptor for Activated C Kinase1A, 1, 0, undetermined, , {'P49027', 'O24456'}, {'Receptor for activated C kinase 1A'}
+Ras-related protein rab-10, 1, 0, undetermined, , {'Q5ZIT5', 'P35281', 'P61027', 'Q5R5U1', 'P22127', 'P61026', 'Q94148', 'P24409'}, {'Ras-related protein Rab-10'}
+Ras-related protein Rap-1, 1, 0, undetermined, , {'Q94694', 'P18613', 'Q18246'}, {'Ras-related protein rap-1', 'Ras-related protein Rap-1'}
+Ras-related protein Rab6A, 1, 0, undetermined, , {'O80501'}, {'Ras-related protein Rab6A'}
+Ras-related protein Rab1B, 1, 0, undetermined, , {'P28188'}, {'Ras-related protein Rab1B'}
+Ras-Related Protein Rab-38, 1, 0, undetermined, , {'P57729', 'Q8QZZ8'}, {'Ras-related protein Rab-38'}
+Rab7-interacting ring finger protein, 1, 0, undetermined, , {'Q9Y4L5', 'Q9D0C1'}, {'Rab7-interacting RING finger protein'}
+Rab7-interacting RING finger protein, 1, 0, undetermined, , {'Q9Y4L5', 'Q9D0C1'}, {'Rab7-interacting RING finger protein'}
+Rab11 family-interacting protein 3, 1, 0, undetermined, , {'O75154', 'Q7T005', 'Q8CHD8'}, {'Rab11 family-interacting protein 3'}
+Rab-interacting lysosomal protein-like, 1, 0, undetermined, , {'O76878'}, {'Rab-interacting lysosomal protein-like'}
+Rab GTPase-binding effector protein 2, 1, 0, undetermined, , {'Q91WG2', 'A4FUG8', 'Q62835', 'Q5RCR6', 'Q9H5N1'}, {'Rab GTPase-binding effector protein 2'}
+RNA-binding protein Mex3A, 1, 0, undetermined, , {'A1L020'}, {'RNA-binding protein MEX3A'}
+RNA-binding protein CP31A, 1, 0, undetermined, , {'Q04836'}, {'RNA-binding protein CP31A'}
+RNA-binding motif protein 15B, 1, 0, undetermined, , {'Q8NDT2', 'Q6PHZ5'}, {'RNA-binding motif protein 15B'}
+RNA-Binding Protein With Multiple Splicing, 1, 0, undetermined, , {'Q93062', 'Q9WVB0'}, {'RNA-binding protein with multiple splicing'}
+RNA polymerase sigma factor for flagellar operon, 1, 0, undetermined, , {'P52621', 'P0AEM6', 'P29248', 'P0AEM8', 'P0AEM7', 'P0A2E9', 'Q03474', 'P0A2E8'}, {'RNA polymerase sigma factor for flagellar operon'}
+RNA polymerase II elongation factor ELL3, 1, 0, undetermined, , {'F1MGG3', 'Q9HB65', 'Q5XFX8', 'Q80VR2'}, {'RNA polymerase II elongation factor ELL3'}
+RNA polymerase I-associated factor 53, 1, 0, undetermined, , {'Q8K202', 'Q6GLI9', 'Q9GZS1'}, {'RNA polymerase I-associated factor 53'}
+RING-Type E3 Ubiquitin Transferase, 1, 0, undetermined, , {'Q6TV02', 'Q9LU47', 'D1FP53', 'Q5T197', 'Q14258', 'Q8S8S7', 'Q61510', 'Q5UQ40', 'Q9FKG6', 'Q9SW11', 'Q5WA76', 'Q9FKG5', 'Q059Y8', 'Q8GUH1'}, {'RING-type E3 ubiquitin transferase'}
+R2-like ligand binding oxidases, 1, 0, undetermined, , {'A0QPD3', 'A3Q4Y5', 'B1MHK0', 'A0QMC0', 'A4F7B2', 'A1KF53', 'A1TAR1', 'Q73TP6', 'A4TB76', 'A1UKW4', 'P9WH69', 'A5TYV8', 'Q1B465', 'Q7U2I1', 'P9WH68', 'Q0S392'}, {'R2-like ligand binding oxidase'}
+Pyk2/RAFTK-associated protein, 1, 0, undetermined, , {'Q3UND0', 'O75563'}, {'Pyk2/RAFTK-associated protein'}
+Protein phosphatase Mg2+/Mn2+ dependent 1, 1, 0, undetermined, , {'Q19775'}, {'Protein phosphatase Mg2+/Mn2+ dependent 1'}
+Protein phosphatase 1 regulatory subunit 3G, 1, 0, undetermined, , {'Q9CW07', 'B7ZBB8'}, {'Protein phosphatase 1 regulatory subunit 3G'}
+Protein phosphatase 1 regulatory subunit 3B, 1, 0, undetermined, , {'A6QNP3', 'Q803M0', 'Q28E28', 'Q86XI6', 'Q6IN01', 'Q8C767'}, {'Protein phosphatase 1 regulatory subunit 3B'}
+Protein phosphatase 1 regulatory subunit 14A, 1, 0, undetermined, , {'Q91VC7', 'O18734', 'Q96A00', 'Q99MC0'}, {'Protein phosphatase 1 regulatory subunit 14A'}
+Protein Radical-induced Cell Death1, 1, 0, undetermined, , {'Q8RY59'}, {'Protein RADICAL-INDUCED CELL DEATH 1'}
+Protein Phosphatase 1 Regulatory Subunit 3F, 1, 0, undetermined, , {'Q6ZSY5', 'Q9JIG4'}, {'Protein phosphatase 1 regulatory subunit 3F'}
+Protein Phosphatase 1 Regulatory Subunit 3B, 1, 0, undetermined, , {'A6QNP3', 'Q803M0', 'Q28E28', 'Q86XI6', 'Q6IN01', 'Q8C767'}, {'Protein phosphatase 1 regulatory subunit 3B'}
+Protein NH2-terminal asparagine deamidase, 1, 0, undetermined, , {'Q64311', 'Q28955', 'Q96AB6', 'O64876'}, {'Protein NH2-terminal asparagine deamidase'}
+Prostate tumor-overexpressed gene 1 protein, 1, 0, undetermined, , {'Q86YD1'}, {'Prostate tumor-overexpressed gene 1 protein'}
+Prolyl Hydroxylase Domain-Containing Protein 3, 1, 0, undetermined, , {'Q91UZ4', 'Q9H6Z9', 'Q62630'}, {'Prolyl hydroxylase domain-containing protein 3'}
+Poly(U)-specific endoribonuclease, 1, 0, undetermined, , {'B1H3D5'}, {'Poly(U)-specific endoribonuclease'}
+Platform element for inhibition of autolytic degradation, 1, 0, undetermined, , {'E9Q6E9', 'Q8NDZ2', 'F1LWT0'}, {'Platform element for inhibition of autolytic degradation'}
+Platelet-derived growth factor subunit A, 1, 0, undetermined, , {'Q2KJ15', 'P28576', 'P34007', 'P04085', 'P20033', 'P13698'}, {'Platelet-derived growth factor subunit A'}
+Plant UBX domain-containing protein 1, 1, 0, undetermined, , {'Q9LK22'}, {'Plant UBX domain-containing protein 1'}
+Pin2-interacting protein X1, 1, 0, undetermined, , {'Q96BK5', 'A4L691', 'Q9CZX5'}, {'Pin2-interacting protein X1'}
+PiggyBac transposable element-derived protein 4, 1, 0, undetermined, , {'Q96DM1'}, {'PiggyBac transposable element-derived protein 4'}
+Phosphoinositide 3-kinase adapter protein 1, 1, 0, undetermined, , {'Q9DDT2', 'Q6ZUJ8', 'Q9EQ32'}, {'Phosphoinositide 3-kinase adapter protein 1'}
+Phosphatidylinositol 5-Phosphate 4-Kinases, 1, 0, undetermined, , {'P48426', 'O70172'}, {'Phosphatidylinositol 5-Phosphate 4-Kinase'}
+Phosphatidic acid-preferring phospholipase A1, 1, 0, undetermined, , {'O46606'}, {'Phosphatidic acid-preferring phospholipase A1'}
+Periplasmic pH-dependent serine endoprotease DegQ, 1, 0, undetermined, , {'P39099'}, {'Periplasmic pH-dependent serine endoprotease DegQ'}
+Pals1-associated Tight Junction Protein, 1, 0, undetermined, , {'Q8NI35', 'F1MAD2', 'Q63ZW7', 'E2QYC9'}, {'Pals1-associated tight junction protein'}
+PTS system lactose-specific EIICB component, 1, 0, undetermined, , {'Q8CNF7', 'Q931G6', 'P23531', 'Q7A092', 'P24400', 'Q5HE15', 'Q6G7C4', 'Q99S77', 'Q6GEN9', 'P50976', 'Q5HM40', 'P11162', 'Q4L869'}, {'PTS system lactose-specific EIICB component'}
+PMCA-interacting single-PDZ protein, 1, 0, undetermined, , {'Q5EBL8'}, {'PMCA-interacting single-PDZ protein'}
+PLZF-like protein TRA-4, 1, 0, undetermined, , {'Q20709'}, {'PLZF-like protein tra-4'}
+PII-like signal transduction protein DarA, 1, 0, undetermined, , {'P37538'}, {'PII-like signal transduction protein DarA'}
+PAAD and NACHT-containing protein 2, 1, 0, undetermined, , {'Q96MN2'}, {'PAAD and NACHT-containing protein 2'}
+OTU domain-containing protein 7B, 1, 0, undetermined, , {'Q6GQQ9', 'B2RUR8'}, {'OTU domain-containing protein 7B'}
+OTU domain-containing protein 7A, 1, 0, undetermined, , {'Q8R554', 'Q8TE49'}, {'OTU domain-containing protein 7A'}
+O-phosphoserine-specific cysteine synthase, 1, 0, undetermined, , {'P9WP53', 'P9WP52', 'P63874'}, {'O-phosphoserine-specific cysteine synthase'}
+Nucleosome assembly protein 1-like 4, 1, 0, undetermined, , {'Q5U2Z3', 'Q70Z16', 'Q2TA40', 'B9FU45', 'Q99733', 'Q78ZA7', 'B8B4K9'}, {'Nucleosome assembly protein 1-like 4'}
+Nucleosome Assembly Protein 1-Like 3, 1, 0, undetermined, , {'Q794H2', 'Q924R9', 'A2ZX50', 'Q99457', 'Q70Z17', 'Q5R675', 'Q5MGA9'}, {'Nucleosome assembly protein 1-like 3'}
+Nuclear cytoplasmic O-GlcNAcase and acetyltransferase, 1, 0, undetermined, , {'O60502'}, {'Nuclear cytoplasmic O-GlcNAcase and acetyltransferase'}
+Nuclear Dbf2-related kinases 1, 1, 0, undetermined, , {'Q91VJ4', 'Q15208'}, {'Nuclear Dbf2-related kinase 1'}
+Nuclear Dbf2-related Kinase 1, 1, 0, undetermined, , {'Q91VJ4', 'Q15208'}, {'Nuclear Dbf2-related kinase 1'}
+Neuropilin and tolloid-like proteins 1, 1, 0, undetermined, , {'Q8R4I7', 'Q8TDF5'}, {'Neuropilin and tolloid-like protein 1'}
+Na-K-Cl Cotransporter 1, 1, 0, undetermined, , {'A0A0G2KTI4'}, {'Na-K-Cl cotransporter 1'}
+Na+ (Li+)/melibiose symporter, 1, 0, undetermined, , {'Q02581', 'O07366', 'P02921', 'P30878'}, {'Na+ (Li+)/melibiose symporter'}
+NGFI-A-Binding protein 2, 1, 0, undetermined, , {'Q15742', 'Q61127'}, {'NGFI-A-binding protein 2'}
+NF-kappa-B inhibitor zeta, 1, 0, undetermined, , {'Q9EST8', 'Q9BYH8', 'Q9BE45'}, {'NF-kappa-B inhibitor zeta'}
+NADPH-dependent nitro/flavin reductase, 1, 0, undetermined, , {'P39605'}, {'NADPH-dependent nitro/flavin reductase'}
+NADPH-dependent flavodoxin/ferrodoxin reductase, 1, 0, undetermined, , {'Q8VQF5'}, {'NADPH-dependent flavodoxin/ferrodoxin reductase'}
+NADH-dependent caffeyl-CoA reduction, 1, 0, undetermined, , {'H6LGM6'}, {'NADH-dependent caffeyl-CoA reduction'}
+NAD-dependent histone deacetylase hst4, 1, 0, undetermined, , {'P53688'}, {'NAD-dependent histone deacetylase HST4'}
+NAD-dependent histone deacetylase SIR2, 1, 0, undetermined, , {'Q6FWI7', 'O94640', 'O59923', 'Q757M7', 'P33294', 'P06700'}, {'NAD-dependent histone deacetylase SIR2', 'NAD-dependent histone deacetylase sir2'}
+NAD (P) H quinone reductase, 1, 0, undetermined, , {'P9WHH7', 'P9WHH6'}, {'NAD(P)H quinone reductase'}
+N6-methyl-AMP aminohydrolase, 1, 0, undetermined, , {'Q6DHV7'}, {'N6-methyl-AMP aminohydrolase'}
+N-acetyl-β- glucosaminidase, 1, 0, undetermined, , {'Q8PMU1', 'Q31G32', 'B3EWR5', 'Q0AF74', 'P40406', 'Q0HVQ8', 'Q5QUZ5', 'Q8ZFS3', 'P43077', 'Q5P081', 'A9M1Z4', 'O60502', 'Q9KU37', 'B5F8E5', 'B3GXZ7', 'B4TTH9', 'B4EVE7', 'B0U3L0', 'A5UDA9', 'Q7VWV8', 'Q8ZQ06', 'Q2CEE3', 'Q8FIN2', 'A0KXK3', 'A1SW90', 'Q3SKU2', 'B7MTN7', 'Q2P4L0', 'B0RX17', 'Q9PAZ0', 'Q3J953', 'Q7N397', 'B2U513', 'Q32EW7', 'Q2KXM7', 'P96157', 'B2FPW9', 'P49008', 'Q0I414', 'B5QXC7', 'Q8VIJ5', 'Q89ZI2', 'B8F5N0', 'B6I9I5', 'B7LG40', 'Q31ZG4', 'C5BFM6', 'Q7VNI8', 'Q82SJ8', 'B7NKH2', 'A7FH41', 'Q9EQQ9', 'Q1H075', 'Q7UCW4', 'B8GSD2', 'Q7NWB7', 'Q080R9', 'C4LEY6', 'A1JME4', 'B5FK98', 'Q6D674', 'B7MJ94', 'P48823', 'C6DKR8', 'Q5H1Q0', 'D4AYT4', 'Q9JVT3', 'A9N5J6', 'B4TFI4', 'B2VDM3', 'Q5PGT0', 'B0BQ51', 'B7LX41', 'Q619W7', 'P49007', 'Q7WH65', 'Q8Z7I6', 'Q8PB42', 'B1LI37', 'Q8EEW2', 'Q22492', 'P96155', 'P85512', 'C3LSU7', 'B4T3P6', 'A6VKU4', 'Q9CPH0', 'Q3Z310', 'Q1RD47', 'P13670', 'B5XXG4', 'Q2Y863', 'B4RQ67', 'P58067', 'Q669N5', 'B5YVX6', 'Q54468', 'Q0HJG7', 'Q4USG7', 'B5RB93', 'Q4QLU8', 'Q9K0Q4', 'C4ZS47', 'P44955', 'A1AA01', 'Q8XL08', 'A7ZKL1', 'Q0A911', 'Q606N2', 'Q04786', 'Q57QE6', 'B1XA17', 'Q7W9J5', 'Q9RHG4', 'B7NAY5', 'Q9HZK0', 'P86956', 'Q65VK7', 'H2A0L6', 'B4SRK3', 'B2K731', 'A1KSD9', 'B0UTC6', 'Q6LJ30', 'Q87BR5', 'Q3BVU6', 'B7UPC3', 'Q02PG9', 'P75949', 'Q5FA94', 'A3N1B7', 'A7ZZ65', 'A7MFT1', 'B7UYS5', 'B1IUF8', 'A5F8Y1', 'B2I6G9', 'B7LT32', 'B1JI47'}, {'N-acetyl-beta-glucosaminidase'}
+N-acetyl-Beta-galactosaminidase, 1, 0, undetermined, , {'Q3U4H6', 'A6QNR0', 'Q8WVB3'}, {'N-acetyl-beta-galactosaminidase'}
+N-Acetyl-α-Glucosaminidase, 1, 0, undetermined, , {'P54802'}, {'N-acetyl-alpha-glucosaminidase'}
+N-Acetyl-Alpha-Glucosaminidase, 1, 0, undetermined, , {'P54802'}, {'N-acetyl-alpha-glucosaminidase'}
+N, N'-diacetylchitobiose phosphorylase, 1, 0, undetermined, , {'Q76IQ9', 'Q9F8X1'}, {"N,N'-diacetylchitobiose phosphorylase"}
+Myosin Light Chain Kinase Family Member 4, 1, 0, undetermined, , {'Q86YV6', 'Q5SUV5'}, {'Myosin light chain kinase family member 4'}
+Myocyte-specific enhancer factor 2D, 1, 0, undetermined, , {'O89038', 'Q14814', 'Q63943'}, {'Myocyte-specific enhancer factor 2D'}
+Mono (ADP-ribosyl)transferases, 1, 0, undetermined, , {'Q7N8B1', 'Q92080'}, {'Mono(ADP-ribosyl)transferase'}
+Mixed Lineage Kinase Domain-like Proteins, 1, 0, undetermined, , {'Q9D2Y4', 'Q8NB16'}, {'Mixed lineage kinase domain-like protein'}
+Milk fat globule- EGF factor 8, 1, 0, undetermined, , {'C0HJR4', 'P79385', 'Q08431', 'P85297', 'P70490', 'Q95114', 'P21956'}, {'Milk fat globule-EGF factor 8'}
+Mg-protoporphyrin IX chelatase subunit ChlD, 1, 0, undetermined, , {'B8AMB8', 'O22437', 'O24133', 'Q6ATS0', 'Q9SJE1'}, {'Mg-protoporphyrin IX chelatase subunit ChlD'}
+Methyl-CpG-Binding Protein2, 1, 0, undetermined, , {'Q95LG8', 'P51608', 'Q00566', 'Q9Z2D6'}, {'Methyl-CpG-binding protein 2'}
+Membrane-type-2 matrix metalloproteinase, 1, 0, undetermined, , {'O54732', 'P51511'}, {'Membrane-type-2 matrix metalloproteinase'}
+Membrane-bound proton-translocating pyrophosphatase, 1, 0, undetermined, , {'Q8PH20', 'Q8YGH4', 'O68460', 'Q8PYZ7', 'Q9A8J0', 'Q8VRZ2', 'Q82EJ8', 'Q8VRZ3', 'Q3AFC6', 'Q8TJA8', 'Q8ZWI8', 'Q8KY01', 'Q8RCX1', 'Q8P5M6', 'Q8G1E6', 'Q82TF3', 'Q8UG67', 'P60363', 'Q983A3', 'Q9X913', 'Q8VNU8', 'Q8KDT8', 'Q89K83', 'Q8VNW3', 'Q8VRZ1'}, {'Membrane-bound proton-translocating pyrophosphatase'}
+Membrane-Bound Lytic Murein Transglycosylase A, 1, 0, undetermined, , {'Q9KPQ4', 'P0A936', 'P0A935'}, {'Membrane-bound lytic murein transglycosylase A'}
+Mannosidase alpha class 2a member 2, 1, 0, undetermined, , {'Q8BRK9', 'P49641'}, {'Mannosidase alpha class 2A member 2'}
+Major facilitator superfamily domain-containing protein, 1, 0, undetermined, , {'A0A7J6K338', 'S8EZA7'}, {'Major facilitator superfamily domain-containing protein'}
+MIR-interacting saposin-like protein, 1, 0, undetermined, , {'Q9QXT0', 'Q9Y2B0'}, {'MIR-interacting saposin-like protein'}
+MIR-interacting Saposin-like protein, 1, 0, undetermined, , {'Q9QXT0', 'Q9Y2B0'}, {'MIR-interacting saposin-like protein'}
+MAP kinase signal-integrating kinases 1, 1, 0, undetermined, , {'Q9BUB5', 'Q9YGW0', 'O08605', 'Q4G050', 'Q66JF3', 'Q58D94'}, {'MAP kinase signal-integrating kinase 1'}
+MADS-domain-containing protein 1, 1, 0, undetermined, , {'Q5K4R0'}, {'MADS-domain-containing protein 1'}
+M-lycotoxin-Ls3b, 1, 0, undetermined, , {'P0C2U7'}, {'M-lycotoxin-Ls3b'}
+M-PONTX-Na1b, 1, 0, undetermined, , {'P0DSM4'}, {'M-PONTX-Na1b'}
+Lysine-specific histone demethylase 1B, 1, 0, undetermined, , {'Q8CIG3', 'Q8NB78'}, {'Lysine-specific histone demethylase 1B'}
+Long-Chain acyl-CoA Synthetases, 1, 0, undetermined, , {'P63522', 'P69452', 'O07610', 'P44446', 'P63521', 'Q8ZES9', 'P69451', 'P94547', 'P46450', 'Q8XDR6'}, {'Long-chain acyl-CoA synthetase'}
+Long chain acyl-CoA synthetase 4, 1, 0, undetermined, , {'Q9T0A0'}, {'Long chain acyl-CoA synthetase 4'}
+Long chain acyl-CoA synthetase 3, 1, 0, undetermined, , {'Q9C7W4'}, {'Long chain acyl-CoA synthetase 3'}
+Listerin E3 ubiquitin protein ligase 1, 1, 0, undetermined, , {'Q9VW09'}, {'Listerin E3 ubiquitin protein ligase 1'}
+LONG CHAIN ACYL-COA SYNTHETASE 4, 1, 0, undetermined, , {'Q9T0A0'}, {'Long chain acyl-CoA synthetase 4'}
+LIM homeobox transcription factor 1-alpha, 1, 0, undetermined, , {'Q04650', 'Q9JKU8', 'Q8TE12'}, {'LIM homeobox transcription factor 1-alpha'}
+LETM1 domain-containing protein 1, 1, 0, undetermined, , {'A3KN46', 'Q6P1Q0', 'Q924L1', 'Q28EM8'}, {'LETM1 domain-containing protein 1'}
+L-type amino acid transporter1, 1, 0, undetermined, , {'Q7YQK4', 'Q9Z127', 'Q63016', 'Q01650'}, {'L-type amino acid transporter 1'}
+L-sorbose 1-phosphate reductase, 1, 0, undetermined, , {'P37084'}, {'L-sorbose 1-phosphate reductase'}
+L-3-hydroxyacyl CoA dehydrogenases, 1, 0, undetermined, , {'P00348'}, {'L-3-hydroxyacyl CoA dehydrogenase'}
+Kita-Kyushu lung cancer antigen 1, 1, 0, undetermined, , {'Q5H943'}, {'Kita-kyushu lung cancer antigen 1'}
+Kinesin-like protein KIF20B, 1, 0, undetermined, , {'Q96Q89', 'Q80WE4'}, {'Kinesin-like protein KIF20B'}
+Kinesin-Like Protein KIF20B, 1, 0, undetermined, , {'Q96Q89', 'Q80WE4'}, {'Kinesin-like protein KIF20B'}
+Kin of IRRE-like protein 1, 1, 0, undetermined, , {'Q6X936', 'Q80W68', 'Q96J84'}, {'Kin of IRRE-like protein 1'}
+Kin of IRRE-like Protein 2, 1, 0, undetermined, , {'Q6UWL6', 'Q7TSU7'}, {'Kin of IRRE-like protein 2'}
+Ki-1/57 intracellular antigen, 1, 0, undetermined, , {'Q5JVS0', 'A1L1K8'}, {'Ki-1/57 intracellular antigen'}
+Keratin-Associated Protein 27-1, 1, 0, undetermined, , {'Q3LI81'}, {'Keratin-associated protein 27-1'}
+Keratin-Associated Protein 21-2, 1, 0, undetermined, , {'Q3LI59'}, {'Keratin-associated protein 21-2'}
+Keratin-Associated Protein 2-1, 1, 0, undetermined, , {'Q9BYU5'}, {'Keratin-associated protein 2-1'}
+KAT8 Regulatory NSL Complex Subunit 1, 1, 0, undetermined, , {'Q80TG1', 'Q7Z3B3'}, {'KAT8 regulatory NSL complex subunit 1'}
+Jumonji domain-containing protein 1C, 1, 0, undetermined, , {'Q69ZK6', 'Q15652'}, {'Jumonji domain-containing protein 1C'}
+Janus-atracotoxin-Hv1c, 1, 0, undetermined, , {'P82228'}, {'Janus-atracotoxin-Hv1c'}
+JNK-associated leucine-zipper protein, 1, 0, undetermined, , {'O60271', 'Q58A65'}, {'JNK-associated leucine-zipper protein'}
+Intrinsic Factor-Vitamin B12 Receptor, 1, 0, undetermined, , {'O60494', 'O70244'}, {'Intrinsic factor-vitamin B12 receptor'}
+Inositol Polyphosphate 4-phosphatase type II, 1, 0, undetermined, , {'O15327', 'Q4R4D7', 'Q5RA60', 'Q9QWG5', 'Q6P1Y8'}, {'Inositol polyphosphate 4-phosphatase type II'}
+Indoleamine 2, 3- dioxygenase 1, 1, 0, undetermined, , {'P28776', 'Q9ERD9', 'P14902'}, {'Indoleamine 2,3-dioxygenase 1'}
+IGF2BP2 antisense RNA1, 1, 0, undetermined, , {'Q96M15'}, {'IGF2BP2 antisense RNA 1'}
+I-kappa-B-zeta, 1, 0, undetermined, , {'Q9EST8', 'Q9BYH8', 'Q9BE45'}, {'I-kappa-B-zeta'}
+I-Kappa-B-Zeta, 1, 0, undetermined, , {'Q9EST8', 'Q9BYH8', 'Q9BE45'}, {'I-kappa-B-zeta'}
+Hypoxia-Inducible Factor 1- alpha, 1, 0, undetermined, , {'Q61221', 'Q0PGG7', 'Q309Z6', 'Q9XTA5', 'Q9YIB9', 'Q16665', 'Q98SW2', 'Q9I8A9', 'O35800'}, {'Hypoxia-inducible factor 1-alpha'}
+Hsp70-Hsp90 Organizing Protein, 1, 0, undetermined, , {'F8RP11'}, {'Hsp70-Hsp90 organizing protein'}
+Hmg-CoA reductase degradation protein 1, 1, 0, undetermined, , {'Q08109'}, {'HMG-CoA reductase degradation protein 1'}
+His domain-containing protein tyrosine phosphatase, 1, 0, undetermined, , {'O88902', 'Q9H3S7'}, {'His domain-containing protein tyrosine phosphatase'}
+High affinity immunoglobulin gamma Fc receptor I, 1, 0, undetermined, , {'P26151', 'P12314'}, {'High affinity immunoglobulin gamma Fc receptor I'}
+Heat Shock Protein Family A Member 5, 1, 0, undetermined, , {'Q3S4T7', 'P20029', 'G3I8R9', 'P16392', 'Q90593', 'P06761', 'P11021', 'P07823', 'Q0VCX2', 'P34935', 'Q91883', 'Q5R4P0'}, {'Heat shock protein family A member 5'}
+Head-to-tail cyclized peptides, 1, 0, undetermined, , {'P0DTW2'}, {'Head-to-tail cyclized peptide'}
+Gz-selective GTPase-activating protein, 1, 0, undetermined, , {'Q9PWA1', 'O76081'}, {'Gz-selective GTPase-activating protein'}
+Guanylate cyclase soluble subunit beta-1, 1, 0, undetermined, , {'O54865', 'P16068', 'Q4ZHR9', 'Q02153', 'P20595'}, {'Guanylate cyclase soluble subunit beta-1'}
+Guanylate cyclase soluble subunit alpha-1, 1, 0, undetermined, , {'Q4ZHS0', 'Q02108', 'P19686', 'Q9ERL9', 'P19687'}, {'Guanylate cyclase soluble subunit alpha-1'}
+Guanosine diphospho-D-mannose dehydrogenase, 1, 0, undetermined, , {'P11759'}, {'Guanosine diphospho-D-mannose dehydrogenase'}
+Guanine Nucleotide Exchange Factors for Rap1, 1, 0, undetermined, , {'Q8IV61', 'Q8C0Q9', 'Q92565', 'Q54S40'}, {'Guanine nucleotide exchange factor for Rap1', 'Guanine nucleotide exchange factor for rap1'}
+Gram-Negative Bacteria-Binding Protein, 1, 0, undetermined, , {'Q8MU95'}, {'Gram-negative bacteria-binding protein'}
+Glycosyltransferase 8 Domain-Containing Protein 1, 1, 0, undetermined, , {'Q6DJM3', 'Q6NSU3', 'Q6AYF6', 'Q68CQ7', 'Q5U3H3', 'Q28I33', 'Q5E9E7'}, {'Glycosyltransferase 8 domain-containing protein 1'}
+Glycinin A5A4B3, 1, 0, undetermined, , {'P02858'}, {'Glycinin A5A4B3'}
+Glycerol-3-phosphate acyltransferases 4, 1, 0, undetermined, , {'Q5R6J7', 'Q9LMM0', 'Q86UL3', 'A3FPG8', 'Q3Z6K1', 'Q8K2C8', 'Q3ZW79'}, {'Glycerol-3-phosphate acyltransferase 4'}
+Glycerol-3-Phosphate Acyltransferases 4, 1, 0, undetermined, , {'Q5R6J7', 'Q9LMM0', 'Q86UL3', 'A3FPG8', 'Q3Z6K1', 'Q8K2C8', 'Q3ZW79'}, {'Glycerol-3-phosphate acyltransferase 4'}
+Glutathione S-Transferase Omega-2, 1, 0, undetermined, , {'Q8K2Q2', 'Q9H4Y5', 'Q6AXV9'}, {'Glutathione S-transferase omega-2'}
+Glutathione S-Transferase Omega-1, 1, 0, undetermined, , {'Q9Z339', 'Q9N1F5', 'O09131', 'P78417'}, {'Glutathione S-transferase omega-1'}
+Glutamate--cysteine ligase catalytic subunit, 1, 0, undetermined, , {'P19468', 'P97494', 'P48506'}, {'Glutamate--cysteine ligase catalytic subunit'}
+Glucose-6-Phosphatase-β, 1, 0, undetermined, , {'Q6NSQ9'}, {'glucose-6-phosphatase-beta'}
+Glia maturation factor-like protein 1, 1, 0, undetermined, , {'O13808'}, {'Glia maturation factor-like protein 1'}
+Gibberellin 2-beta-dioxygenase 8, 1, 0, undetermined, , {'O49561'}, {'Gibberellin 2-beta-dioxygenase 8'}
+GTP-binding Rho-like protein, 1, 0, undetermined, , {'P33153'}, {'GTP-binding RHO-like protein'}
+GRAM domain-containing protein 1B, 1, 0, undetermined, , {'Q80TI0', 'Q3KR37'}, {'GRAM domain-containing protein 1B'}
+GIBBERELLIN 2-BETA-DIOXYGENASE 1, 1, 0, undetermined, , {'Q5W726', 'Q8LEA2', 'Q9SQ80'}, {'Gibberellin 2-beta-dioxygenase 1'}
+G patch domain-containing protein 1, 1, 0, undetermined, , {'Q24K12', 'Q9BRR8', 'Q9DBM1'}, {'G patch domain-containing protein 1'}
+G antigen 2B/2C, 1, 0, undetermined, , {'Q13066'}, {'G antigen 2B/2C'}
+FtsZ/tubulin-like protein TubZ, 1, 0, undetermined, , {'Q4MKK8', 'Q74P24', 'Q9X315'}, {'FtsZ/tubulin-like protein TubZ'}
+FMN-dependent NADH:quinone oxidoreductase, 1, 0, undetermined, , {'C3MAW0', 'Q12IH3', 'B9E9A2', 'Q3Z1D9', 'A6W4I5', 'C4LEW9', 'Q66A90', 'Q8ZE60', 'B7GLH3', 'Q215Z0', 'Q62DD3', 'Q6D5N6', 'Q600K1', 'Q6GKA4', 'B2JHJ1', 'Q8UG34', 'Q3IVU8', 'Q1C7D4', 'A6VTC3', 'A9MQU9', 'P58904', 'A6WI50', 'A9H9I9', 'A4W2Z7', 'A4SMX2', 'A9I4K2', 'B7KYE7', 'Q0HQC2', 'Q5HJG8', 'Q7W488', 'Q8E1T4', 'Q5P2Y9', 'Q63QG7', 'B5Y659', 'A8LAY7', 'B9MI46', 'A7Z8S7', 'A3PQD8', 'Q2ST93', 'Q6KHU1', 'Q4ZS35', 'A5GAC6', 'Q0HNG6', 'B2IKT2', 'A5UEK0', 'Q4QK76', 'Q5H0Z4', 'Q82FB5', 'A8Z0H0', 'Q320H8', 'P63463', 'Q4FMI9', 'Q2YV20', 'A4TIW7', 'A1VMH6', 'Q5PHS8', 'A6U839', 'Q3K3B0', 'Q0VTN3', 'A1KAY0', 'A4Z112', 'Q1MHV8', 'Q2FK58', 'P63462', 'B9MQS8', 'A9KXA9', 'A5EF62', 'Q7N511', 'Q87PP9', 'A5UBX3', 'Q6GCR4', 'Q7NWH3', 'B2IX28', 'Q0T407', 'A9KM25', 'Q83R81', 'Q2G1F2', 'A6LU79', 'A4Y2H2', 'A7MEJ8', 'Q0A5T4', 'Q6ALS1', 'Q92QI7', 'A3QIU7', 'A7WXK6', 'A7ZZX1', 'A1SB44', 'A1JN84', 'A1VBA6', 'B3PKG0', 'A5IP80', 'Q5ZT75', 'B9KUU6', 'Q728Q5', 'B2TRR9', 'Q57P18', 'B1ZNL9', 'Q8NYK7', 'A1REN3', 'Q15SU5', 'Q831B2', 'Q8E797', 'B3E8C4', 'A4G2N3', 'Q5FSL0', 'Q7WFP6', 'Q2KVB0', 'Q0SUV5', 'A8FA13', 'C0ZT83', 'C0ZIX8', 'Q1CIR9', 'B9DKM7', 'Q0TSZ6', 'B2FKE2', 'A0KRZ0', 'Q0RRM3', 'Q4A9N3', 'Q47G91', 'A4XJK7', 'Q8X9S9', 'Q4L9I0', 'Q932K5', 'Q5WB95', 'P43013', 'A8I0R2', 'B1M4X4', 'A7ZLK8', 'A7IDY1', 'Q2SUH7', 'B2V3P0', 'P41407', 'Q8FHN0', 'Q8YV76', 'Q3SJT0', 'Q0KBB2', 'Q6MUK2', 'B0TWJ9', 'Q7NAW1', 'C1F513', 'B5EGQ4', 'Q98QP9', 'A8FPZ7', 'Q9X4K2', 'Q8DA68', 'Q2NSV8', 'A8AGG0', 'P47575', 'Q1RC02', 'Q48JI0', 'B4RTK8', 'A9MXQ2', 'Q5KUC3', 'Q8XQG9', 'B8IER1', 'B1ISN3', 'B3PM20', 'Q2JFC9', 'Q8EWL4', 'A7FHR1', 'Q3JNA7', 'Q5LXG9', 'Q32FL5', 'C4L0W8', 'Q4A7R7', 'P75305', 'B8I799', 'B8E4C0', 'A6TXZ6', 'Q99X11', 'A9C3B1', 'Q7MK12', 'Q8E990', 'Q220J4', 'Q0TI03', 'C1DED8', 'Q0C3K3', 'B8EJL7', 'Q2P3X9', 'Q98IF8', 'Q9L867', 'B1ZKG7', 'B1YSF2', 'A1SUA7', 'A3CZE0', 'B5ZZC8', 'A9W4C5', 'Q9S1U6', 'C1D6X4', 'Q4A6W2', 'Q0BTA0', 'B1XW54', 'Q2N970', 'A1W8C6', 'Q21E80', 'Q031U1', 'Q5YR63', 'Q31DX4', 'Q088W8'}, {'FMN-dependent NADH:quinone oxidoreductase'}
+FAD/NADH-dependent hydroxylase SibG, 1, 0, undetermined, , {'C0LTM1'}, {'FAD/NADH-dependent hydroxylase SibG'}
+FAD-linked sulfhydryl oxidase Erv1, 1, 0, undetermined, , {'Q8GXX0', 'Q10Q80'}, {'FAD-linked sulfhydryl oxidase ERV1'}
+Ezrin-binding protein PACE-1, 1, 0, undetermined, , {'Q9DBQ7', 'Q8IZE3'}, {'Ezrin-binding protein PACE-1'}
+Exchange Proteins Directly Activated by cAMP 1, 1, 0, undetermined, , {'O95398', 'Q8VCC8', 'Q9Z1C8'}, {'Exchange protein directly activated by cAMP 1'}
+Eukaryotic initiation factor 4A-III, 1, 0, undetermined, , {'B5FZY7', 'B7ZTW1', 'Q3B8Q2', 'Q91VC3', 'Q2NL22', 'Q9VHS8', 'A6M931', 'Q7ZVA6', 'Q4R3Q1', 'B5DG42', 'Q5ZM36', 'P38919'}, {'Eukaryotic initiation factor 4A-III'}
+Eukaryotic initiation factor 4A-II, 1, 0, undetermined, , {'P10630', 'Q3SZ65', 'Q8JFP1', 'Q5R4X1', 'Q5RKI1', 'Q14240', 'Q4R4Y9'}, {'Eukaryotic initiation factor 4A-II'}
+Eukaryotic Translation Initiation Factor 4E1, 1, 0, undetermined, , {'P48598'}, {'Eukaryotic translation initiation factor 4E1'}
+Endothelial PAS Domain-Containing Protein 1, 1, 0, undetermined, , {'Q9JHS1', 'P97481', 'Q99814'}, {'Endothelial PAS domain-containing protein 1'}
+Endoplasmic Reticulum Membrane Protein Complex Subunit 10, 1, 0, undetermined, , {'Q12025'}, {'Endoplasmic reticulum membrane protein complex subunit 10'}
+Endo-β-N-Acetylglucosaminidases, 1, 0, undetermined, , {'B7GPC7', 'P80036'}, {'Endo-beta-N-acetylglucosaminidase'}
+Ectonucleotide pyrophosphatase/phosphodiesterase family member 2, 1, 0, undetermined, , {'A1A4K5', 'Q13822', 'Q64610', 'Q9R1E6'}, {'Ectonucleotide pyrophosphatase/phosphodiesterase family member 2'}
+ETS domain-containing transcription factor ERF, 1, 0, undetermined, , {'P50548', 'P70459'}, {'ETS domain-containing transcription factor ERF'}
+ETHYLENE INSENSITIVE3-LIKE1 Protein, 1, 0, undetermined, , {'Q9SLH0'}, {'ETHYLENE INSENSITIVE 3-like 1 protein'}
+ESAT-6-like protein esxB, 1, 0, undetermined, , {'O33084', 'P0A567', 'Q6NJ55', 'P9WNK4', 'A0QNJ5', 'P9WNK5'}, {'ESAT-6-like protein EsxB'}
+EGF-like domain containing protein 1, 1, 0, undetermined, , {'H2A0L2'}, {'EGF-like domain containing protein 1'}
+E5imm[E9], 1, 0, undetermined, , {'Q57300'}, {'E5Imm[E9]'}
+E5Imm[E9], 1, 0, undetermined, , {'Q57300'}, {'E5Imm[E9]'}
+E3 ubiquitin-protein ligase rififylin, 1, 0, undetermined, , {'Q6ZQM0', 'Q8WZ73', 'Q8CIN9'}, {'E3 ubiquitin-protein ligase rififylin'}
+E3 ubiquitin-protein ligase XIAP, 1, 0, undetermined, , {'Q9R0I6', 'A5D8Q0', 'Q60989', 'P98170', 'Q5BKL8'}, {'E3 ubiquitin-protein ligase XIAP'}
+E3 ubiquitin-protein ligase TOPORS, 1, 0, undetermined, , {'Q80Z37', 'Q9NS56', 'Q9V8P9'}, {'E3 ubiquitin-protein ligase Topors'}
+E3 ubiquitin-protein ligase Hyd, 1, 0, undetermined, , {'P51592'}, {'E3 ubiquitin-protein ligase hyd'}
+E3 Ubiquitin-Protein Ligase FANCL, 1, 0, undetermined, , {'Q9NW38', 'Q9CR14'}, {'E3 ubiquitin-protein ligase FANCL'}
+E2F-binding protein 1, 1, 0, undetermined, , {'Q99856'}, {'E2F-binding protein 1'}
+E2F transcription factor-3, 1, 0, undetermined, , {'Q9FNY0'}, {'E2F transcription factor-3'}
+Double-stranded DNA-binding proteins, 1, 0, undetermined, , {'Q37886', 'B7SSM6', 'P06955', 'P13320'}, {'Double-stranded DNA-binding protein'}
+Disheveled-associated activator of morphogenesis 2, 1, 0, undetermined, , {'Q86T65', 'Q80U19', 'A0A1D5P556'}, {'Disheveled-associated activator of morphogenesis 2'}
+Disco-interacting protein 2 homolog B, 1, 0, undetermined, , {'Q9P265', 'Q3UH60'}, {'Disco-interacting protein 2 homolog B'}
+Differentiation Antagonizing Non-protein Coding RNA, 1, 0, undetermined, , {'P0C864'}, {'Differentiation antagonizing non-protein coding RNA'}
+Deleted in Azoospermia-associated protein 2, 1, 0, undetermined, , {'Q3T0K9', 'Q5R526', 'P60486', 'Q9DCP9', 'Q4R5H7', 'Q15038'}, {'Deleted in azoospermia-associated protein 2'}
+DREB2A-INTERACTING PROTEIN 2, 1, 0, undetermined, , {'Q94AY3'}, {'DREB2A-interacting protein 2'}
+DNA-directed RNA polymerase subunit A, 1, 0, undetermined, , {'P11512'}, {'DNA-directed RNA polymerase subunit A'}
+DNA-binding proteins HU-1, 1, 0, undetermined, , {'Q9KDA5', 'Q9K7K5'}, {'DNA-binding protein HU-1'}
+DNA-binding protein MNB1B, 1, 0, undetermined, , {'P27347'}, {'DNA-binding protein MNB1B'}
+DNA-Binding Protein pA104R, 1, 0, undetermined, , {'P68743', 'P68742', 'P0C9E5', 'P0C9E4', 'P0C9E3'}, {'DNA-binding protein pA104R'}
+DNA repair protein RAD51 homolog 2, 1, 0, undetermined, , {'O15315', 'Q9SK02', 'O35719'}, {'DNA repair protein RAD51 homolog 2'}
+DEP Domain-Containing Protein 1B, 1, 0, undetermined, , {'Q8WUY9', 'Q4R623', 'Q5ZLD2', 'Q8BH88'}, {'DEP domain-containing protein 1B'}
+DENN domain-containing protein 5A, 1, 0, undetermined, , {'G3V7Q0', 'Q6IQ26', 'Q6PAL8'}, {'DENN domain-containing protein 5A'}
+D-glucosaminate dehydratase alpha-subunit, 1, 0, undetermined, , {'Q93HX6'}, {'D-glucosaminate dehydratase alpha-subunit'}
+D-3-phosphoglycerate dehydrogenase 1, 1, 0, undetermined, , {'P40054'}, {'D-3-phosphoglycerate dehydrogenase 1'}
+D,D-carboxypeptidase DacB2, 1, 0, undetermined, , {'I6Y204'}, {'D,D-carboxypeptidase DacB2'}
+D(2) dopamine receptor A, 1, 0, undetermined, , {'P24628'}, {'D(2) dopamine receptor A'}
+Cytotoxic L-amino-acid oxidases, 1, 0, undetermined, , {'D2KKB4'}, {'Cytotoxic L-amino-acid oxidase'}
+Cyt P-450sca-2, 1, 0, undetermined, , {'Q59831'}, {'CYT P-450sca-2'}
+Cyclin-dependent kinase inhibitors 2A, 1, 0, undetermined, , {'P42771', 'Q64364', 'O77617', 'Q9R0Z3', 'P51480', 'O77618', 'Q8QZZ9', 'Q8N726'}, {'Cyclin-dependent kinase inhibitor 2A'}
+Cyclin-dependent kinase G-2, 1, 0, undetermined, , {'A2XUW1', 'Q7XUF4'}, {'Cyclin-dependent kinase G-2'}
+Complement C1q subcomponent subunit C, 1, 0, undetermined, , {'P02747', 'Q02105', 'P31722'}, {'Complement C1q subcomponent subunit C'}
+Coiled-coil-like protein 1, 1, 0, undetermined, , {'O35711'}, {'Coiled-coil-like protein 1'}
+Class III anaerobic ribonucleotide reductase small component, 1, 0, undetermined, , {'Q8Z138', 'P0A9N9', 'P45080', 'Q9L645', 'Q9KM76', 'Q9CM94', 'P07075', 'P0A9N8'}, {'Class III anaerobic ribonucleotide reductase small component'}
+Chitinase-3-Like Protein1, 1, 0, undetermined, , {'Q6TMG6', 'Q29411', 'P30922', 'Q8SPQ0', 'Q7YS85', 'Q9WTV1', 'Q61362', 'P36222', 'Q5RBP6'}, {'Chitinase-3-like protein 1'}
+Ceramide-1-phosphate transfer proteins, 1, 0, undetermined, , {'Q5TA50', 'Q6DBQ8', 'Q0VCQ0', 'Q8BS40', 'Q5HZ92', 'Q66JG2', 'Q5XIS2'}, {'Ceramide-1-phosphate transfer protein'}
+Cell cycle and apoptosis regulatory protein 1, 1, 0, undetermined, , {'Q8CH18', 'Q8IX12'}, {'Cell cycle and apoptosis regulatory protein 1'}
+Carbohydrate-Responsive Element-Binding Proteins, 1, 0, undetermined, , {'Q99MZ3', 'Q9NP71', 'Q8VIP2'}, {'Carbohydrate-responsive element-binding protein'}
+Calcium-and Integrin-binding Protein, 1, 0, undetermined, , {'Q99828'}, {'Calcium- and integrin-binding protein'}
+CUGBP Elav-like family member 5, 1, 0, undetermined, , {'A0JM51', 'Q8N6W0'}, {'CUGBP Elav-like family member 5'}
+CUGBP Elav-Like Family Member 5, 1, 0, undetermined, , {'A0JM51', 'Q8N6W0'}, {'CUGBP Elav-like family member 5'}
+CIP1-interacting zinc finger protein, 1, 0, undetermined, , {'Q9ULV3'}, {'Cip1-interacting zinc finger protein'}
+CD-NTase-associated protein 4, 1, 0, undetermined, , {'C0VHC9', 'P0DUD5', 'A0A2K8K5C5'}, {'CD-NTase-associated protein 4'}
+CCAAT/enhancer-binding protein zeta, 1, 0, undetermined, , {'P53569', 'Q03701'}, {'CCAAT/enhancer-binding protein zeta'}
+CCAAT/enhancer-binding protein 2, 1, 0, undetermined, , {'Q8IG69'}, {'CCAAT/enhancer-binding protein 2'}
+CCAAT/enhancer-binding Protein β, 1, 0, undetermined, , {'P28033', 'P17676', 'O02755', 'P21272', 'Q05826'}, {'CCAAT/enhancer-binding protein beta'}
+CCAAT/Enhancer-binding proteins α, 1, 0, undetermined, , {'P49715', 'O02754', 'P05554', 'P53566'}, {'CCAAT/enhancer-binding protein alpha'}
+CCAAT/Enhancer-binding proteins beta, 1, 0, undetermined, , {'P28033', 'P17676', 'O02755', 'P21272', 'Q05826'}, {'CCAAT/enhancer-binding protein beta'}
+CCAAT/Enhancer-binding protein α, 1, 0, undetermined, , {'P49715', 'O02754', 'P05554', 'P53566'}, {'CCAAT/enhancer-binding protein alpha'}
+CCAAT/Enhancer-Binding Protein ε, 1, 0, undetermined, , {'Q15744', 'P56261', 'Q6PZD9', 'O77728'}, {'CCAAT/enhancer-binding protein epsilon'}
+CCAAT/ enhancer-binding protein alpha, 1, 0, undetermined, , {'P49715', 'O02754', 'P05554', 'P53566'}, {'CCAAT/enhancer-binding protein alpha'}
+CASP-like protein 4C2, 1, 0, undetermined, , {'B9HTK2', 'A9S848'}, {'CASP-like protein 4C2'}
+CAS1 domain-containing protein 1, 1, 0, undetermined, , {'Q7TN73', 'Q96PB1', 'Q1LW89'}, {'CAS1 domain-containing protein 1'}
+C21orf62-AS1, 1, 0, undetermined, , {'Q17RA5'}, {'C21orf62-AS1'}
+C1A/C1B, 1, 0, undetermined, , {'P32214'}, {'C1A/C1B'}
+C-type lectin superfamily member 3, 1, 0, undetermined, , {'Q9Y240'}, {'C-type lectin superfamily member 3'}
+C-terminal-binding proteins 2, 1, 0, undetermined, , {'Q9W758', 'Q9EQH5', 'P56546', 'Q0VCQ1', 'P56545'}, {'C-terminal-binding protein 2'}
+C-module-binding factor A, 1, 0, undetermined, , {'O97101'}, {'C-module-binding factor A'}
+C-C Chemokine Receptor Type 1, 1, 0, undetermined, , {'P56482', 'P32246', 'Q2Y2P0', 'P51675'}, {'C-C chemokine receptor type 1'}
+Broad-Complex  core protein isoform 6, 1, 0, undetermined, , {'Q24206'}, {'Broad-complex core protein isoform 6'}
+Brain and reproductive organ-expressed protein, 1, 0, undetermined, , {'Q8WN69', 'Q6SP92', 'Q9NXR7', 'Q8K3W0', 'Q6GPL9', 'Q568D5', 'A6QQW8', 'Q5REX9', 'Q6DJ78', 'B6NXD5', 'Q5ZML0', 'Q6P7Q1', 'Q8WN70'}, {'Brain and reproductive organ-expressed protein'}
+Brain and Muscle ARNT-like1, 1, 0, undetermined, , {'O61734', 'Q9I8T7', 'A0MLS5', 'O88529', 'Q6YGZ5', 'Q91YA9', 'Q9WTL8', 'Q5R4T2', 'Q9EPW1', 'O00327'}, {'Brain and muscle ARNT-like 1'}
+Bcl-2-like protein 10, 1, 0, undetermined, , {'Q9HD36', 'Q9Z0F3', 'Q99M66'}, {'Bcl-2-like protein 10'}
+Bcl-2- associated athanogene 3, 1, 0, undetermined, , {'Q9JLV1', 'O95817', 'Q9LYP4'}, {'Bcl-2-associated athanogene 3'}
+Barrier-To-Autointegration Factor 2, 1, 0, undetermined, , {'Q5HZM3', 'Q9H503', 'Q32PE7', 'Q8BVR0'}, {'Barrier-to-autointegration factor 2'}
+BRG1-associated factor 60A, 1, 0, undetermined, , {'Q61466', 'Q96GM5', 'Q2TBN1'}, {'BRG1-associated factor 60A'}
+BH3-Interacting Domain Death Agonist, 1, 0, undetermined, , {'Q8JGM8', 'P70444', 'P55957', 'Q4JHS0', 'Q9JLT6'}, {'BH3-interacting domain death agonist'}
+BCL-2-associated athanogene 6, 1, 0, undetermined, , {'O82345'}, {'Bcl-2-associated athanogene 6'}
+B3 Metallo-β-lactamase, 1, 0, undetermined, , {'P52700'}, {'B3 metallo-beta-lactamase'}
+B2 Metallo-β-Lactamases, 1, 0, undetermined, , {'Q9KJA7', 'P04190', 'C7C422', 'Q9KJA9', 'P26918', 'Q9XBN7', 'P52699', 'P25910', 'P10425', 'O08498', 'P14488', 'Q9K303', 'Q9KJA8', 'Q9KJB0', 'Q9RB01'}, {'B2 metallo-beta-lactamase'}
+B2 Metallo-β-Lactamase, 1, 0, undetermined, , {'Q9KJA7', 'P04190', 'C7C422', 'Q9KJA9', 'P26918', 'Q9XBN7', 'P52699', 'P25910', 'P10425', 'O08498', 'P14488', 'Q9K303', 'Q9KJA8', 'Q9KJB0', 'Q9RB01'}, {'B2 metallo-beta-lactamase'}
+B-cell translocation gene 1 protein, 1, 0, undetermined, , {'P62325', 'Q63073', 'P53348', 'P34743', 'P62324'}, {'B-cell translocation gene 1 protein'}
+B-cell lymphoma/ leukemia 10, 1, 0, undetermined, , {'O95999', 'Q9QYN5', 'Q9Z0H7'}, {'B-cell lymphoma/leukemia 10'}
+B- and T- lymphocyte attenuator, 1, 0, undetermined, , {'Q6PNM1', 'Q7Z6A9', 'Q7TSA3'}, {'B- and T-lymphocyte attenuator'}
+B- and T- Lymphocyte Attenuator, 1, 0, undetermined, , {'Q6PNM1', 'Q7Z6A9', 'Q7TSA3'}, {'B- and T-lymphocyte attenuator'}
+Auxin-induced protein 5NG4, 1, 0, undetermined, , {'Q6J163'}, {'Auxin-induced protein 5NG4'}
+Autophagy-related proteins LC3B, 1, 0, undetermined, , {'O41515', 'Q9CQV6', 'Q9GZQ8', 'Q62625'}, {'Autophagy-related protein LC3 B'}
+Arylalkylamine N-acyltransferase-like 2, 1, 0, undetermined, , {'Q9VMG0'}, {'Arylalkylamine N-acyltransferase-like 2'}
+Ankyrin repeat domain-containing protein 6, 1, 0, undetermined, , {'Q69ZU8', 'Q9Y2G4'}, {'Ankyrin repeat domain-containing protein 6'}
+Ankyrin repeat and SOCS Box protein 9, 1, 0, undetermined, , {'Q91ZT8', 'Q96DX5'}, {'Ankyrin repeat and SOCS box protein 9'}
+Angiotensin-converting enzyme-related carboxypeptidase, 1, 0, undetermined, , {'Q9BYF1'}, {'Angiotensin-converting enzyme-related carboxypeptidase'}
+Androgen-Dependent TFPI-Regulating Protein, 1, 0, undetermined, , {'Q60534', 'Q5M828', 'Q96IZ2', 'Q8C138'}, {'Androgen-dependent TFPI-regulating protein'}
+Amyloid-β Precursor-Like Protein, 1, 0, undetermined, , {'Q06BR2'}, {'Amyloid-beta precursor-like protein'}
+Amyloid-beta precursor-like protein, 1, 0, undetermined, , {'Q06BR2'}, {'Amyloid-beta precursor-like protein'}
+Alpha-1,2-mannosidase, 1, 0, undetermined, , {'O18498'}, {'Alpha-1,2-mannosidase'}
+Alkylated DNA repair protein AlkB homolog 8, 1, 0, undetermined, , {'A1A4L5', 'Q80Y20', 'Q95K79', 'Q07G10', 'Q96BT7'}, {'Alkylated DNA repair protein alkB homolog 8'}
+Alg-2-interacting protein X, 1, 0, undetermined, , {'Q8WUM4', 'Q9WU78'}, {'ALG-2-interacting protein X'}
+Additional sex combs-like protein 1, 1, 0, undetermined, , {'P59598', 'Q8IXJ9'}, {'Additional sex combs-like protein 1'}
+Acyl-CoA synthetase family member 3, 1, 0, undetermined, , {'Q3URE1', 'Q58DN7', 'Q4G176', 'Q6GLK6'}, {'Acyl-CoA synthetase family member 3'}
+Acyl-CoA dehydrogenase family member 9, 1, 0, undetermined, , {'B1WC61', 'Q9H845', 'Q8JZN5'}, {'Acyl-CoA dehydrogenase family member 9'}
+Activator of G-protein signaling 1, 1, 0, undetermined, , {'Q9Y272'}, {'Activator of G-protein signaling 1'}
+Acidic Calcium-Independent Phospholipase A2, 1, 0, undetermined, , {'O35244', 'P86215', 'Q9TSX9', 'P30041', 'O77834', 'Q2PFL9', 'Q5R7E0', 'O08709', 'Q5ZJF4'}, {'Acidic calcium-independent phospholipase A2'}
+Abdominal-B homolog egl-5, 1, 0, undetermined, , {'P17486'}, {'Abdominal-B homolog egl-5'}
+ATP:guanosine 5'-phosphotransferase, 1, 0, undetermined, , {'O24767'}, {"ATP:guanosine 5'-phosphotransferase"}
+ATP: GTP 3'-pyrophosphotransferase, 1, 0, undetermined, , {'P0AG23', 'Q49640', 'P55133', 'Q8YG65', 'P9WHG8', 'P9WHG9', 'P0AG20', 'P0AG24', 'Q6GG70', 'P52560', 'P44644', 'Q5HNR8', 'O87331', 'P0AG22', 'P66015', 'Q57E90', 'Q54089', 'Q8CS97', 'O54408', 'P0A0F0', 'Q931Q4', 'P0AG21', 'A5VPI9', 'Q8CY42', 'Q2YN11', 'P0A0E9', 'O85709', 'Q6G8T5', 'O52177', 'Q99TL8'}, {"ATP:GTP 3'-pyrophosphotransferase"}
+ATP/GTP-Binding Protein1, 1, 0, undetermined, , {'Q9UPW5', 'A9JRL3', 'Q4U2V3', 'Q6DD21', 'Q641K1', 'E1C3P4'}, {'ATP/GTP-binding protein 1'}
+ATP-dependent molecular chaperone HSC82, 1, 0, undetermined, , {'P15108'}, {'ATP-dependent molecular chaperone HSC82'}
+ATP-dependent RNA helicase dbp6, 1, 0, undetermined, , {'Q6BPT8', 'A5DK47', 'Q59MW2', 'Q6CDN5', 'A5E726', 'A3LSJ2', 'A7TFZ9', 'Q6CKZ4', 'A6ZSB3', 'Q76PD3', 'Q751D1', 'A2QA23', 'P53734', 'Q6FST5'}, {'ATP-dependent RNA helicase dbp6', 'ATP-dependent RNA helicase DBP6'}
+ATP-dependent RNA helicase Suv3, 1, 0, undetermined, , {'Q9SMX1'}, {'ATP-dependent RNA helicase SUV3'}
+ATP-binding cassette transporter ABC1, 1, 0, undetermined, , {'Q92337'}, {'ATP-binding cassette transporter abc1'}
+ARF GTPase-activating protein GIT1, 1, 0, undetermined, , {'Q9Y2X7', 'Q68FF6', 'Q9Z272'}, {'ARF GTPase-activating protein GIT1'}
+APC/C Activator Protein Cdc20, 1, 0, undetermined, , {'P26309'}, {'APC/C activator protein CDC20'}
+ADP-dependent glucose/glucosamine kinase, 1, 0, undetermined, , {'Q7M537', 'O58328', 'Q9UYQ3', 'C6A124', 'Q5JE39', 'Q9V2Z6'}, {'ADP-dependent glucose/glucosamine kinase'}
+ABC transporter glutamine-binding protein GlnH, 1, 0, undetermined, , {'O34563'}, {'ABC transporter glutamine-binding protein GlnH'}
+A-kinase anchor protein 350 kDa, 1, 0, undetermined, , {'Q99996'}, {'A-kinase anchor protein 350 kDa'}
+60S Ribosomal Protein L7a, 1, 0, undetermined, , {'Q29375', 'Q54ZD1', 'P62424', 'P0DJ14', 'O57592', 'P62425', 'P32429', 'Q8SSG1', 'Q966C6', 'P12970', 'Q4R5C2', 'P46223', 'Q90YW2', 'O76732', 'Q2TBQ5'}, {'60S ribosomal protein L7a'}
+6-phospho-beta- galactosidase, 1, 0, undetermined, , {'P0DB40', 'A6QJ33', 'C0MDS5', 'A3CPH0', 'Q1J9V2', 'Q6GEP0', 'P50977', 'P0DB41', 'C1CEE7', 'A8YYF6', 'P67768', 'Q5HM41', 'Q8E4S2', 'Q2YYJ9', 'Q2FEU3', 'Q5X9Y7', 'A7X569', 'Q1JK01', 'Q9EV38', 'C7N8L9', 'Q8CNF8', 'Q4L868', 'B4U1G6', 'P67769', 'Q1J4Q7', 'Q97EZ2', 'P14696', 'A5IUX8', 'Q6G7C5', 'Q48RC8', 'P11546', 'Q5HE16', 'Q99Y18', 'B9DU98', 'A6U3R9', 'Q2G2D5', 'P67767', 'B3W7I3', 'A2RGE8', 'Q1JEZ3', 'B8ZQ59', 'Q8NZE1', 'Q29ZJ1', 'P50978', 'P11175'}, {'6-phospho-beta-galactosidase'}
+50S ribosomal protein L14e, 1, 0, undetermined, , {'A3DND4', 'Q975L7', 'B1YA63', 'A4YCT0', 'A9A699', 'C3MZ69', 'C6A188', 'Q5JJE4', 'A4FYK2', 'Q8TX43', 'Q4JAJ9', 'O26139', 'A3MS76', 'C3MXC5', 'C3MR21', 'A4WH36', 'C3NGE6', 'P54054', 'A8ABY5', 'B6YSP2', 'C5A257', 'A6USC0', 'P59937', 'Q8U2L5', 'Q980C1', 'Q6LZK2', 'Q9YDD7', 'C4KIE7', 'A2BME7', 'C3N789', 'Q9UZJ5', 'A1RXE1', 'A6VJT0', 'A1RTL6', 'B8D5U3', 'Q8ZYB4'}, {'50S ribosomal protein L14e'}
+5-azacytidine-induced protein 2, 1, 0, undetermined, , {'Q5RD40', 'Q3SYW5', 'Q9QYP6', 'Q9H6S1', 'Q4KMA0', 'Q4R3X1'}, {'5-azacytidine-induced protein 2'}
+5-(hydroxymethyl)furfural oxidase, 1, 0, undetermined, , {'E4QP00'}, {'5-(hydroxymethyl)furfural oxidase'}
+5-(Hydroxymethyl)furfural Oxidase, 1, 0, undetermined, , {'E4QP00'}, {'5-(hydroxymethyl)furfural oxidase'}
+40-kDa huntingtin-associated protein, 1, 0, undetermined, , {'Q00558', 'M0RDU0', 'P23610'}, {'40-kDa huntingtin-associated protein'}
+40-kDa Huntingtin-associated protein, 1, 0, undetermined, , {'Q00558', 'M0RDU0', 'P23610'}, {'40-kDa huntingtin-associated protein'}
+4-coumarate-CoA ligase 2, 1, 0, undetermined, , {'A0A2H5AIY4'}, {'4-coumarate-CoA ligase 2'}
+4-coumarate-CoA ligase 1, 1, 0, undetermined, , {'A0A2H5AIX5'}, {'4-coumarate-CoA ligase 1'}
+4-Hydroxyphenylpyruvate Dioxygenase-Like Protein, 1, 0, undetermined, , {'Q8K248', 'Q96IR7', 'Q5XIH9'}, {'4-hydroxyphenylpyruvate dioxygenase-like protein'}
+4,5-DOPA dioxygenase extradiol, 1, 0, undetermined, , {'B6F0W8', 'P24197', 'Q70FG7', 'Q7XA48'}, {'4,5-DOPA dioxygenase extradiol'}
+3-ketoacyl-CoA synthase16, 1, 0, undetermined, , {'Q9SYZ0'}, {'3-ketoacyl-CoA synthase 16'}
+3-ketoacyl-CoA synthase 6, 1, 0, undetermined, , {'Q9XF43'}, {'3-ketoacyl-CoA synthase 6'}
+3-ketoacyl-CoA synthase 2, 1, 0, undetermined, , {'Q5XEP9'}, {'3-ketoacyl-CoA synthase 2'}
+3-ketoacyl-CoA synthase 11, 1, 0, undetermined, , {'O48780'}, {'3-ketoacyl-CoA synthase 11'}
+3-aminobutyryl-CoA ammonia lyase, 1, 0, undetermined, , {'E3PRK1', 'Q8RHX1'}, {'3-aminobutyryl-CoA ammonia lyase'}
+2-oxoglutarate-dependent dioxygenase 2, 1, 0, undetermined, , {'A0A023GS29'}, {'2-oxoglutarate-dependent dioxygenase 2'}
+2-(hydroxymethyl)glutarate dehydrogenase, 1, 0, undetermined, , {'Q0QLF5'}, {'2-(hydroxymethyl)glutarate dehydrogenase'}
+2,5-DKG reductase A, 1, 0, undetermined, , {'Q8ZI40', 'Q46857', 'P06632', 'Q8XBT6', 'P58744', 'Q8ZM06'}, {'2,5-DKG reductase A'}
+17-beta-hydroxysteroid dehydrogenase 8, 1, 0, undetermined, , {'Q9XT00', 'Q9GME3', 'P50171', 'Q5TJF5', 'Q92506', 'Q6MGB5'}, {'17-beta-hydroxysteroid dehydrogenase 8'}
+17-beta-hydroxysteroid dehydrogenase 10, 1, 0, undetermined, , {'O18404'}, {'17-beta-hydroxysteroid dehydrogenase 10'}
+14-3-3 proteins σ, 1, 0, undetermined, , {'P31947', 'O70456', 'Q0VC36', 'O77642'}, {'14-3-3 protein sigma'}
+12-oxophytodienoate reductase-like protein, 1, 0, undetermined, , {'Q9FEX0'}, {'12-oxophytodienoate reductase-like protein'}
+12-deoxy-nogalonic acid oxygenase, 1, 0, undetermined, , {'O54259'}, {'12-deoxy-nogalonic acid oxygenase'}
+11-cis-RE-synthase, 1, 0, undetermined, , {'Q6E1M8', 'Q6E213'}, {'11-cis-RE-synthase'}
+1,4-N-acetylmuramidase, 1, 0, undetermined, , {'Q8HA43'}, {'1,4-N-acetylmuramidase'}
+1,3-α-isomaltosidase, 1, 0, undetermined, , {'D2PPM7'}, {'1,3-alpha-isomaltosidase'}
+(6-4) DNA photolyases, 1, 0, undetermined, , {'A9CH39', 'Q0E2Y1', 'O48652'}, {'(6-4)DNA photolyase'}
+H-L(3)MBT, 8, 0, answered, , {'D3ZWK4', 'Q9Y468', 'E1C2V1', 'A2A5N8'}, {'H-l(3)mbt'}
+Indoleamine 2,3-Dioxygenase 2, 3, 0, answered, , {'F1LV46', 'Q6ZQW0', 'Q8R0V5'}, {'Indoleamine 2,3-dioxygenase 2'}
+Eukaryotic translation initiation factor 2 subunit 3, 3, 0, answered, , {'F1QGW6', 'P33887', 'Q54XD8', 'P20461', 'Q2KHU8', 'P41091', 'Q5ZMS3', 'Q5R797', 'Q24208'}, {'Eukaryotic translation initiation factor 2 subunit 3'}
+small proline-rich protein 2D, 2, 0, answered, , {'P22532', 'O70555'}, {'Small proline-rich protein 2D'}
+c-Myc promoter-binding protein, 2, 0, answered, , {'Q7Z401', 'P06733'}, {'C-myc promoter-binding protein'}
+Small Proline-Rich Protein 2A, 2, 0, answered, , {'Q9CQK8', 'P35326'}, {'small proline-rich protein 2A', 'Small proline-rich protein 2A'}
+Sigma non-opioid intracellular receptor 1, 2, 0, answered, , {'Q66IM1', 'Q58DH7', 'Q7ZWG9', 'Q5PXE3', 'Q9R0C9', 'O55242', 'Q99720', 'Q60492', 'Q5ZL84', 'Q645J3', 'Q6DCU6', 'Q5PXE2'}, {'Sigma non-opioid intracellular receptor 1'}
+Serine/threonine-protein kinase 24, 2, 0, answered, , {'Q99KH8', 'Q9Y6E0', 'B0LT89'}, {'Serine/threonine-protein kinase 24'}
+Nucleosome assembly protein 1-like 1, 2, 0, answered, , {'Q28EB4', 'Q5R4D4', 'Q70Z19', 'B8B2R4', 'A6H767', 'P55209', 'P28656', 'Q9Z2G8', 'Q5VND6'}, {'Nucleosome assembly protein 1-like 1'}
+N-Acetyl-β-glucosaminidase, 2, 0, answered, , {'Q8PMU1', 'Q31G32', 'B3EWR5', 'Q0AF74', 'P40406', 'Q0HVQ8', 'Q5QUZ5', 'Q8ZFS3', 'P43077', 'Q5P081', 'A9M1Z4', 'O60502', 'Q9KU37', 'B5F8E5', 'B3GXZ7', 'B4TTH9', 'B4EVE7', 'B0U3L0', 'A5UDA9', 'Q7VWV8', 'Q8ZQ06', 'Q2CEE3', 'Q8FIN2', 'A0KXK3', 'A1SW90', 'Q3SKU2', 'B7MTN7', 'Q2P4L0', 'B0RX17', 'Q9PAZ0', 'Q3J953', 'Q7N397', 'B2U513', 'Q32EW7', 'Q2KXM7', 'P96157', 'B2FPW9', 'P49008', 'Q0I414', 'B5QXC7', 'Q8VIJ5', 'Q89ZI2', 'B8F5N0', 'B6I9I5', 'B7LG40', 'Q31ZG4', 'C5BFM6', 'Q7VNI8', 'Q82SJ8', 'B7NKH2', 'A7FH41', 'Q9EQQ9', 'Q1H075', 'Q7UCW4', 'B8GSD2', 'Q7NWB7', 'Q080R9', 'C4LEY6', 'A1JME4', 'B5FK98', 'Q6D674', 'B7MJ94', 'P48823', 'C6DKR8', 'Q5H1Q0', 'D4AYT4', 'Q9JVT3', 'A9N5J6', 'B4TFI4', 'B2VDM3', 'Q5PGT0', 'B0BQ51', 'B7LX41', 'Q619W7', 'P49007', 'Q7WH65', 'Q8Z7I6', 'Q8PB42', 'B1LI37', 'Q8EEW2', 'Q22492', 'P96155', 'P85512', 'C3LSU7', 'B4T3P6', 'A6VKU4', 'Q9CPH0', 'Q3Z310', 'Q1RD47', 'P13670', 'B5XXG4', 'Q2Y863', 'B4RQ67', 'P58067', 'Q669N5', 'B5YVX6', 'Q54468', 'Q0HJG7', 'Q4USG7', 'B5RB93', 'Q4QLU8', 'Q9K0Q4', 'C4ZS47', 'P44955', 'A1AA01', 'Q8XL08', 'A7ZKL1', 'Q0A911', 'Q606N2', 'Q04786', 'Q57QE6', 'B1XA17', 'Q7W9J5', 'Q9RHG4', 'B7NAY5', 'Q9HZK0', 'P86956', 'Q65VK7', 'H2A0L6', 'B4SRK3', 'B2K731', 'A1KSD9', 'B0UTC6', 'Q6LJ30', 'Q87BR5', 'Q3BVU6', 'B7UPC3', 'Q02PG9', 'P75949', 'Q5FA94', 'A3N1B7', 'A7ZZ65', 'A7MFT1', 'B7UYS5', 'B1IUF8', 'A5F8Y1', 'B2I6G9', 'B7LT32', 'B1JI47'}, {'N-acetyl-beta-glucosaminidase'}
+Mitogen-Activated Protein Kinase Phosphatase 5, 2, 0, answered, , {'Q9ESS0', 'Q9Y6W6'}, {'Mitogen-activated protein kinase phosphatase 5'}
+Melanocortin-2 receptor accessory protein 2, 2, 0, answered, , {'Q96G30', 'D3Z1Q2'}, {'Melanocortin-2 receptor accessory protein 2'}
+Low density lipoprotein receptor-related proteins, 2, 0, answered, , {'P98162'}, {'Low density lipoprotein receptor-related protein'}
+Glyceraldehyde-3-phosphate dehydrogenase 1, 2, 0, answered, , {'Q5HHP5', 'Q6GB58', 'P49433', 'Q5HQV4', 'P00360', 'P84998', 'Q9C136', 'O16027', 'Q82IZ2', 'Q46AH5', 'P17819', 'P04970', 'P32635', 'P07486', 'P17729', 'P0A036', 'Q8CPY5', 'P99136', 'P34916', 'P09124', 'P58837', 'P0A037', 'Q6GIL8', 'P80506', 'P53429', 'P78958', 'Q4MQ58', 'P54226', 'Q6FPW3'}, {'Glyceraldehyde-3-phosphate dehydrogenase 1'}
+Eukaryotic Translation Initiation Factor 3 Subunit B, 2, 0, answered, , {'Q2GM53', 'Q9XWI6', 'Q8JZQ9', 'B4J6D5', 'B4QB88', 'P12806', 'Q0IEY3', 'Q7PZY1', 'B4P5F7', 'Q2URB7', 'A8WX15', 'Q0E940', 'Q54QW1', 'Q758X9', 'A5DR43', 'P55884', 'Q9C5Z1', 'B3ME25', 'Q6FM92', 'A6ZPJ1', 'B4HMV9', 'A1D558', 'Q6CY34', 'Q10425', 'P0CN45', 'B4MQL8', 'Q4WKL7', 'B4GAY7', 'Q7S464', 'Q1DI97', 'B0XRG7', 'B5E081', 'Q6BLY5', 'P06103', 'A7MB16', 'A4QZL9', 'A7EHM8', 'Q6C1H8', 'A1CS92', 'Q5AGV4', 'Q569Z1', 'A3LY29', 'Q4G061', 'P56821', 'A2Q908', 'Q0CN46', 'Q5BGH1', 'A6SFQ6', 'B4KNN9', 'B3NMI5', 'P0CN44', 'B4LM71', 'B0W562', 'A5E5Y8', 'Q1HDZ5', 'Q4P6G4', 'A7TKF2'}, {'Eukaryotic translation initiation factor 3 subunit B'}
+Cytoskeleton-associated protein 2-like, 2, 0, answered, , {'Q7TS74', 'A5PK21', 'Q8IYA6'}, {'Cytoskeleton-associated protein 2-like'}
+Cysteine and glycine-rich protein 2, 2, 0, answered, , {'Q16527', 'P97314', 'Q62908', 'Q05158', 'Q32LE9', 'P50460'}, {'Cysteine and glycine-rich protein 2'}
+Calcium and integrin-binding protein 1, 2, 0, answered, , {'B1A8Z2', 'Q9Z0F4', 'Q9R010', 'Q99828', 'Q17QE5'}, {'Calcium and integrin-binding protein 1'}
+serum/glucocorticoid-regulated Kinase 3, 1, 0, answered, , {'Q9ERE3', 'Q5R7A7', 'Q8R4V0', 'Q96BR1'}, {'Serum/glucocorticoid-regulated kinase 3'}
+prostatic steroid-binding protein C1, 1, 0, answered, , {'P02782'}, {'Prostatic steroid-binding protein C1'}
+gamma-Glutamyl transpeptidase-related enzyme, 1, 0, answered, , {'Q9QWE9', 'P36269'}, {'Gamma-glutamyl transpeptidase-related enzyme'}
+cytochrome C oxidase subunit 6B1, 1, 0, answered, , {'P80430', 'P56391', 'Q7YRK6', 'Q53CG4', 'P14854', 'Q4R374', 'Q5RCT0', 'P00429'}, {'Cytochrome c oxidase subunit 6B1'}
+catechol-2, 3-Dioxygenase, 1, 0, answered, , {'P54721'}, {'Catechol-2,3-dioxygenase'}
+c-myc Promoter-binding protein, 1, 0, answered, , {'Q7Z401', 'P06733'}, {'C-myc promoter-binding protein'}
+acid sphingomyelinase-like phosphodiesterase 3B, 1, 0, answered, , {'Q92485', 'P58242'}, {'Acid sphingomyelinase-like phosphodiesterase 3b'}
+Zinc Finger protein of the cerebellum 1, 1, 0, answered, , {'Q8JJC0', 'Q15915', 'P46684', 'O73689'}, {'Zinc finger protein of the cerebellum 1'}
+Voltage-Dependent Anion-Selective Channels, 1, 0, answered, , {'Q94920'}, {'Voltage-dependent anion-selective channel'}
+Unc-51-like Kinase 4, 1, 0, answered, , {'Q96C45', 'Q3V129', 'Q5R4M2'}, {'Unc-51-like kinase 4'}
+Ubiquitin-associated Protein 2-like, 1, 0, answered, , {'Q14157', 'Q80X50'}, {'Ubiquitin-associated protein 2-like'}
+Ubiquitin-Specific-Processing Protease 7, 1, 0, answered, , {'Q84WC6', 'Q6A4J8', 'Q9VYQ8', 'Q9P7S5', 'P40453', 'Q60MK8', 'Q6U7I1', 'Q4VSI4', 'Q93009', 'Q7JKC3'}, {'Ubiquitin-specific-processing protease 7'}
+UNC-51-like kinase 3, 1, 0, answered, , {'Q6PHR2', 'D3ZHP7', 'Q5ZJH6', 'Q3U3Q1', 'Q4V7Q6'}, {'Unc-51-like kinase 3'}
+Tumor necrosis factor-induced protein 1, 1, 0, answered, , {'Q7TNY1'}, {'Tumor necrosis factor-induced protein 1'}
+Tumor necrosis factor receptor superfamily member 4, 1, 0, answered, , {'P15725', 'P43489', 'P47741'}, {'Tumor necrosis factor receptor superfamily member 4'}
+Tumor Necrosis Factor Receptor Superfamily Member 18, 1, 0, answered, , {'O35714', 'Q9Y5U5'}, {'Tumor necrosis factor receptor superfamily member 18'}
+Triggering Receptor Expressed On Myeloid Cells 1, 1, 0, answered, , {'Q5RDA5', 'Q9NP99', 'Q6QUN5', 'Q9JKE2', 'Q6TYI6'}, {'Triggering receptor expressed on myeloid cells 1'}
+Thyrotropin-Releasing Hormone-Degrading Ectoenzyme, 1, 0, answered, , {'Q8K093', 'Q9UKU6', 'Q10836'}, {'Thyrotropin-releasing hormone-degrading ectoenzyme'}
+Thiazide-Sensitive Sodium-Chloride Cotransporter, 1, 0, answered, , {'P59158', 'P55018', 'P55017', 'P55019'}, {'Thiazide-sensitive sodium-chloride cotransporter'}
+Sterol Regulatory Element-Binding Protein1, 1, 0, answered, , {'P36956', 'P56720', 'Q9WTN3', 'Q60416', 'O97676', 'Q9UUD1'}, {'Sterol regulatory element-binding protein 1'}
+Staphylococcal Nuclease Domain-Containing Protein 1, 1, 0, answered, , {'Q9Y7U7', 'Q7ZT42', 'Q78PY7', 'Q863B3', 'Q9W0S7', 'Q66X93', 'Q5REU4', 'Q7KZF4'}, {'Staphylococcal nuclease domain-containing protein 1'}
+Sphingosine-1-phosphate lyase 1, 1, 0, answered, , {'Q5R4G0', 'Q8CHN6', 'O95470', 'Q8R0X7'}, {'Sphingosine-1-phosphate lyase 1'}
+Sphingosine-1-phosphate Phosphatase 2, 1, 0, answered, , {'Q810K3', 'Q8IWX5'}, {'Sphingosine-1-phosphate phosphatase 2'}
+Sodium-hydrogen exchanger regulatory factor 1, 1, 0, answered, , {'P70441', 'O14745', 'Q4R6G4', 'Q3SZK8', 'Q5ZM14', 'G5EDM4', 'Q9JJ19', 'Q28619'}, {'Sodium-hydrogen exchanger regulatory factor 1'}
+Serine/arginine repetitive matrix protein 1, 1, 0, answered, , {'Q5ZMJ9', 'Q52KI8', 'Q5R5Q2', 'Q8IYB3'}, {'Serine/arginine repetitive matrix protein 1'}
+Serine/Threonine-protein kinase 10, 1, 0, answered, , {'O55098', 'F1NBT0', 'Q0IHQ8', 'E1BK52', 'O94804', 'E9PTG8', 'Q7SY52'}, {'Serine/threonine-protein kinase 10'}
+Selenocysteine insertion sequence-binding protein 2, 1, 0, answered, , {'Q9QX72', 'Q96T21'}, {'Selenocysteine insertion sequence-binding protein 2'}
+Secreted Modular Calcium-Binding Protein 1, 1, 0, answered, , {'Q9H4F8', 'Q8BLY1'}, {'Secreted modular calcium-binding protein 1'}
+Retinoid-related orphan receptor-γ, 1, 0, answered, , {'Q5RAP4', 'P51450', 'P51449'}, {'Retinoid-related orphan receptor-gamma'}
+Protein Phosphatase Magnesium-Dependent 1δ, 1, 0, answered, , {'Q9QZ67', 'O15297'}, {'Protein phosphatase magnesium-dependent 1 delta'}
+Proprotein Convertase Subtilisin/Kexin Type 6, 1, 0, answered, , {'P29122', 'Q63415'}, {'Proprotein convertase subtilisin/kexin type 6'}
+Presenilins-associated Rhomboid-like protein, 1, 0, answered, , {'Q9FZ81'}, {'Presenilins-associated rhomboid-like protein'}
+Platelet-derived Growth Factor alpha Receptor, 1, 0, answered, , {'P16234', 'P26618', 'P20786'}, {'Platelet-derived growth factor alpha receptor'}
+Platelet-Derived Growth Factor Receptors alpha, 1, 0, answered, , {'Q8AXC7', 'P26619', 'P26618', 'Q9DE49', 'P20786', 'P16234', 'Q9PUF6'}, {'Platelet-derived growth factor receptor alpha'}
+Platelet-Derived Growth Factor Receptor Α, 1, 0, answered, , {'Q8AXC7', 'P26619', 'P26618', 'Q9DE49', 'P20786', 'P16234', 'Q9PUF6'}, {'Platelet-derived growth factor receptor alpha'}
+PLACENTAL 17-BETA-HYDROXYSTEROID DEHYDROGENASE, 1, 0, answered, , {'P14061'}, {'Placental 17-beta-hydroxysteroid dehydrogenase'}
+Nucleotide-binding oligomerization domain protein 12, 1, 0, answered, , {'Q8WX94'}, {'Nucleotide-binding oligomerization domain protein 12'}
+Nucleosome Assembly Protein 1-Like 1, 1, 0, answered, , {'Q28EB4', 'Q5R4D4', 'Q70Z19', 'B8B2R4', 'A6H767', 'P55209', 'P28656', 'Q9Z2G8', 'Q5VND6'}, {'Nucleosome assembly protein 1-like 1'}
+Nascent Polypeptide-Associated Complex Subunit Alpha, 1, 0, answered, , {'Q8SWB5', 'P0C2C7', 'Q2U955', 'Q2H4Z2', 'Q6FJD5', 'Q6BSN9', 'Q54U07', 'Q5AYK0', 'Q13765', 'Q5ANP2', 'Q60817', 'A6ZT99', 'A1CMF8', 'P87147', 'Q94518', 'A5DXK7', 'P0CP06', 'P0CP07', 'A4RC89', 'Q4I2J8', 'Q61UX1', 'A7EIZ1', 'Q6IP73', 'Q6CWG6', 'A2R4V1', 'Q7SI17', 'A6SB28', 'Q4P341', 'A5DGN9', 'A7TG43', 'Q756T5', 'Q45FF9', 'Q6CDH0', 'Q1DHR3', 'Q8AWF2', 'A1DLM0', 'Q6QN10', 'Q4WD81', 'Q0UKB5', 'Q5R9I9', 'P38879', 'A6R641', 'Q86S66', 'Q5E9A1', 'A3GHD3', 'Q8JIU7', 'Q68F90'}, {'Nascent polypeptide-associated complex subunit alpha'}
+N-Acetylgalactosamine-6-sulfatase, 1, 0, answered, , {'Q8WNQ7', 'Q32KJ6', 'Q32KH5', 'P34059', 'Q571E4'}, {'N-acetylgalactosamine-6-sulfatase'}
+Myocyte-specific enhancer factor 2c, 1, 0, answered, , {'Q5R444', 'A0A096MJY4', 'Q8CFN5', 'Q06413', 'A4UTP7', 'Q2KIA0'}, {'Myocyte-specific enhancer factor 2C'}
+Mitogen-activated protein kinase kinases 1, 1, 0, answered, , {'Q94A06', 'Q0D598', 'A2YMV6', 'Q5QN75'}, {'Mitogen-activated protein kinase kinase 1'}
+Mitogen-activated protein kinase kinase 9, 1, 0, answered, , {'Q9FX43'}, {'Mitogen-activated protein kinase kinase 9'}
+Mitogen-Activated Protein Kinase Phosphatase 3, 1, 0, answered, , {'Q9VVW5', 'Q16828', 'Q9DBB1', 'Q64346'}, {'Mitogen-activated protein kinase phosphatase 3'}
+Membrane-type frizzled-related protein, 1, 0, answered, , {'Q9BY79', 'Q8K480'}, {'Membrane-type frizzled-related protein'}
+Membrane-Type-1 Matrix Metalloproteinase, 1, 0, answered, , {'Q9XT90', 'Q95220', 'P53690', 'P50281', 'Q10739', 'Q9GLE4'}, {'Membrane-type-1 matrix metalloproteinase'}
+Membrane metallo-endopeptidase-like 1, 1, 0, answered, , {'Q9JLI3', 'Q495T6', 'P0C1T0'}, {'Membrane metallo-endopeptidase-like 1'}
+Lysosomal-associated transmembrane protein 4B, 1, 0, answered, , {'Q5U1W4', 'Q86VI4', 'Q4R6E8', 'Q71SV0', 'Q91XQ6'}, {'Lysosomal-associated transmembrane protein 4B'}
+Lysosomal-associated Transmembrane Protein 4B, 1, 0, answered, , {'Q5U1W4', 'Q86VI4', 'Q4R6E8', 'Q71SV0', 'Q91XQ6'}, {'Lysosomal-associated transmembrane protein 4B'}
+Low-affinity nerve growth factor receptors, 1, 0, answered, , {'P18519', 'P08138', 'P07174', 'Q9Z0W1'}, {'Low-affinity nerve growth factor receptor'}
+L-type Amino Acid Transporter 1, 1, 0, answered, , {'Q7YQK4', 'Q9Z127', 'Q63016', 'Q01650'}, {'L-type amino acid transporter 1'}
+Interleukin-1β-converting enzyme, 1, 0, answered, , {'Q9MZV6', 'Q9TV13', 'P29466', 'Q9N2I1', 'P29452', 'P43527', 'Q9MZV7'}, {'Interleukin-1 beta-converting enzyme'}
+Interferon-Induced Protein 44-Like, 1, 0, answered, , {'Q53G44', 'Q9BDB7'}, {'Interferon-induced protein 44-like'}
+Inosine-5'-monophosphate dehydrogenases, 1, 0, answered, , {'O50316', 'P44334', 'F1DBB2', 'Q5KP44', 'Q12658', 'Q54QQ0', 'Q8T6T2', 'Q49729', 'P9WKI6', 'Q8G3N6', 'Q5HIQ7', 'Q9KGN8', 'P50097', 'P31002', 'Q8KCW4', 'W6QIT2', 'P0ADG9', 'Q4WHZ9', 'Q6GC82', 'Q6GJQ7', 'P0DB89', 'P49058', 'Q5HRX2', 'Q9HLK8', 'P99106', 'P42851', 'P50098', 'Q8CMQ7', 'Q9GZH3', 'O14344', 'Q84XA3', 'B1L5U5', 'P0C0H6', 'Q9UY49', 'Q7SFX7', 'Q59Q46', 'Q2FJM6', 'Q2YVL6', 'P0DB88', 'Q2G0Y7', 'P0ADG7', 'O00086', 'P68839', 'Q49UU8', 'Q0WD32', 'Q9KH33', 'P65169', 'Q07152', 'Q8F4Q4', 'P0ADG8', 'P56088', 'Q59011', 'O67820', 'A9A5Y7', 'Q9ZL14', 'O58045', 'Q7UJL3', 'Q9HQU4', 'P9WKI7', 'A0A0B5L585', 'P65168', 'P21620', 'Q4VRV8', 'Q9L6B7', 'Q5X9A3', 'Q4L385', 'Q8NY70', 'P21879', 'P0C0H7'}, {"Inosine-5'-monophosphate dehydrogenase"}
+Hypoxia-inducible factor 3-alpha, 1, 0, answered, , {'Q0VBL6', 'Q9JHS2', 'Q9Y2N7'}, {'Hypoxia-inducible factor 3-alpha'}
+Hypoxia-Inducible Factor1-α, 1, 0, answered, , {'Q61221', 'Q0PGG7', 'Q309Z6', 'Q9XTA5', 'Q9YIB9', 'Q16665', 'Q98SW2', 'Q9I8A9', 'O35800'}, {'Hypoxia-inducible factor 1-alpha'}
+Hypoxia-Inducible Factor1-Α, 1, 0, answered, , {'Q61221', 'Q0PGG7', 'Q309Z6', 'Q9XTA5', 'Q9YIB9', 'Q16665', 'Q98SW2', 'Q9I8A9', 'O35800'}, {'Hypoxia-inducible factor 1-alpha'}
+Hepatocyte Growth Factor Activator Inhibitor Type 1, 1, 0, answered, , {'O43278', 'Q9R097'}, {'Hepatocyte growth factor activator inhibitor type 1'}
+Guanine nucleotide-binding protein subunit α, 1, 0, answered, , {'B0XRA0', 'O13315', 'O42784', 'P30675', 'P28868', 'P0CN96', 'O74259', 'P0CN97', 'Q00580', 'Q00743', 'O74227'}, {'Guanine nucleotide-binding protein subunit alpha'}
+Growth Factor Receptor-Bound Protein 14, 1, 0, answered, , {'Q9JLM9', 'O88900', 'Q5ICW4', 'Q14449'}, {'Growth factor receptor-bound protein 14'}
+Glycerol-3-phosphate acyltransferase1, 1, 0, answered, , {'Q81DG8', 'Q9X109', 'Q1MIH8', 'Q3ZWB4', 'Q6HIP2', 'Q81QF8', 'Q2RJ58', 'Q5FMI9', 'Q9SHJ5', 'Q9RSV1', 'Q24Y16', 'Q737Z5', 'P59249', 'P60927', 'Q3ZAI6', 'Q63BB0'}, {'Glycerol-3-phosphate acyltransferase 1'}
+Glycerol-3-phosphate Acyltransferase1, 1, 0, answered, , {'Q81DG8', 'Q9X109', 'Q1MIH8', 'Q3ZWB4', 'Q6HIP2', 'Q81QF8', 'Q2RJ58', 'Q5FMI9', 'Q9SHJ5', 'Q9RSV1', 'Q24Y16', 'Q737Z5', 'P59249', 'P60927', 'Q3ZAI6', 'Q63BB0'}, {'Glycerol-3-phosphate acyltransferase 1'}
+Glyceraldehyde-3-phosphate dehydrogenase 4, 1, 0, answered, , {'P17331'}, {'Glyceraldehyde-3-phosphate dehydrogenase 4'}
+Glucocorticoid Modulatory Element-Binding protein 1, 1, 0, answered, , {'Q9JL60', 'Q9QUZ8', 'Q2HJ87', 'Q9Y692'}, {'Glucocorticoid modulatory element-binding protein 1'}
+Glucocorticoid Modulatory Element-Binding Protein 1, 1, 0, answered, , {'Q9JL60', 'Q9QUZ8', 'Q2HJ87', 'Q9Y692'}, {'Glucocorticoid modulatory element-binding protein 1'}
+Glial cell line-derived neurotrophic factors, 1, 0, answered, , {'Q06PM8', 'P39905', 'Q98TU0', 'P48540', 'Q07731'}, {'Glial cell line-derived neurotrophic factor'}
+GLYCEROL-3-PHOSPHATE ACYLTRANSFERASE 3, 1, 0, answered, , {'Q6DG38', 'Q8C0N2', 'Q4V8J4', 'Q3Z6P4', 'Q53EU6', 'Q3ZYV4', 'Q81Y92', 'Q5ZLL8', 'Q68F37'}, {'Glycerol-3-phosphate acyltransferase 3'}
+Fructose-1, 6-Bisphosphatase, 1, 0, answered, , {'P9WKJ1', 'F9VMT6', 'Q6MWZ7', 'P46726', 'P9WKJ0', 'Q8TZH9', 'P09201', 'Q6RYT0', 'P65164', 'Q05079', 'Q8NKR9', 'P09202'}, {'Fructose-1,6-bisphosphatase'}
+Fat/vessel-derived secretory protein, 1, 0, answered, , {'Q9BQI4', 'Q9D6Y1'}, {'Fat/vessel-derived secretory protein'}
+Fat storage-inducing transmembrane proteins 1, 1, 0, answered, , {'A7YWN2', 'Q91V79', 'B2MVP8', 'A5D6W6', 'Q5CZN0'}, {'Fat storage-inducing transmembrane protein 1'}
+Fat Storage-inducing Transmembrane Protein 2, 1, 0, answered, , {'Q5CZ37', 'A4IFN5', 'Q52KL1', 'A0JP80', 'B2LYG4', 'Q9VRJ2', 'Q6AX73', 'P59266', 'Q8N6M3'}, {'Fat storage-inducing transmembrane protein 2'}
+FMS-Related Tyrosine Kinase 3 Ligand, 1, 0, answered, , {'P49771', 'P49772'}, {'Fms-related tyrosine kinase 3 ligand'}
+Eukaryotic translation initiation factor 4 gamma 2, 1, 0, answered, , {'Q5R7J9', 'P78344', 'Q95L46', 'Q62448', 'O73777', 'P79398'}, {'Eukaryotic translation initiation factor 4 gamma 2'}
+Eukaryotic translation initiation factor 3 subunit B, 1, 0, answered, , {'Q2GM53', 'Q9XWI6', 'Q8JZQ9', 'B4J6D5', 'B4QB88', 'P12806', 'Q0IEY3', 'Q7PZY1', 'B4P5F7', 'Q2URB7', 'A8WX15', 'Q0E940', 'Q54QW1', 'Q758X9', 'A5DR43', 'P55884', 'Q9C5Z1', 'B3ME25', 'Q6FM92', 'A6ZPJ1', 'B4HMV9', 'A1D558', 'Q6CY34', 'Q10425', 'P0CN45', 'B4MQL8', 'Q4WKL7', 'B4GAY7', 'Q7S464', 'Q1DI97', 'B0XRG7', 'B5E081', 'Q6BLY5', 'P06103', 'A7MB16', 'A4QZL9', 'A7EHM8', 'Q6C1H8', 'A1CS92', 'Q5AGV4', 'Q569Z1', 'A3LY29', 'Q4G061', 'P56821', 'A2Q908', 'Q0CN46', 'Q5BGH1', 'A6SFQ6', 'B4KNN9', 'B3NMI5', 'P0CN44', 'B4LM71', 'B0W562', 'A5E5Y8', 'Q1HDZ5', 'Q4P6G4', 'A7TKF2'}, {'Eukaryotic translation initiation factor 3 subunit B'}
+Embryonic large molecule derived from yolk sac, 1, 0, answered, , {'Q8CJF7', 'Q8WYP5'}, {'Embryonic large molecule derived from yolk sac'}
+Dynein Light Chain Roadblock-Type 1, 1, 0, answered, , {'Q3T140', 'Q9NP97', 'P62627', 'P62628'}, {'Dynein light chain roadblock-type 1'}
+D-Glutamic Acid-Adding Enzyme, 1, 0, answered, , {'Q9Z705', 'A2RJQ3', 'Q0SMS3', 'Q01Q46', 'Q64ZL9', 'Q1JAT4', 'B0C915', 'Q21SW7', 'B9M170', 'B3E3Y4', 'Q1LSW4', 'O67852', 'A8AW14', 'B8DP81', 'B4RFS2', 'Q2JVR9', 'Q04B73', 'Q8F7V4', 'Q02XX9', 'Q3B127', 'B2SYX8', 'B8ZMZ6', 'P0C0D8', 'O07669', 'Q5SJD2', 'B2J6I3', 'B8D916', 'Q5LIJ5', 'Q0TLQ1', 'Q39YM1', 'B5E2Z8', 'Q1GIV4', 'Q9CPB0', 'A5UCX0', 'Q13TZ0', 'Q5L521', 'Q6A9Q4', 'Q899G5', 'Q47QX1', 'Q6MBS4', 'Q732F6', 'P45063', 'Q5PDC2', 'B1L9R9', 'Q5FUJ7', 'Q821S1', 'B9KNJ5', 'Q28NN2', 'Q9K0Y4', 'A1KKJ8', 'Q9ZDC2', 'Q0BKM8', 'Q5GSC8', 'B2KEW4', 'B2A2H0', 'Q728U6', 'Q5MZA8', 'Q9CF91', 'Q1BZG5', 'A6LJK7', 'P73668', 'A2BY75', 'A4J2A9', 'Q04LK1', 'A5VJ32', 'B5Z6L9', 'Q73YQ6', 'B0B8Y4', 'Q97RU8', 'Q2YXD9', 'Q8P063', 'B9DPR3', 'P0DC53', 'B2GB77', 'Q4K6J1', 'Q216E0', 'B7I325', 'B3EIL0', 'Q7VUQ1', 'Q636B4', 'B7IFU5', 'Q3MF19', 'Q2SZI5', 'B5FB37', 'B2RIE9', 'Q57C76', 'A1V0S0', 'Q72JQ1', 'Q9S2W9', 'A8FKL9', 'Q8KGD2', 'Q8E6P1', 'Q6FFC2', 'Q7VP56', 'Q49WW5', 'Q48SK8', 'Q6GHQ2', 'Q14J05', 'A8FCX9', 'A8F4W9', 'B4SHE6', 'Q83GN2', 'Q6G2Q3', 'C5BP36', 'B8HW13', 'A7GRN8', 'Q63QJ5', 'Q1J147', 'B9DY75', 'Q10WA5', 'Q8R9G4', 'Q5HQ09', 'Q8FL65', 'Q98KB1', 'Q1GAT6', 'A6U103', 'A9NA40', 'Q65JY2', 'Q1RGA7', 'Q2FHQ4', 'O25236', 'Q1MPC1', 'Q6G122', 'Q313Q5', 'A6LPL7', 'P9WJL5', 'A8LS92', 'B2G6K4', 'Q5XB04', 'B3QWT5', 'A3NDW6', 'Q042P8', 'A9KER6', 'B9MQ99', 'B0TZ72', 'O83873', 'A7NDX4', 'C1CJF2', 'A1TAX0', 'Q1CU35', 'Q7VQI9', 'O07108', 'Q31MM2', 'Q04UG6', 'Q3AZI5', 'B7HM33', 'Q3J787', 'Q21MH1', 'Q1CMM9', 'A0M529', 'Q2JD52', 'Q2Y636', 'A4JB92', 'Q3Z5S1', 'Q1IKG8', 'B1YIT8', 'Q3K2P4', 'Q2KVF5', 'A4VZT8', 'A7HNT0', 'Q1AVX1', 'Q7V5V5', 'Q7VAM1', 'Q2IYL0', 'A1VBE6', 'Q8DMN8', 'Q5P6Z4', 'B0K8K5', 'A9M2H5', 'O51532', 'B2JHG2', 'Q2S530', 'Q1RI52', 'Q0TMJ3', 'A8YUN8', 'B2I1V6', 'A7GJB0', 'B6ELH7', 'Q9ZLY0', 'Q2W0H5', 'A1U3G0', 'Q57TD2', 'Q1D0S8', 'Q8D2Z4', 'B2TIC9', 'Q82VS5', 'Q87WY3', 'C1F460', 'B8FBS0', 'Q83HK0', 'A0Q5C2', 'Q1WT99', 'Q7WFS0', 'A0R018', 'Q82AD8', 'A4XI02', 'B7K318', 'A5I7P2', 'B4RQC7', 'C1C648', 'Q52953', 'Q47VQ7', 'B5EBP9', 'B4U609', 'A9AJ18', 'Q7VEP7', 'A1AU63', 'Q4ULT8', 'A7MXR3', 'Q8E9P6', 'Q319C4', 'A5D147', 'Q819Q2', 'B1KTB9', 'B0BAL3', 'Q326E7', 'B8ZQP8', 'A5U4I2', 'B2SDR8', 'Q4JW97', 'Q3K742', 'Q73GT3', 'Q7U8T1', 'Q9K9S8', 'B9DUV7', 'B1MXV9', 'Q4L5N4', 'B6J2Q5', 'P0A089', 'A7X1C4', 'A1AZK7', 'Q7N145', 'B3QLW6', 'Q8YPS9', 'C1EPS6', 'A1KVL5', 'Q9A597', 'Q2NVV3', 'Q1JG10', 'A6TS63', 'Q6MIF8', 'Q5LU71', 'Q3SMH5', 'B1IGJ0', 'A5F5N1', 'B0K3H2', 'Q6GA29', 'Q182Y7', 'Q748D4', 'Q11RH3', 'Q8UDM6', 'Q6NGC6', 'Q8CSX6', 'C1FNC3', 'A8ZXW5', 'Q255W7', 'C1CD51', 'C5D8M2', 'Q3A2G4', 'Q48EF6', 'Q8FNT8', 'Q88V80', 'B1IAM3', 'Q8A256', 'P0A091', 'Q8DEK8', 'B3EQC0', 'Q5E2P8', 'Q46WZ2', 'Q3KKT4', 'Q4ZNY8', 'Q7V0A5', 'B2UXV7', 'B1JV76', 'Q5NPA7', 'B0JRM9', 'Q6LMF4', 'C3L713', 'Q1ME31', 'Q3AHP0', 'Q9F1N2', 'Q62GS5', 'Q8Z9H0', 'P14900', 'B7GQ76', 'Q66EK7', 'A3PHS4', 'A7H4U5', 'Q5WTI5', 'Q5R0M3', 'Q6D0I1', 'Q8XHM4', 'Q89FU5', 'Q5FKV3', 'Q1GYZ9', 'Q2A1Z9', 'Q2JHP5', 'Q38XM9', 'Q0VS04', 'A5IKI7', 'Q2K6B9', 'B1VHC6', 'Q8ZRU4', 'A7FZA3', 'Q0SQ91', 'B8I2T4', 'Q67QM7', 'Q46JA8', 'A9VU74', 'Q5M0D5', 'Q2IG29', 'Q7W4B2', 'C1AQ71', 'A1A2F1', 'Q2RVU2', 'Q604V5', 'Q5L0X7', 'C1CQG4', 'B7KH28', 'Q39JX2', 'Q9RRJ4', 'Q8DQM2', 'A0K484', 'A6QG83', 'Q2G997', 'Q5ZSA3', 'Q4QLG0', 'Q5HGP8', 'Q8ZIF1', 'C4Z534', 'Q03W34', 'Q8YI68', 'B9IVY9', 'Q9WY76', 'A7Z4E3', 'P57995', 'Q04ES9', 'A7NI97', 'B9K6P5', 'Q9PI73', 'Q1QVG5', 'Q0BIK3', 'B7H1N2', 'C6DZK4', 'Q0SHR9', 'Q2LR50', 'A5G8K2', 'A3M1C6', 'Q3IG02', 'Q03522', 'P9WJL4', 'Q68WW9', 'Q04Z09', 'A1BJY0', 'A2RDK9', 'Q81WC9', 'A3NZL7', 'Q83MF9', 'B3DQM9', 'Q4FQ21', 'Q7MWM5', 'P0C0D7', 'Q1J5S5', 'A3CLN5', 'A9BGS7', 'B5XMA3', 'Q8X9Y9', 'Q5X1S4', 'Q1LIM4', 'Q2YM69', 'B7J2E8', 'A1VYE9', 'Q31I61', 'Q89AQ2', 'A4VTK3', 'Q3ANV5', 'B0T833', 'B4U1U3', 'Q5F6L6', 'Q11GS3', 'P0A090', 'Q1JKY4', 'P0DC52', 'B3WDY1', 'A4SH04', 'A5N4L3', 'Q2RK81', 'Q8RDQ1', 'Q88N78', 'Q929Y1', 'Q9KPG5', 'A5UZT4', 'Q3JND6', 'Q8FZP2', 'Q5NHK3', 'B8H096', 'Q3STT0', 'Q92I60', 'Q3AAE4', 'Q72NP4', 'A4WQD2', 'Q0AJD9', 'B1YSS2', 'A8MH34', 'Q2S9Z0', 'Q5M4Y2', 'A8Z3M4', 'Q3J4M6', 'B7VJ01', 'Q7NEZ5', 'B9EB51', 'A0RHT3', 'Q2FZ92', 'Q6HEQ2', 'Q87SG6', 'Q03L98', 'B7H6P8', 'Q32K04', 'A0PXN6', 'Q8XVI5', 'B6J5K6', 'C3KVT7', 'Q493Q3', 'B7JK00', 'Q24TE4', 'Q03EY1', 'B2IN76', 'Q12EL7', 'Q71XX7', 'Q97EB9', 'A9KLU2', 'Q7NPZ7', 'B7IUS2', 'B1X090', 'Q8Y5M1', 'Q7MNV3', 'A3DE94', 'Q5WFG8', 'Q47AA2', 'Q8DVE3', 'A4IZG9', 'Q6AJ52', 'B8IZT9', 'Q1C212', 'Q6N409', 'Q74JY5', 'O84763', 'Q9HVZ9', 'Q1QNU5', 'Q8ER50', 'Q163I6', 'Q65RY4', 'Q039R8', 'A5IS69', 'Q8E186', 'Q1GRX7', 'A3MR61', 'Q83F20', 'C3P682', 'A5UIR0', 'B8D7C1', 'B8FT58', 'Q5YYY1', 'Q1Q883', 'A2S5U7', 'A0QF50', 'Q8G4Q6', 'Q8K9T2', 'Q5HW34', 'Q9JSZ5', 'Q5PBH9', 'Q9PLG5', 'Q8NX35', 'Q6AE62', 'P57313'}, {'D-glutamic acid-adding enzyme'}
+D-GLUTAMIC ACID-ADDING ENZYME, 1, 0, answered, , {'Q9Z705', 'A2RJQ3', 'Q0SMS3', 'Q01Q46', 'Q64ZL9', 'Q1JAT4', 'B0C915', 'Q21SW7', 'B9M170', 'B3E3Y4', 'Q1LSW4', 'O67852', 'A8AW14', 'B8DP81', 'B4RFS2', 'Q2JVR9', 'Q04B73', 'Q8F7V4', 'Q02XX9', 'Q3B127', 'B2SYX8', 'B8ZMZ6', 'P0C0D8', 'O07669', 'Q5SJD2', 'B2J6I3', 'B8D916', 'Q5LIJ5', 'Q0TLQ1', 'Q39YM1', 'B5E2Z8', 'Q1GIV4', 'Q9CPB0', 'A5UCX0', 'Q13TZ0', 'Q5L521', 'Q6A9Q4', 'Q899G5', 'Q47QX1', 'Q6MBS4', 'Q732F6', 'P45063', 'Q5PDC2', 'B1L9R9', 'Q5FUJ7', 'Q821S1', 'B9KNJ5', 'Q28NN2', 'Q9K0Y4', 'A1KKJ8', 'Q9ZDC2', 'Q0BKM8', 'Q5GSC8', 'B2KEW4', 'B2A2H0', 'Q728U6', 'Q5MZA8', 'Q9CF91', 'Q1BZG5', 'A6LJK7', 'P73668', 'A2BY75', 'A4J2A9', 'Q04LK1', 'A5VJ32', 'B5Z6L9', 'Q73YQ6', 'B0B8Y4', 'Q97RU8', 'Q2YXD9', 'Q8P063', 'B9DPR3', 'P0DC53', 'B2GB77', 'Q4K6J1', 'Q216E0', 'B7I325', 'B3EIL0', 'Q7VUQ1', 'Q636B4', 'B7IFU5', 'Q3MF19', 'Q2SZI5', 'B5FB37', 'B2RIE9', 'Q57C76', 'A1V0S0', 'Q72JQ1', 'Q9S2W9', 'A8FKL9', 'Q8KGD2', 'Q8E6P1', 'Q6FFC2', 'Q7VP56', 'Q49WW5', 'Q48SK8', 'Q6GHQ2', 'Q14J05', 'A8FCX9', 'A8F4W9', 'B4SHE6', 'Q83GN2', 'Q6G2Q3', 'C5BP36', 'B8HW13', 'A7GRN8', 'Q63QJ5', 'Q1J147', 'B9DY75', 'Q10WA5', 'Q8R9G4', 'Q5HQ09', 'Q8FL65', 'Q98KB1', 'Q1GAT6', 'A6U103', 'A9NA40', 'Q65JY2', 'Q1RGA7', 'Q2FHQ4', 'O25236', 'Q1MPC1', 'Q6G122', 'Q313Q5', 'A6LPL7', 'P9WJL5', 'A8LS92', 'B2G6K4', 'Q5XB04', 'B3QWT5', 'A3NDW6', 'Q042P8', 'A9KER6', 'B9MQ99', 'B0TZ72', 'O83873', 'A7NDX4', 'C1CJF2', 'A1TAX0', 'Q1CU35', 'Q7VQI9', 'O07108', 'Q31MM2', 'Q04UG6', 'Q3AZI5', 'B7HM33', 'Q3J787', 'Q21MH1', 'Q1CMM9', 'A0M529', 'Q2JD52', 'Q2Y636', 'A4JB92', 'Q3Z5S1', 'Q1IKG8', 'B1YIT8', 'Q3K2P4', 'Q2KVF5', 'A4VZT8', 'A7HNT0', 'Q1AVX1', 'Q7V5V5', 'Q7VAM1', 'Q2IYL0', 'A1VBE6', 'Q8DMN8', 'Q5P6Z4', 'B0K8K5', 'A9M2H5', 'O51532', 'B2JHG2', 'Q2S530', 'Q1RI52', 'Q0TMJ3', 'A8YUN8', 'B2I1V6', 'A7GJB0', 'B6ELH7', 'Q9ZLY0', 'Q2W0H5', 'A1U3G0', 'Q57TD2', 'Q1D0S8', 'Q8D2Z4', 'B2TIC9', 'Q82VS5', 'Q87WY3', 'C1F460', 'B8FBS0', 'Q83HK0', 'A0Q5C2', 'Q1WT99', 'Q7WFS0', 'A0R018', 'Q82AD8', 'A4XI02', 'B7K318', 'A5I7P2', 'B4RQC7', 'C1C648', 'Q52953', 'Q47VQ7', 'B5EBP9', 'B4U609', 'A9AJ18', 'Q7VEP7', 'A1AU63', 'Q4ULT8', 'A7MXR3', 'Q8E9P6', 'Q319C4', 'A5D147', 'Q819Q2', 'B1KTB9', 'B0BAL3', 'Q326E7', 'B8ZQP8', 'A5U4I2', 'B2SDR8', 'Q4JW97', 'Q3K742', 'Q73GT3', 'Q7U8T1', 'Q9K9S8', 'B9DUV7', 'B1MXV9', 'Q4L5N4', 'B6J2Q5', 'P0A089', 'A7X1C4', 'A1AZK7', 'Q7N145', 'B3QLW6', 'Q8YPS9', 'C1EPS6', 'A1KVL5', 'Q9A597', 'Q2NVV3', 'Q1JG10', 'A6TS63', 'Q6MIF8', 'Q5LU71', 'Q3SMH5', 'B1IGJ0', 'A5F5N1', 'B0K3H2', 'Q6GA29', 'Q182Y7', 'Q748D4', 'Q11RH3', 'Q8UDM6', 'Q6NGC6', 'Q8CSX6', 'C1FNC3', 'A8ZXW5', 'Q255W7', 'C1CD51', 'C5D8M2', 'Q3A2G4', 'Q48EF6', 'Q8FNT8', 'Q88V80', 'B1IAM3', 'Q8A256', 'P0A091', 'Q8DEK8', 'B3EQC0', 'Q5E2P8', 'Q46WZ2', 'Q3KKT4', 'Q4ZNY8', 'Q7V0A5', 'B2UXV7', 'B1JV76', 'Q5NPA7', 'B0JRM9', 'Q6LMF4', 'C3L713', 'Q1ME31', 'Q3AHP0', 'Q9F1N2', 'Q62GS5', 'Q8Z9H0', 'P14900', 'B7GQ76', 'Q66EK7', 'A3PHS4', 'A7H4U5', 'Q5WTI5', 'Q5R0M3', 'Q6D0I1', 'Q8XHM4', 'Q89FU5', 'Q5FKV3', 'Q1GYZ9', 'Q2A1Z9', 'Q2JHP5', 'Q38XM9', 'Q0VS04', 'A5IKI7', 'Q2K6B9', 'B1VHC6', 'Q8ZRU4', 'A7FZA3', 'Q0SQ91', 'B8I2T4', 'Q67QM7', 'Q46JA8', 'A9VU74', 'Q5M0D5', 'Q2IG29', 'Q7W4B2', 'C1AQ71', 'A1A2F1', 'Q2RVU2', 'Q604V5', 'Q5L0X7', 'C1CQG4', 'B7KH28', 'Q39JX2', 'Q9RRJ4', 'Q8DQM2', 'A0K484', 'A6QG83', 'Q2G997', 'Q5ZSA3', 'Q4QLG0', 'Q5HGP8', 'Q8ZIF1', 'C4Z534', 'Q03W34', 'Q8YI68', 'B9IVY9', 'Q9WY76', 'A7Z4E3', 'P57995', 'Q04ES9', 'A7NI97', 'B9K6P5', 'Q9PI73', 'Q1QVG5', 'Q0BIK3', 'B7H1N2', 'C6DZK4', 'Q0SHR9', 'Q2LR50', 'A5G8K2', 'A3M1C6', 'Q3IG02', 'Q03522', 'P9WJL4', 'Q68WW9', 'Q04Z09', 'A1BJY0', 'A2RDK9', 'Q81WC9', 'A3NZL7', 'Q83MF9', 'B3DQM9', 'Q4FQ21', 'Q7MWM5', 'P0C0D7', 'Q1J5S5', 'A3CLN5', 'A9BGS7', 'B5XMA3', 'Q8X9Y9', 'Q5X1S4', 'Q1LIM4', 'Q2YM69', 'B7J2E8', 'A1VYE9', 'Q31I61', 'Q89AQ2', 'A4VTK3', 'Q3ANV5', 'B0T833', 'B4U1U3', 'Q5F6L6', 'Q11GS3', 'P0A090', 'Q1JKY4', 'P0DC52', 'B3WDY1', 'A4SH04', 'A5N4L3', 'Q2RK81', 'Q8RDQ1', 'Q88N78', 'Q929Y1', 'Q9KPG5', 'A5UZT4', 'Q3JND6', 'Q8FZP2', 'Q5NHK3', 'B8H096', 'Q3STT0', 'Q92I60', 'Q3AAE4', 'Q72NP4', 'A4WQD2', 'Q0AJD9', 'B1YSS2', 'A8MH34', 'Q2S9Z0', 'Q5M4Y2', 'A8Z3M4', 'Q3J4M6', 'B7VJ01', 'Q7NEZ5', 'B9EB51', 'A0RHT3', 'Q2FZ92', 'Q6HEQ2', 'Q87SG6', 'Q03L98', 'B7H6P8', 'Q32K04', 'A0PXN6', 'Q8XVI5', 'B6J5K6', 'C3KVT7', 'Q493Q3', 'B7JK00', 'Q24TE4', 'Q03EY1', 'B2IN76', 'Q12EL7', 'Q71XX7', 'Q97EB9', 'A9KLU2', 'Q7NPZ7', 'B7IUS2', 'B1X090', 'Q8Y5M1', 'Q7MNV3', 'A3DE94', 'Q5WFG8', 'Q47AA2', 'Q8DVE3', 'A4IZG9', 'Q6AJ52', 'B8IZT9', 'Q1C212', 'Q6N409', 'Q74JY5', 'O84763', 'Q9HVZ9', 'Q1QNU5', 'Q8ER50', 'Q163I6', 'Q65RY4', 'Q039R8', 'A5IS69', 'Q8E186', 'Q1GRX7', 'A3MR61', 'Q83F20', 'C3P682', 'A5UIR0', 'B8D7C1', 'B8FT58', 'Q5YYY1', 'Q1Q883', 'A2S5U7', 'A0QF50', 'Q8G4Q6', 'Q8K9T2', 'Q5HW34', 'Q9JSZ5', 'Q5PBH9', 'Q9PLG5', 'Q8NX35', 'Q6AE62', 'P57313'}, {'D-glutamic acid-adding enzyme'}
+Cytoplasmic polyadenylation element-binding protein 2, 1, 0, answered, , {'Q6E3F3', 'Q812E0', 'Q7Z5Q1', 'Q6E3F2', 'Q6E3F0', 'Q18317'}, {'Cytoplasmic polyadenylation element-binding protein 2'}
+Cyclic Nucleotide-gated Cation Channel 4, 1, 0, answered, , {'Q14028', 'Q28181'}, {'Cyclic nucleotide-gated cation channel 4'}
+Chitinase-3-Like Protein 2, 1, 0, answered, , {'Q15782'}, {'Chitinase-3-like protein 2'}
+Cellular retinoic acid-binding protein 1, 1, 0, answered, , {'P62965', 'Q6T499', 'P40220', 'P62964', 'O42386', 'P62966', 'P29762', 'Q5R2J5'}, {'Cellular retinoic acid-binding protein 1'}
+Cellular Retinoic Acid-Binding Protein 2, 1, 0, answered, , {'P29373', 'P50568', 'P30370', 'P22935', 'Q5PXY7', 'P51673'}, {'Cellular retinoic acid-binding protein 2'}
+Cell Division Cycle-Associated protein 4, 1, 0, answered, , {'Q9BXL8', 'Q9CWM2'}, {'Cell division cycle-associated protein 4'}
+Cell Division Cycle-Associated Protein 4, 1, 0, answered, , {'Q9BXL8', 'Q9CWM2'}, {'Cell division cycle-associated protein 4'}
+Carbohydrate-Responsive Element-Binding Protein, 1, 0, answered, , {'Q99MZ3', 'Q9NP71', 'Q8VIP2'}, {'Carbohydrate-responsive element-binding protein'}
+CYCLIC NUCLEOTIDE-GATED ION CHANNEL 2, 1, 0, answered, , {'O65718'}, {'Cyclic nucleotide-gated ion channel 2'}
+Bcl-2-like protein 15, 1, 0, answered, , {'Q0II48', 'Q08ED0', 'Q5TBC7'}, {'Bcl-2-like protein 15'}
+Ankyrin repeat domain-containing protein 26, 1, 0, answered, , {'Q9UPS8', 'Q811D2'}, {'Ankyrin repeat domain-containing protein 26'}
+Ankyrin repeat domain-containing protein 1, 1, 0, answered, , {'Q3ZBX7', 'Q865U8', 'Q9CR42', 'Q4KL97', 'Q9TU71', 'Q7ZT11', 'Q8R560', 'Q15327', 'Q5BKI6'}, {'Ankyrin repeat domain-containing protein 1'}
+6-Phospho-β-glucosidase, 1, 0, answered, , {'P42973', 'P26206', 'P40740', 'Q46130', 'P17411', 'P42403'}, {'6-phospho-beta-glucosidase'}
+6-Phospho-beta-galactosidases, 1, 0, answered, , {'P0DB40', 'A6QJ33', 'C0MDS5', 'A3CPH0', 'Q1J9V2', 'Q6GEP0', 'P50977', 'P0DB41', 'C1CEE7', 'A8YYF6', 'P67768', 'Q5HM41', 'Q8E4S2', 'Q2YYJ9', 'Q2FEU3', 'Q5X9Y7', 'A7X569', 'Q1JK01', 'Q9EV38', 'C7N8L9', 'Q8CNF8', 'Q4L868', 'B4U1G6', 'P67769', 'Q1J4Q7', 'Q97EZ2', 'P14696', 'A5IUX8', 'Q6G7C5', 'Q48RC8', 'P11546', 'Q5HE16', 'Q99Y18', 'B9DU98', 'A6U3R9', 'Q2G2D5', 'P67767', 'B3W7I3', 'A2RGE8', 'Q1JEZ3', 'B8ZQ59', 'Q8NZE1', 'Q29ZJ1', 'P50978', 'P11175'}, {'6-phospho-beta-galactosidase'}
+5'-3' Exoribonuclease 1, 1, 0, answered, , {'Q8IZH2', 'P97789', 'P22147', 'P40383'}, {"5'-3' exoribonuclease 1"}
+2-Aminomuconic 6-semialdehyde dehydrogenase, 1, 0, answered, , {'Q9KWS5'}, {'2-aminomuconic 6-semialdehyde dehydrogenase'}

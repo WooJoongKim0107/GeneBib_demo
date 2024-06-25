@@ -1,0 +1,2 @@
+keyword, paper_matches, ngram_counts, case_insensitive_in_removed
+CDP-glycerol:N-acetyl-beta-d-mannosaminyl-1,4-N-acetyl-d-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase, 1, 0, undetermined, , {'Q8RKI8', 'Q2G2X4', 'P27621'}, {'CDP-glycerol:N-acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase'}

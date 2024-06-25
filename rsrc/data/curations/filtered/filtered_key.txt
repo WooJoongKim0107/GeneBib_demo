@@ -1,0 +1,1024 @@
+# From top-50 cmnts for their paper & patent hits
+Albumin
+for3
+R4
+R5
+R6
+R7
+rev
+ups  # Follow-ups, etc ...
+
+# By comparing Top50 papered cmnts upto 2022 vs 2019
+Transcriptase  # cmnt 679, Reverse-transcriptase PCR. To reduce confussion with Real-time PCR. (3329th -> 16th)
+PK1  # cmnt 146504, cell line. (NotExist -> 46th)
+hepG  # cmnt 144781, cell. (NotExist -> 42th)
+CRC  # cmnt 9912, colorectal cancer. (NotExist -> 33th)
+CTX  # cmnt 998, another gene CTX-M. (139th -> 50th)
+CBT  # cmnt 998, cognitive-behavioral therapy.
+EMT  # cmnt 18682, epithelial-mesenchymal transition
+Oct3  # cmnt 18682
+
+# By comparing Top70 patented cmnts upto 2022 vs 2019
+DMD  # cmnt 11436, Duchenne muscular dystrophy
+det  # cmnt 11436, detrusor pressure
+Det  # cmnt 11436, many things other than gene/protein
+ECM  # cmnt 25615, extracellular matrix
+IAP  # cmnt 6902, many things other than integrin-associated protein
+
+# From curation_input_1.txt
+Nu1  # cmnt97025
+lys20  # cmnt2378
+LYS20  # cmnt2378
+ARG14  # cmnt37353
+MET17  # cmnt22329
+met17  # cmnt22329
+rph  # cmnt259
+Sh1  # cmnt73266
+copd  # cmnt3735
+mpp  # cmnt4225
+Nin  # cmnt74806
+nin  # cmnt74806
+PSI-I  # cmnt779
+AS250  # cmnt18427
+ami  # cmnt20552
+VML  # cmnt67407
+psaL  # cmnt1648
+GIN-1  # cmnt7195
+CRSP  # cmnt8648
+sus  # cmnt207
+Tnm2  # cmnt10517
+tpa  # cmnt29341
+AAI  # cmnt62900
+Sa2  # cmnt19095
+SA2  # cmnt19095
+sa2  # cmnt19095
+Chc  # cmnt43857
+ddi  # cmnt88347
+KBP  # cmnt11842
+CVA  # cmnt67287
+ALO  # cmnt4449
+new24  # cmnt11218
+rth  # cmnt1047
+B2B  # cmnt66316
+iro  # cmnt64428
+Cl-4  # cmnt19065
+HB8  # cmnt36833
+DCC I  # cmnt2235
+Zipper protein  # cmnt73155
+dop  # cmnt11454
+Ag3  # cmnt29368
+ag3  # cmnt29368
+NGT  # cmnt26053
+clo  # cmnt75551
+Protector protein  # cmnt99423
+Hlf  # cmnt24085
+HC2  # cmnt5464
+PKS1  # cmnt81614
+PS20  # cmnt13974
+TSF  # cmnt99447
+alkR  # cmnt34492
+AM1  # cmnt34739
+BBR  # cmnt37808
+GSA  # cmnt174
+ML2  # cmnt25777
+Fmn  # cmnt48314
+fmn  # cmnt48314
+BZ2  # cmnt59238
+BZ1  # cmnt5619
+MDR1A  # cmnt70243
+MRO  # cmnt17360
+PSO6  # cmnt5960
+DSO  # cmnt20278
+PDED  # cmnt4022
+rx1  # cmnt28057
+new25  # cmnt74389
+PER13  # cmnt80209
+AGF  # cmnt20607
+slt  # cmnt10017
+RTR  # cmnt9514
+mnt No. 70448 with    1 patent hits  # cmnt9514
+MEQ  # cmnt9514
+ddd  # cmnt102707
+TS2  # cmnt97509
+RBE  # cmnt86208
+ALS I  # cmnt24458
+CHR17  # cmnt43132
+BG4  # cmnt23200
+tgo  # cmnt36079
+new12  # cmnt74382
+FH4  # cmnt54941
+CM1  # cmnt44028
+Mi-2  # cmnt42937
+BAT  # cmnt14581
+Abo  # cmnt10856
+abo  # cmnt10856
+TrP  # cmnt99664
+Oct-8  # cmnt12942
+Moz  # cmnt16749
+moz  # cmnt16749
+Gan  # cmnt56620
+bai  # cmnt98100
+MIP I  # cmnt43409
+ps201  # cmnt78388
+PN3  # cmnt9959
+ACF  # cmnt20193
+X-receptor  # cmnt13993
+nag  # cmnt3410
+npt  # cmnt83601
+Globin A  # cmnt57710
+RAMA  # cmnt86025
+DS-1  # cmnt9108
+SIL-4  # cmnt94591
+PCR A  # cmnt12950
+GB2  # cmnt85764
+Gpl  # cmnt23808
+SS9  # cmnt94616
+SSA3  # cmnt62130
+GP29  # cmnt3214
+gp29  # cmnt14683
+Gp29  # cmnt14683
+pLR  # cmnt81944
+CML17  # cmnt21864
+CML15  # cmnt21862
+CP 1  # cmnt1823
+GDO  # cmnt98420
+Replicating protein  # cmnt86728
+Transcriptional regulatory protein  # cmnt43281
+gfa  # cmnt1778
+pic  # cmnt17972
+LYS13  # cmnt68857
+MAK  # cmnt20538
+gab  # cmnt1603
+ARG13  # cmnt37352
+AP4  # cmnt81117
+Fop  # cmnt11111
+FOP  # cmnt11111
+cor  # cmnt44833
+VCP  # cmnt2641
+B allele  # cmnt56880
+R1A  # cmnt85669
+PSI-A  # cmnt569
+ps1a1  # cmnt569
+ALR  # cmnt4052
+SLA  # cmnt3955
+HRT  # cmnt88874
+CNC  # cmnt6213
+CMT  # cmnt44246
+MRP  # cmnt9398
+Mpg  # cmnt6712
+mpg  # cmnt6712
+MPG  # cmnt6712
+IRE  # cmnt64399
+BA2  # cmnt37569
+Typ  # cmnt18224
+Antigen 4  # cmnt18182
+EP0  # cmnt6676
+P protein  # cmnt1170
+CG1  # cmnt6265
+Ilc  # cmnt21521
+END12  # cmnt10397
+PET9  # cmnt4047
+Gable  # cmnt6144
+BTS  # cmnt15094
+DHS  # cmnt1150
+cyt  # cmnt138061
+CNB  # cmnt10950
+AG3  # cmnt33945
+cfa  # cmnt3431
+IMP  # cmnt21151
+Synthase II  # cmnt27411
+OAS  # cmnt77274
+NHS  # cmnt74683
+Bora  # cmnt6847
+bora  # cmnt6847
+dynamo  # cmnt57049
+CAL  # cmnt8484
+TRAP  # cmnt6199
+MICA  # cmnt1276
+COPE  # cmnt4091
+NOVA  # cmnt75093
+TRANCE  # cmnt19423
+Fluke  # cmnt23367
+Robin  # cmnt88504
+OCT  # cmnt81985
+TOR  # cmnt13731
+DORA  # cmnt16605
+COD  # cmnt1136
+DES  # cmnt4533
+meng  # cmnt90396
+PRE  # cmnt76112
+Baron  # cmnt28039
+BEN  # cmnt4496
+INDO  # cmnt62792
+dIRS  # cmnt9152
+MUN  # cmnt2411
+Sirup  # cmnt7819
+MRS  # cmnt22457
+LEA3  # cmnt25037
+pox  # cmnt4716
+DAS  # cmnt22382
+KAN  # cmnt65221
+kan  # cmnt24698
+POX  # cmnt27120
+Homer  # cmnt61576
+KAPP  # cmnt78366
+LIME  # cmnt25099
+MUTE  # cmnt72792
+RAO  # cmnt4922
+ASS  # cmnt14517
+TOX  # cmnt98548
+PUMA  # cmnt20993
+SAP  # cmnt4325
+REV  # cmnt86801
+LICE  # cmnt3219
+DRS  # cmnt12900
+APE  # cmnt5003
+TED  # cmnt11610
+HUT11  # cmnt102156
+POLE  # cmnt22691
+pia  # cmnt81199
+ACTA  # cmnt3017
+MET  # cmnt1640
+PIA  # cmnt7539
+UND  # cmnt15152
+grm  # cmnt23862
+FEL  # cmnt33565
+SACS  # cmnt28114
+SERA  # cmnt18821
+xth  # cmnt11595
+DEC  # cmnt59477
+EEL  # cmnt34060
+EROS  # cmnt5894
+RAF  # cmnt9794
+LIP  # cmnt8540
+Gir  # cmnt23830
+Boll  # cmnt38870
+MENE  # cmnt70402
+PAM  # cmnt10686
+fer  # cmnt751
+CS2  # cmnt15277
+ord  # cmnt26419
+pari  # cmnt5411
+Hyalin  # cmnt24293
+lye  # cmnt25264
+ECK  # cmnt15719
+Eck  # cmnt15719
+septa  # cmnt91492
+Sur  # cmnt8139
+mit  # cmnt98313
+Den  # cmnt49056
+MID  # cmnt38533
+Cit  # cmnt11117
+HUGO  # cmnt11715
+TRASK  # cmnt21573
+OVA  # cmnt9561
+Amid  # cmnt6757
+ecto  # cmnt13758
+PAN  # cmnt1743
+Foe  # cmnt35257
+ORCA  # cmnt9275
+FRU  # cmnt55130
+e.1  # cmnt106304
+FIAT  # cmnt100452
+leo  # cmnt2642
+pup  # cmnt1128
+Negative factor  # cmnt920
+MAZ  # cmnt17152
+rng  # cmnt9874
+plc  # cmnt137955
+BE 1  # cmnt3481
+BE1  # cmnt57801
+be1  # cmnt57804
+par  # cmnt567
+Grc  # cmnt99277
+ATK1  # cmnt66049
+bact  # cmnt33106
+ORA  # cmnt998
+Drs  # cmnt94443
+rost  # cmnt88613
+Flap  # cmnt4054
+SIC  # cmnt91988
+SPAR  # cmnt18870
+Catsup  # cmnt46639
+PH4  # cmnt26509
+Mal  # cmnt1625
+Sis  # cmnt6295
+sap  # cmnt5536
+dep  # cmnt40897
+axil  # cmnt10814
+HEMO  # cmnt70459
+PH3  # cmnt80814
+ani  # cmnt35156
+PH1  # cmnt80811
+Bart  # cmnt4059
+med  # cmnt70339
+EPN  # cmnt7492
+LAT  # cmnt16887
+MINA  # cmnt9847
+UNK  # cmnt19641
+DIP  # cmnt17970
+hemo  # cmnt60751
+Casper  # cmnt14992
+PARS  # cmnt28871
+ind  # cmnt1167
+SHRP  # cmnt90378
+Bri  # cmnt5284
+HPO  # cmnt34689
+AP-1  # cmnt23396
+BIII  # cmnt8467
+Nach  # cmnt17457
+Ids  # cmnt63207
+Purpurin  # cmnt85217
+mia  # cmnt12437
+L-3  # cmnt25152
+vasa  # cmnt11386
+parva  # cmnt17830
+pes  # cmnt9627
+AFM  # cmnt10639
+agr  # cmnt5728
+Sigma S  # cmnt3924
+NGC  # cmnt11292
+Caleb  # cmnt11292
+nero  # cmnt39314
+And34  # cmnt8418
+PPO  # cmnt4413
+SUR  # cmnt14194
+PK7  # cmnt48148
+UNI  # cmnt101826
+rin  # cmnt27813
+nth  # cmnt2448
+DAM  # cmnt22629
+OX19  # cmnt14286
+matt  # cmnt13712
+str  # cmnt14
+Itch  # cmnt24600
+ITCH  # cmnt24600
+Col  # cmnt44646
+Cot  # cmnt26352
+COT (C_0 T test of DNA sequence)  # cmnt26352
+mgm  # cmnt70731
+fir  # cmnt23224
+undertaker  # cmnt7432
+sufu  # cmnt95286
+Boris  # cmnt22196
+PSP  # cmnt1839
+CAS  # cmnt15290
+e.5  # cmnt106308
+vas  # cmnt102533
+PER10  # cmnt4722
+isn  # cmnt439
+SSS  # cmnt28700
+SOD  # cmnt638
+Lupin  # cmnt10553
+vito  # cmnt9948
+LAM  # cmnt3380
+LIND  # cmnt98210
+Enhancing factor  # cmnt7559
+rac  # cmnt10665
+lint  # cmnt67830
+BAS  # cmnt81659
+spas  # cmnt93625
+Mare  # cmnt17601
+FLU  # cmnt55457
+e.6  # cmnt106309
+TIC  # cmnt27380
+PER24  # cmnt80230
+Tox  # cmnt98549
+TRI  # cmnt104093
+MAL  # cmnt17097
+ave  # cmnt37260
+cyr  # cmnt420
+capon  # cmnt14799
+DELTAP  # cmnt142
+spa  # cmnt10048
+amos  # cmnt34817
+lop  # cmnt40
+hoc  # cmnt61543
+Cal  # cmnt11665
+cal  # cmnt11665
+loco  # cmnt87067
+Loco  # cmnt87067
+SOC  # cmnt19609
+soc  # cmnt19609
+Soc  # cmnt19609
+March10  # cmnt25363
+MARCH10  # cmnt25363
+sAC  # cmnt10624
+SAC  # cmnt10624
+POLI  # cmnt27100
+Poli  # cmnt27100
+FOR20  # cmnt11724
+For20  # cmnt11724
+MARCH7  # cmnt12360
+March7  # cmnt12360
+MK5  # cmnt25360
+MK-5  # cmnt25360
+PAST2  # cmnt51943
+Past2  # cmnt51943
+Tars  # cmnt4354
+TARS  # cmnt4354
+GILT  # cmnt11823
+Gilt  # cmnt11823
+TEL  # cmnt23068
+Tel  # cmnt23068
+Rex  # cmnt535
+rex  # cmnt535
+March-I  # cmnt25361
+MARCH1  # cmnt25361
+March1  # cmnt25361
+mor  # cmnt3884
+Mor  # cmnt3884
+Ossa  # cmnt11604
+OSSA  # cmnt11604
+MARCH11  # cmnt17130
+March11  # cmnt17130
+MARCH-XI  # cmnt17130
+SBS  # cmnt90416
+Superantigen  # cmnt18138
+SEB  # cmnt28261
+PPM  # cmnt83413
+AMT  # cmnt2914
+VP11  # cmnt75763
+CPO  # cmnt418
+CPX  # cmnt9044
+dmt  # cmnt48237
+NACK  # cmnt66102
+gluS  # cmnt125
+mAM  # cmnt12373
+CFC  # cmnt7928
+BDP  # cmnt20773
+DME  # cmnt50022
+IL-12A  # cmnt2568
+scu  # cmnt9041
+Q-2  # cmnt4719
+Globin I  # cmnt8964
+NK1  # cmnt92722
+ospF  # cmnt7545
+A3D  # cmnt32539
+MDS  # cmnt242
+NK3  # cmnt37633
+ARDS  # cmnt606
+AST  # cmnt1186
+trkC  # cmnt1300
+HMX  # cmnt61492
+ILK  # cmnt12085
+HLF  # cmnt15714
+MTB  # cmnt25796
+RR2  # cmnt26431
+NP-2  # cmnt48895
+FAS  # cmnt35620
+CDR3  # cmnt42356
+Bp3  # cmnt14709
+HDS  # cmnt22552
+IVD  # cmnt5285
+CA1  # cmnt3216
+ca1  # cmnt3216
+Ca1  # cmnt3216
+CA-I  # cmnt3216
+Cals  # cmnt21300
+CDI  # cmnt42224
+GPC  # cmnt1899
+TB2  # cmnt9823
+EP2  # cmnt28280
+TIF  # cmnt996
+TH-2  # cmnt96975
+ARA  # cmnt17338
+CFS  # cmnt90063
+IDP  # cmnt1050
+RAB  # cmnt10644
+HEMA  # cmnt16405
+MPP  # cmnt4681
+SLP  # cmnt28602
+MC1  # cmnt10800
+trkB  # cmnt1190
+LOL  # cmnt16961
+LEP  # cmnt2464
+BMT  # cmnt21118
+MIC-1  # cmnt11807
+Mic-1  # cmnt11807
+DH-1  # cmnt22601
+DP-1  # cmnt22601
+NP1  # cmnt9505
+NP-1  # cmnt9505
+TR1  # cmnt99415
+Tr1  # cmnt99415
+Protein MSP1  # cmnt72039
+MSP1  # cmnt72039
+Nap  # cmnt608
+nap  # cmnt608
+DUT  # cmnt209
+Dut  # cmnt209
+dut  # cmnt209
+DIC  # cmnt22584
+Dic  # cmnt22584
+LAR  # cmnt9756
+Lar  # cmnt9756
+lar  # cmnt9756
+Pr1  # cmnt14894
+pr1  # cmnt14894
+PAH  # cmnt3121
+tph  # cmnt3121
+Tph  # cmnt3121
+NIR  # cmnt9478
+NiR  # cmnt9478
+BLT  # cmnt12323
+Blt  # cmnt12323
+blt  # cmnt12323
+EP3  # cmnt43022
+CHIV  # cmnt43022
+MVP  # cmnt3865
+Mvp  # cmnt3865
+mvp  # cmnt3865
+PLGF  # cmnt27021
+PlGF  # cmnt27021
+Plgf  # cmnt27021
+VEMA  # cmnt6313
+mPR  # cmnt6313
+PTPS  # cmnt4754
+PTS  # cmnt4754
+Pts  # cmnt4754
+pts  # cmnt4754
+TRP12  # cmnt13771
+Trp12  # cmnt13771
+Pap  # cmnt27663
+pap  # cmnt27663
+DCT  # cmnt10250
+Dct  # cmnt10250
+TRP-2  # cmnt10250
+MER  # cmnt7219
+mER  # cmnt7219
+Curation  # cmnt7219
+AGPR  # cmnt280
+ETP  # cmnt72855
+tipA  # cmnt29161
+CHML  # cmnt85971
+EDC  # cmnt69738
+Pura  # cmnt27463
+DCIP  # cmnt7798
+N141  # cmnt101751
+ST1  # cmnt95035
+ST3  # cmnt12462
+Ta2  # cmnt96134
+dpa  # cmnt1458
+sso  # cmnt1458
+HDP  # cmnt6416
+STO  # cmnt37829
+CR-1  # cmnt37584
+ICA  # cmnt63007
+TSL  # cmnt1960
+FIM  # cmnt20077
+MBX  # cmnt50009
+STM  # cmnt28751
+act-4  # cmnt33081
+Protease II  # cmnt27444
+FSP  # cmnt48701
+HSV1  # cmnt4464
+HCA  # cmnt25040
+ZAG  # cmnt14089
+copB  # cmnt5870
+Pl6  # cmnt13675
+PL6  # cmnt13675
+RE1  # cmnt82557
+MOD  # cmnt96029
+HS-1  # cmnt65462
+AT-2  # cmnt5656
+DSL  # cmnt3097
+Protein SH  # cmnt1937
+P28 protein  # cmnt23755
+AES  # cmnt10637
+esp1  # cmnt10637
+Esp1  # cmnt10637
+Proteinase 2A  # cmnt52001
+OSP  # cmnt6950
+Osp  # cmnt6950
+Lipoprotein A  # cmnt67856
+FIL  # cmnt128351
+AFO  # cmnt128351
+FAS I  # cmnt23226
+Apo-D  # cmnt5749
+P19 protein  # cmnt13987
+X polypeptide  # cmnt13987
+PBI  # cmnt20246
+A3C  # cmnt20246
+yap  # cmnt14018
+Yap  # cmnt14018
+MNP  # cmnt103666
+MTS-1  # cmnt11049
+PAIR1  # cmnt79055
+Pgp3  # cmnt25456
+TMT  # cmnt29501
+Tmt  # cmnt29501
+IDA  # cmnt63142
+TMP  # cmnt2626
+gene 16  # cmnt2626
+CT2  # cmnt13291
+COR8  # cmnt77063
+ZAP  # cmnt20043
+Hem1  # cmnt2159
+hem1  # cmnt2159
+gpD  # cmnt21133
+GpD  # cmnt21133
+tbp-1  # cmnt13004
+TBP-1  # cmnt13004
+hil-3  # cmnt3663
+AG4  # cmnt54738
+ag4  # cmnt98792
+Gc1  # cmnt11821
+GC1  # cmnt11821
+Cpz  # cmnt10985
+CPZ  # cmnt10985
+CMD  # cmnt22411
+Attachment protein  # cmnt2129
+DPT  # cmnt8722
+Dpt  # cmnt8722
+Zap  # cmnt30685
+NaN  # cmnt28183
+MAB I  # cmnt31490
+hin  # cmnt2610
+nasBA  # cmnt73653
+LCA  # cmnt66997
+CAPS  # cmnt10976
+Mkk2  # cmnt6190
+phl  # cmnt66362
+MTR  # cmnt6171
+hypB  # cmnt4169
+hypA  # cmnt642
+K2P  # cmnt24678
+fosB2  # cmnt15988
+glr  # cmnt310
+GT11  # cmnt59273
+CBC  # cmnt69750
+Clu  # cmnt4088
+clu  # cmnt4088
+DPB  # cmnt50439
+LYS21  # cmnt61628
+ACA1  # cmnt32693
+tap-1  # cmnt96137
+EM1  # cmnt52151
+dHK  # cmnt61591
+P15A  # cmnt72
+SCR1  # cmnt28193
+Fac  # cmnt11661
+PLM  # cmnt5440
+Mgr  # cmnt5340
+mgr  # cmnt5340
+vanB  # cmnt13898
+cadA  # cmnt6865
+BT2  # cmnt39426
+kH1  # cmnt24723
+mel-28  # cmnt70372
+CNR10  # cmnt44368
+het-S  # cmnt60826
+het-s  # cmnt60826
+glcB1  # cmnt69618
+DNA polymerase II  # cmnt50502
+Protein alpha-1  # cmnt30008
+nms  # cmnt9491
+rmf  # cmnt2400
+tsu  # cmnt1306
+OPDA  # cmnt17727
+hir  # cmnt128579
+HB-8  # cmnt36690
+PRY  # cmnt84270
+DNC  # cmnt7982
+OAM  # cmnt76665
+Mu1  # cmnt17396
+Bch  # cmnt21716
+mgl-1  # cmnt66673
+ALS3  # cmnt20545
+2B10  # cmnt43807
+LPS1  # cmnt25176
+LPS2  # cmnt25178
+LPS3  # cmnt25179
+gp60  # cmnt19577
+Gp60  # cmnt19577
+MAP30  # cmnt87490
+H1E  # cmnt59676
+GCK  # cmnt16127
+Gamma-2  # cmnt22085
+andR  # cmnt35104
+GP14  # cmnt1299
+GFR  # cmnt18577
+ADE  # cmnt949
+Gp110  # cmnt8290
+GP110  # cmnt8290
+gam  # cmnt85409
+CHR27  # cmnt43139
+ELM1  # cmnt52086
+MMD  # cmnt17819
+SCS  # cmnt90913
+CRY1  # cmnt5879
+ARSA  # cmnt14501
+FAS  # cmnt4861
+Fas  # cmnt4861
+fas  # cmnt4861
+PR1  # cmnt137914
+OTC  # cmnt2597
+GRB  # cmnt58760
+CLP  # cmnt2243
+OPN  # cmnt4942
+PNP  # cmnt479
+MIL  # cmnt85977
+Ment  # cmnt25497
+com  # cmnt21967
+Ter  # cmnt15513
+PPH  # cmnt83275
+Boll  # cmnt38871
+fob  # cmnt103760
+Flo  # cmnt55375
+Proc  # cmnt3898
+ddt  # cmnt7056
+PAST4  # cmnt51942
+Cob  # cmnt0
+LOG  # cmnt68094
+kita  # cmnt65847
+deg  # cmnt704
+lon  # cmnt704
+muc  # cmnt704
+Lon  # cmnt704
+orr  # cmnt77833
+HEPP  # cmnt21571
+Hepp  # cmnt21571
+BKS  # cmnt28722
+Uro  # cmnt2033
+As160  # cmnt28965
+Clotting factor  # cmnt685
+CFI  # cmnt1955
+CHI  # cmnt1955
+ECR  # cmnt96897
+PEPO  # cmnt3289
+LGB  # cmnt6120
+BLG  # cmnt6120
+ERG  # cmnt6103
+baf  # cmnt6662
+Baf  # cmnt6662
+BAF  # cmnt6662
+Methionine-rich protein  # cmnt71840
+PVA  # cmnt22738
+DSG3  # cmnt22738
+CDHF6  # cmnt22738
+Desmoglein-3  # cmnt22738
+Cadherin family member 6  # cmnt22738
+130 kDa pemphigus vulgaris antigen  # cmnt22738
+130 kDa pemphigus vulgaris antigen homolog  # cmnt22738
+MGS  # cmnt444
+mgs  # cmnt444
+ETS  # cmnt52985
+Ma3  # cmnt9601
+Dug  # cmnt9601
+MONA  # cmnt58779
+Mona  # cmnt58779
+PER50  # cmnt80263
+ovo  # cmnt78055
+syn  # cmnt4298
+Syn  # cmnt4298
+SAM  # cmnt90
+mer  # cmnt4661
+Mer  # cmnt4661
+PAB  # cmnt6350
+Pab  # cmnt6350
+pab  # cmnt6350
+ALH  # cmnt33521
+AER  # cmnt33521
+Alf  # cmnt29066
+ALF  # cmnt29066
+ag2  # cmnt21787
+Ag2  # cmnt21787
+pinta  # cmnt81400
+TRIS  # cmnt9708
+Tris  # cmnt9708
+CEL  # cmnt11064
+cel  # cmnt11064
+Cel  # cmnt11064
+C-14  # cmnt67464
+TM1  # cmnt1492
+ANG  # cmnt2319
+Ang  # cmnt2319
+MLD  # cmnt5126
+des1  # cmnt5126
+DES1  # cmnt5126
+Des1  # cmnt5126
+ACINUS  # cmnt20325
+PRS  # cmnt28882
+TBA  # cmnt1330
+ACS  # cmnt9583
+AAF  # cmnt36657
+HST  # cmnt436
+HTS  # cmnt436
+Efg  # cmnt1002
+ico  # cmnt1002
+efg  # cmnt1002
+Gfm  # cmnt1002
+GFM  # cmnt1002
+EFG  # cmnt1002
+MEF1  # cmnt1002
+mEF1  # cmnt1002
+ROP  # cmnt3538
+BEK  # cmnt5176
+Bek  # cmnt5176
+ACD  # cmnt32783
+MBC  # cmnt6863
+RBC  # cmnt6863
+ase  # cmnt36569
+Lam  # cmnt66791
+pgr  # cmnt2206
+Pgr  # cmnt2206
+PGR  # cmnt2206
+lama  # cmnt24969
+Lama  # cmnt24969
+LAMA  # cmnt24969
+ply  # cmnt19217
+SANS  # cmnt29798
+Sans  # cmnt29798
+Als  # cmnt10683
+als  # cmnt10683
+gnat  # cmnt58292
+TDG  # cmnt96801
+NOXA  # cmnt10724
+Noxa  # cmnt10724
+Protein thread  # cmnt49695
+M protein  # cmnt1025
+Fred  # cmnt55845
+RAI  # cmnt18464
+ron  # cmnt62
+Ron  # cmnt62
+Antigen E  # cmnt82001
+HCL  # cmnt25265
+e.4  # cmnt106307
+MR-1  # cmnt27081
+March5  # cmnt6160
+march5  # cmnt6160
+MARCH5  # cmnt6160
+Aire  # cmnt20480
+AIRE  # cmnt20480
+CYN  # cmnt654
+HN3  # cmnt61425
+Naga  # cmnt25939
+asD  # cmnt36371
+N-2  # cmnt25079
+AMA  # cmnt5708
+HC1  # cmnt60536
+Cytochrome c A  # cmnt40042
+PERI  # cmnt81848
+lep  # cmnt12247
+Lep  # cmnt12247
+hTE  # cmnt32911
+MEC  # cmnt14896
+Grit  # cmnt18447
+RL6  # cmnt24554
+CATA  # cmnt14822
+MAFA  # cmnt8153
+hop-1  # cmnt61600
+dan  # cmnt9441
+Dan  # cmnt9441
+Dana  # cmnt9441
+MTI  # cmnt3860
+dbt  # cmnt6270
+Dbt  # cmnt6270
+DBT  # cmnt6270
+PARVUS  # cmnt56784
+COI  # cmnt500
+Coi  # cmnt500
+CoI  # cmnt500
+LAF1  # cmnt66762
+H-protein  # cmnt12540
+Dipt  # cmnt49787
+mam  # cmnt69478
+ZUO1  # cmnt137850
+hPrt1  # cmnt1220
+NT3  # cmnt6713
+crmA  # cmnt45808
+Gp75  # cmnt103006
+rIII  # cmnt67826
+ANA  # cmnt21202
+TOB5  # cmnt21202
+BTG3  # cmnt21202
+OFQ  # cmnt27084
+PNOC  # cmnt27084
+endI  # cmnt45533
+ALA2  # cmnt138060
+trm9  # cmnt99159
+tRNA methylase 9  # cmnt99159
+tRNA [Um34] methyltransferase  # cmnt99159
+tRNA (uracil-5-)-methyltransferase trm9  # cmnt99159
+tRNA (uracil-5-)-methyltransferase TRM9  # cmnt99159
+tRNA (carboxymethyluridine(34)-5-O)-methyltransferase  # cmnt99159
+VAV3  # cmnt102581
+VAV-3  # cmnt102581
+Guanine nucleotide exchange factor VAV3  # cmnt102581
+THG1  # cmnt10157
+tRNA(His) guanylyltransferase  # cmnt10157
+tRNA-histidine guanylyltransferase  # cmnt10157
+Probable tRNA(His) guanylyltransferase  # cmnt10157
+lepa  # cmnt67498
+Leptin-A  # cmnt67498
+ob-b  # cmnt67500
+LEP-B  # cmnt67500
+Leptin-B  # cmnt67500
+Edc4  # cmnt11520
+edc4  # cmnt11520
+Enhancer of mRNA-decapping protein 4  # cmnt11520
+Enhancer of mRNA-decapping protein 4 homolog  # cmnt11520
+TSH1  # cmnt13653
+THNSL1  # cmnt13653
+Thnsl1  # cmnt13653
+Threonine synthase-like 1  # cmnt13653
+Rad9  # cmnt27553
+rad9  # cmnt27553
+DNA repair protein RAD9  # cmnt27553
+DNA repair protein rad9  # cmnt27553
+CHYM1  # cmnt46946
+AnChym1  # cmnt46946
+Chymotrypsin-1  # cmnt46946
+PDZD3  # cmnt26059
+PDZK2  # cmnt26059
+fla  # cmnt1635
+Ge-1  # cmnt51699
+thrC  # cmnt2219
+Dsg3  # cmnt50939
+
+# From top-50 cmnts for their paper & patent hits (windowed)
+aOR  # cmnt35336, adjusted odds ratio
+AOR  # cmnt35336, adjusted odds ratio
+CRD  # cmnt45962, PROSPERO registration number
+PCI  # cmnt16667, percutaneous coronary intervention
+MSC  # cmnt72782, Mesenchymal stem cell
+ASD  # cmnt36371, autism spectrum disorder
+PSM  # cmnt11720, propensity score matching analysis and many etc...
+PSMA  # cmnt11720, propensity score matching analysis and many etc...
+ADC  # cmnt795, apparent diffusion coefficient and etc...
+
+# Korea Army Training Center
+Sars  # cmnt29
+sars  # cmnt29
+core antigen  # cmnt1122
+core antigens  # cmnt1122
+Core Antigen  # cmnt1122
+Core antigen  # cmnt1122
+Core antigens  # cmnt1122
+core Antigen  # cmnt1122
+SOR  # cmnt2782
+NDF  # cmnt3484
+PTP  # cmnt3977
+PTPs  # cmnt3977
+pTP  # cmnt3977
+FOS  # cmnt4134
+CBS  # cmnt4492
+cbs  # cmnt4492
+Cbs  # cmnt4492
+cBS  # cmnt4492
+PDS  # cmnt4720
+pDS  # cmnt4720
+NHL  # cmnt4785
+CSP  # cmnt7054
+CSPs  # cmnt7054
+cSPs  # cmnt7054
+CIS  # cmnt8575
+FMS  # cmnt8653
+ESA  # cmnt8905
+SMS  # cmnt10059
+SPMS  # cmnt10059
+AHF  # cmnt11641
+SOM  # cmnt11894
+HET  # cmnt13324
+Sep  # cmnt17285
+sep  # cmnt17285
+component II  # cmnt17398
+Component II  # cmnt17398
+component ii  # cmnt17398
+Component ii  # cmnt17398
+STS  # cmnt19123
+ASC  # cmnt19123
+STSs  # cmnt19123
+coco  # cmnt22365
+Coco  # cmnt22365
+HSD1  # cmnt22537
+FACS  # cmnt23190
+APR  # cmnt25222
+PTE  # cmnt26398
+PTEs  # cmnt26398
+sCD4  # cmnt28174
+SCD4  # cmnt28174
+sCD4  # cmnt28174
+ADT  # cmnt28763
+ABM  # cmnt32634
+ABM  # cmnt32634
+aBM  # cmnt32634
+APC  # cmnt35493
+CRT  # cmnt40561
+NCA  # cmnt42453
+nCA  # cmnt42453
+NCA  # cmnt42453
+nCA  # cmnt42453
+TEC  # cmnt75599
+PDE2  # cmnt79793
+FPS  # cmnt146434
+fps  # cmnt146434
+FDS  # cmnt146434
+FRP  # cmnt146434
+# Actin I  # cmnt797  # <filtered.txt>
+Ppat  # cmnt1601
+ppaT  # cmnt83211
+# Somatostatin I  # cmnt5539  # <filtered.txt>
+OR9   # cmnt40296
+# Hemoglobin A  # cmnt60448  # <filtered.txt>

@@ -1,0 +1,6 @@
+HOW TO MANUALLY ADD KEYWORD
+    1. Add keyword here - this ensures those keywords to be "hit"
+    2. Add unify(keyword) on c2k - this makes those keywords try to be "assigned"
+        c2k: $rsrc/data/community/cmnt_to_keyw_matchform_${date}.pkl
+	3. Add keyword on KeyWord & Entry - this ensures those keywords not to be "filtered" and finally "assigned"
+    4. Run UniProt, StringMatching, Communities again

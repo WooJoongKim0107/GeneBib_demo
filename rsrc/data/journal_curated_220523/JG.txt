@@ -1,0 +1,135 @@
+
+
+0 : Algae
+
+1 : Animal
+
+2 : Aquatic
+
+3 : Biochem_cellbio
+
+4 : Biomed_antibio
+
+5 : Biomed_eng
+
+6 : Biomed_infect
+
+7 : Biomed_pharma
+
+8 : Biomed_sci
+
+9 : Biomol_design
+
+10 : Biotech_biocontrol
+
+11 : Biotech_environ
+
+12 : Biotech_food
+
+13 : Biotech_fuel
+
+14 : Biotech_general
+
+15 : Biotech_material
+
+16 : Biotech_microb
+
+17 : Biotech_nano
+
+18 : Entomo
+
+19 : Ge_multi
+
+20 : Ge_other
+
+21 : Genetics
+
+22 : Geno_proteomics_bioinfo
+
+23 : Microb_sci
+
+24 : Plant
+
+25 : Veterinary
+
+
+denomi_cat_idx (17)
+
+    0 : Algae
+
+    1 : Animal
+
+    2 : Aquatic
+
+    5 : Biomed_eng
+
+    6 : Biomed_infect
+
+    7 : Biomed_pharma
+
+    8 : Biomed_sci
+
+    10 : Biotech_biocontrol
+
+    11 : Biotech_environ
+
+    12 : Biotech_food
+
+    13 : Biotech_fuel
+
+    14 : Biotech_general
+
+    15 : Biotech_material
+
+    16 : Biotech_microb
+
+    17 : Biotech_nano
+
+    25 : Veterinary
+
+    24 : Plant
+
+
+med_frac_cat_idx (5)
+
+    5 : Biomed_eng
+
+    6 : Biomed_infect
+
+    7 : Biomed_pharma
+
+    8 : Biomed_sci
+
+    25 : Veterinary
+
+
+biotech_cat_idx (8)
+
+    10 : Biotech_biocontrol
+
+    11 : Biotech_environ
+
+    12 : Biotech_food
+
+    13 : Biotech_fuel - metab.
+
+    14 : Biotech_general
+
+    15 : Biotech_material
+
+    16 : Biotech_microb - metab.
+
+    17 : Biotech_nano
+
+
+vet_frac_cat_idx
+
+    25 : Veterinary
+
+
+metab_cat_idx
+
+    13 : Biotech_fuel
+
+    16 : Biotech_microb
+

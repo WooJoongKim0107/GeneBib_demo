@@ -1,0 +1,83 @@
+# From mail on 2022-Oct-25th
+GABA A receptor  # cmnt10496
+GABAA receptor  # cmnt10496
+GABA-A-receptor  # cmnt10496
+GABA-A receptor  # cmnt10496
+Ca2+ ATPase  # cmnt20295
+Ca2+-ATPase  # cmnt20295
+Conglutin-gamma  # cmnt44731
+Conglutingamma  # not in c2k 221026
+G(alpha)i  # cmnt58288
+Ribonuclease T1  # cmnt88467
+TGF-beta  # not in c2k 221026
+Chromosomal replication initiator protein  # not in c2k 221026
+Chromosomal replication initiation protein  # not in c2k 221026
+Autophagy-related protein 5  # cmnt36805
+Autophagy related protein 5  # cmnt1450
+Autophagy-related 5  # cmnt1450
+Autophagy related 5  # cmnt1450
+
+# Haemoglobin
+Haemoglobin  # cmnt574
+
+# From curation_input_0.txt  # already applied when making c2k
+# hPrt1  # cmnt1814
+# NT3  # cmnt1644
+# crmA  # cmnt7874
+# Gp75  # cmnt8008
+# rIII  # cmnt5172
+# ANA  # cmnt21203
+# TOB5  # cmnt21203
+# BTG3  # cmnt21203
+# OFQ  # cmnt27085
+# PNOC  # cmnt27085
+# endI  # cmnt43049
+# ALA2  # cmnt1119
+# trm9  # cmnt99160
+# tRNA methylase 9  # cmnt99160
+# tRNA [Um34] methyltransferase  # cmnt99160
+# tRNA (uracil-5-)-methyltransferase trm9  # cmnt99160
+# tRNA (uracil-5-)-methyltransferase TRM9  # cmnt99160
+# tRNA (carboxymethyluridine(34)-5-O)-methyltransferase  # cmnt99160
+# VAV3  # cmnt102582
+# VAV-3  # cmnt102582
+# Guanine nucleotide exchange factor VAV3  # cmnt102582
+# THG1  # cmnt19315
+# tRNA(His) guanylyltransferase  # cmnt19315
+# tRNA-histidine guanylyltransferase  # cmnt19315
+# Probable tRNA(His) guanylyltransferase  # cmnt19315
+# lepa  # cmnt2464
+# Leptin-A  # cmnt2464
+# ob-b  # cmnt2464
+# LEP-B  # cmnt2464
+# Leptin-B  # cmnt2464
+# Edc4  # cmnt51699
+# edc4  # cmnt51699
+# Enhancer of mRNA-decapping protein 4  # cmnt51699
+# Enhancer of mRNA-decapping protein 4 homolog  # cmnt51699
+# TSH1  # cmnt2219
+# THNSL1  # cmnt2219
+# Thnsl1  # cmnt2219
+# Threonine synthase-like 1  # cmnt2219
+# PVA  # cmnt50939
+# DSG3  # cmnt50939
+# CDHF6  # cmnt50939
+# Desmoglein-3  # cmnt50939
+# Cadherin family member 6  # cmnt50939
+# 130 kDa pemphigus vulgaris antigen  # cmnt50939
+# 130 kDa pemphigus vulgaris antigen homolog  # cmnt50939
+# Rad9  # cmnt85941
+# rad9  # cmnt85941
+# DNA repair protein RAD9  # cmnt85941
+# DNA repair protein rad9  # cmnt85941
+# CHYM1  # cmnt46949
+# AnChym1  # cmnt46949
+# Chymotrypsin-1  # cmnt46949
+# PDZD3  # cmnt79991
+# PDZK2  # cmnt79991
+# Ge-1  # cmnt11520
+# thrC  # cmnt13653
+# Dsg3  # cmnt22738
+
+# From the most frequently pairing genes
+c-Jun  # cmnt5287

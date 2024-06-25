@@ -1,0 +1,2 @@
+keyword, paper_matches, ngram_counts, case_insensitive_in_removed
+peptide-N(4)-(N-acetyl-beta-D-glucosaminyl) asparagine amidase F, 1, 0, undetermined, , {'P21163'}, {'Peptide-N(4)-(N-acetyl-beta-D-glucosaminyl)asparagine amidase F'}

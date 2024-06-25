@@ -1,0 +1,18 @@
+keyword, paper_matches, ngram_counts, case_insensitive_in_removed
+6PF-2-K/Fru-2, 6-P2ase, 5, 0, undetermined, , {'Q9MB58', 'Q21122', 'Q91309', 'Q91348'}, {'6PF-2-K/Fru-2,6-P2ase'}
+coiled-coil-helix-coiled-coil-helix domain-containing protein 4, 2, 0, undetermined, , {'Q5BJN5', 'Q8VEA4', 'Q6DEI8', 'Q2KHZ4', 'Q6PBC3', 'Q8N4Q1'}, {'Coiled-coil-helix-coiled-coil-helix domain-containing protein 4'}
+N,N-8-amino-8-demethyl-d-riboflavin dimethyltransferase, 2, 0, undetermined, , {'K4RFM2'}, {'N,N-8-amino-8-demethyl-D-riboflavin dimethyltransferase'}
+GDP-4-keto-6-deoxy-D-mannose 3-dehydratase, 2, 0, undetermined, , {'D3QY10', 'G4WJD4'}, {'GDP-4-keto-6-deoxy-D-mannose 3-dehydratase'}
+BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like, 2, 0, undetermined, , {'Q9Z2F7', 'Q3T013', 'O60238'}, {'BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like'}
+inositol-1,3,4,5,6-pentakisphosphate 2-kinase, 1, 0, undetermined, , {'Q4P4C1', 'Q6P1C1', 'Q59KN8', 'P0CO34', 'Q9USK0', 'Q6C6Q7', 'Q06667', 'Q75EW5', 'Q9W2Q7', 'Q6BHL8', 'Q6FRN1', 'Q5PXE9', 'Q93YN9', 'Q9H8X2', 'Q4JL91', 'Q6CNG8', 'P0CO35'}, {'Inositol-1,3,4,5,6-pentakisphosphate 2-kinase'}
+dTDP-6-deoxy-D-xylo-4-hexulose 3-epimerase, 1, 0, undetermined, , {'Q9L9E5'}, {'dTDP-6-deoxy-D-xylo-4-hexulose 3-epimerase'}
+RanBP-type and C3HC4-type zinc finger-containing protein 1, 1, 0, undetermined, , {'Q9WUB0', 'Q9BYM8', 'E6ZIJ1', 'Q62921', 'A9JTG5'}, {'RanBP-type and C3HC4-type zinc finger-containing protein 1'}
+O-linked N-acetyl-d-glucosamine (O-GlcNAc) transferase, 1, 0, undetermined, , {'A0A0H2URG7'}, {'O-linked N-acetyl-D-glucosamine (O-GlcNAc) transferase'}
+O-linked N-acetyl-D-glucosamine (O-GlcNAc) transferase, 1, 0, undetermined, , {'A0A0H2URG7'}, {'O-linked N-acetyl-D-glucosamine (O-GlcNAc) transferase'}
+N,N-8-amino-8-demethyl-D-riboflavin Dimethyltransferase, 1, 0, undetermined, , {'K4RFM2'}, {'N,N-8-amino-8-demethyl-D-riboflavin dimethyltransferase'}
+Mn(II)-dependent 2,3-dihydroxybiphenyl 1,2-dioxygenase, 1, 0, undetermined, , {'Q8GR45'}, {'Mn(II)-dependent 2,3-dihydroxybiphenyl 1,2-dioxygenase'}
+D-Galf:alpha-D-Glc beta-1,6-galactofuranosyltransferase, 1, 0, undetermined, , {'P37749'}, {'D-Galf:alpha-D-Glc beta-1,6-galactofuranosyltransferase'}
+6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase2, 1, 0, undetermined, , {'O60825', 'Q5NVT1', 'Q9JJH5', 'P70265', 'P26285'}, {'6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2'}
+2,3-dihydroxy-4-phenylhexa-4,6-diene dehydrogenase, 1, 0, undetermined, , {'P47227', 'P47230', 'Q46381', 'P72220', 'P08694', 'P50206'}, {'2,3-dihydroxy-4-phenylhexa-4,6-diene dehydrogenase'}
+1-hydroxy-2-glutathionyl-2-methyl-3-butene dehydrogenase, 1, 0, undetermined, , {'Q9RBP5'}, {'1-hydroxy-2-glutathionyl-2-methyl-3-butene dehydrogenase'}
+1,3-1,4-beta-D-Glucan 4-glucanohydrolases, 1, 0, undetermined, , {'A3DBX3', 'O14412', 'P45797', 'P45798', 'Q53317', 'P37073', 'P07980', 'P27051', 'P17989', 'P23904', 'P04957', 'Q84C00'}, {'1,3-1,4-beta-D-glucan 4-glucanohydrolase'}

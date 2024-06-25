@@ -1,0 +1,2 @@
+keyword, paper_matches, ngram_counts, case_insensitive_in_removed
+4-O-β-D-mannopyranosyl-N-acetyl-D-glucosamine:phosphate α-D-mannosyltransferase, 1, 0, undetermined, , {'Q8A8Y4'}, {'4-O-beta-D-mannopyranosyl-N-acetyl-D-glucosamine:phosphate alpha-D-mannosyltransferase'}

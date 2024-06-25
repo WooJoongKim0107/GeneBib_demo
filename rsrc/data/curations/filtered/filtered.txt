@@ -1,0 +1,1683 @@
+# From Google-Ngram filtering
+FULL
+MESH
+MINor
+VALENTINO
+cu
+lis
+spat
+ps
+Pak
+Graf
+mv
+Aldo
+Lis
+epi
+Eo
+Epi
+pak
+Mita
+Mary
+Park
+team
+dear
+shop
+park
+moon
+plenty
+MD
+Dear
+resting
+steep
+Moon
+Team
+Shop
+Scots
+curled
+OS
+DEAR
+ES
+TC
+Cass
+Hindi
+HON
+IO
+LOS
+TB
+CV
+dehydrogenase
+Joey
+Plenty
+pumpkin
+serfs
+Shawn
+twinkle
+EYE
+SDI
+Ringer
+OI
+IPO
+Vern
+EDS
+Resting
+mary
+CSI
+028
+cass
+Steep
+htm
+Pumpkin
+decarboxylase
+ABCD
+crass
+053
+TBS
+MFS
+ringer
+ROPE
+Hwa
+TCS
+APM
+dehydrogenases
+ELS
+HFS
+LOD
+NAI
+BSF
+MFI
+steeps
+ERL
+SBT
+Twinkle
+LGA
+Curled
+Dehydrogenase
+hindi
+LORE
+HINDI
+hwa
+LCAO
+TEAS
+PFT
+SCOTS
+PLENTY
+SSCP
+Nacho
+DEHYDROGENASE
+RCB
+sulfatase
+Serfs
+KPS
+OSs
+RESTING
+STEEP
+glycosidases
+PUMPKIN
+spino
+mfi
+Neverland
+Pacers
+moonshiners
+FLB
+joey
+glycosidase
+SHAWN
+RINGER
+scampers
+Dragos
+vern
+LGAs
+Karmas
+Saras
+PETs
+PDES
+scots
+Naus
+Mechs
+PFTs
+TBs
+decarboxylases
+glucocerebrosidase
+CNFs
+myoid
+Bilis
+Dehydrogenases
+Decarboxylase
+Spino
+Chito
+botches
+nacho
+Htm
+THAL
+LODs
+CADS
+CSIs
+Mfi
+NOWs
+OIs
+SSSSS
+amids
+DECARBOXYLASE
+APMs
+FENS
+DEHYDROGENASES
+ASRs
+shawn
+TWINKLE
+Nowl
+Crad
+CURLED
+OWT
+hoatzin
+RVL
+naus
+ATAT
+protein Mesh
+Protein links
+Protein Spatial
+PDE4
+R4
+R5
+R6
+R7
+M9
+E16
+A39
+S64
+S67
+M58
+M70
+TG2
+M73
+GS3
+DT1
+M97
+ER2
+KS4
+DT2
+DN1
+LP3
+TM6
+e16
+DF3
+OG1
+TE3
+C1.1
+C1.2
+pp56
+DT4
+LC5
+DT3
+Ke6
+JA2
+lS2
+TE4
+LP4
+AE6
+DT6
+s64
+a39
+HL3
+HP8
+GO1
+s67
+AE5
+DT5
+spring1
+H1.1
+WG7
+Spring1
+Mill1
+Bh5
+DT7
+OR9
+deal1
+drop1
+dT2
+TR07
+lP3
+TR03
+TR06
+meat1
+RUN1
+MILL1
+m73
+dT1
+rice1
+REF3
+c1.1
+GUN1
+Mill2
+note'
+mill2
+eR2
+RICE1
+SLAM2
+m70
+rice2
+H1.8
+2.5 protein
+c1.2
+drop2
+dT3
+MEAT1
+DROP3
+h1.1
+DEAL1
+Drop1
+DEAL2
+2.5 proteins
+protein 4.2
+Protein 4.2
+drop 3
+drop 1
+drop 2
+C 1.2
+C 1.1
+meat 1
+c 1.2
+c 1.1
+H 1.8
+H 1.1
+proteins 8.5
+proteins 4.2
+proteins 0.14
+h 1.8
+h 1.1
+Drop 2
+Drop 1
+DEAL3
+
+# From hit_map_post_process.py
+ACH   1
+ACH   2
+ACH  1
+ACH  2
+ACH 1
+ACH 2
+ACN   2
+ACN  2
+ACN 2
+ACO   1
+ACO   2
+ACO   3
+ACO   4
+ACO  1
+ACO  2
+ACO  3
+ACO  4
+ACO 1
+ACO 2
+ACO 3
+ACO 4
+ALPHA-1
+ALPHA-2
+ALPHA1
+ALPHA2
+ANO   1
+ANO   2
+ANO   3
+ANO   4
+ANO   5
+ANO   6
+ANO   7
+ANO   8
+ANO   9
+ANO  1
+ANO  2
+ANO  3
+ANO  4
+ANO  5
+ANO  6
+ANO  7
+ANO  8
+ANO  9
+ANO 1
+ANO 2
+ANO 3
+ANO 4
+ANO 5
+ANO 6
+ANO 7
+ANO 8
+ANO 9
+AOH   1
+AOH   3
+AOH  1
+AOH  3
+AOH 1
+AOH 3
+AR 1
+AS   1
+AS   2
+AS   3
+AS   4
+AS   5
+AS   6
+AS   7
+AS   8
+AS   9
+AS  1
+AS  2
+AS  3
+AS  4
+AS  5
+AS  6
+AS  7
+AS  8
+AS  9
+AS 1
+AS 2
+AS 3
+AS 4
+AS 5
+AS 6
+AS 7
+AS 8
+AS 9
+AT   1
+AT   2
+AT   3
+AT   4
+AT   5
+AT   6
+AT   7
+AT   8
+AT   9
+AT  1
+AT  2
+AT  3
+AT  4
+AT  5
+AT  6
+AT  7
+AT  8
+AT  9
+AT 1
+AT 2
+AT 3
+AT 4
+AT 5
+AT 6
+AT 7
+AT 8
+AT 9
+Ach   1
+Ach  1
+Ach 1
+Aco   1
+Aco   2
+Aco  1
+Aco  2
+Aco 1
+Aco 2
+Alpha
+Ano   1
+Ano   2
+Ano   3
+Ano   4
+Ano   5
+Ano   6
+Ano   7
+Ano   8
+Ano   9
+Ano  1
+Ano  2
+Ano  3
+Ano  4
+Ano  5
+Ano  6
+Ano  7
+Ano  8
+Ano  9
+Ano 1
+Ano 2
+Ano 3
+Ano 4
+Ano 5
+Ano 6
+Ano 7
+Ano 8
+Ano 9
+Aoh   1
+Aoh   2
+Aoh  1
+Aoh  2
+Aoh 1
+Aoh 2
+Ar 1
+As   1
+As   2
+As   3
+As   4
+As   5
+As   6
+As   7
+As   8
+As   9
+As  1
+As  2
+As  3
+As  4
+As  5
+As  6
+As  7
+As  8
+As  9
+As 1
+As 2
+As 3
+As 4
+As 5
+As 6
+As 7
+As 8
+As 9
+At   1
+At   2
+At   3
+At   4
+At   5
+At   6
+At   7
+At   8
+At   9
+At  1
+At  2
+At  3
+At  4
+At  5
+At  6
+At  7
+At  8
+At  9
+At 1
+At 2
+At 3
+At 4
+At 5
+At 6
+At 7
+At 8
+At 9
+BETA
+BETA1
+BETA2
+BETA3
+BETA4
+BETA5
+BETA6
+BETA7
+Beta
+Beta-35
+Beta2
+CH   2R
+CH   3R
+CH   42
+CH   4R
+CH   5L
+CH   6R
+CH  2R
+CH  3R
+CH  42
+CH  4R
+CH  5L
+CH  6R
+CH 2R
+CH 3R
+CH 42
+CH 4R
+CH 5L
+CH 6R
+CHA   1
+CHA   4
+CHA  1
+CHA  4
+CHA 1
+CHA 4
+CHB   1
+CHB   2
+CHB   3
+CHB   4
+CHB  1
+CHB  2
+CHB  3
+CHB  4
+CHB 1
+CHB 2
+CHB 3
+CHB 4
+CHC   1
+CHC   2
+CHC  1
+CHC  2
+CHC 1
+CHC 2
+CHM   1
+CHM   2
+CHM   5
+CHM   6
+CHM  1
+CHM  2
+CHM  5
+CHM  6
+CHM 1
+CHM 2
+CHM 5
+CHM 6
+CHN   1
+CHN   2
+CHN  1
+CHN  2
+CHN 1
+CHN 2
+CHO   1
+CHO   2
+CHO  1
+CHO  2
+CHO 1
+CHO 2
+CHR   1
+CHR   2
+CHR   3
+CHR   4
+CHR   5
+CHR   6
+CHR   7
+CHR   8
+CHR   9
+CHR  1
+CHR  2
+CHR  3
+CHR  4
+CHR  5
+CHR  6
+CHR  7
+CHR  8
+CHR  9
+CHR 1
+CHR 2
+CHR 3
+CHR 4
+CHR 5
+CHR 6
+CHR 7
+CHR 8
+CHR 9
+CHS   1
+CHS   2
+CHS   3
+CHS   4
+CHS   5
+CHS   6
+CHS   7
+CHS   8
+CHS   9
+CHS  1
+CHS  2
+CHS  3
+CHS  4
+CHS  5
+CHS  6
+CHS  7
+CHS  8
+CHS  9
+CHS 1
+CHS 2
+CHS 3
+CHS 4
+CHS 5
+CHS 6
+CHS 7
+CHS 8
+CHS 9
+CHX   01
+CHX   02
+CHX   03
+CHX   04
+CHX   05
+CHX   07
+CHX   08
+CHX   09
+CHX   1
+CHX   10
+CHX   11
+CHX   12
+CHX   13
+CHX   14
+CHX   15
+CHX   16
+CHX   17
+CHX   18
+CHX   19
+CHX   2
+CHX   20
+CHX   21
+CHX   23
+CHX   24
+CHX   25
+CHX   26
+CHX   27
+CHX   28
+CHX   3
+CHX   4
+CHX   5
+CHX   7
+CHX   8
+CHX   9
+CHX  01
+CHX  02
+CHX  03
+CHX  04
+CHX  05
+CHX  07
+CHX  08
+CHX  09
+CHX  1
+CHX  10
+CHX  11
+CHX  12
+CHX  13
+CHX  14
+CHX  15
+CHX  16
+CHX  17
+CHX  18
+CHX  19
+CHX  2
+CHX  20
+CHX  21
+CHX  23
+CHX  24
+CHX  25
+CHX  26
+CHX  27
+CHX  28
+CHX  3
+CHX  4
+CHX  5
+CHX  7
+CHX  8
+CHX  9
+CHX 01
+CHX 02
+CHX 03
+CHX 04
+CHX 05
+CHX 07
+CHX 08
+CHX 09
+CHX 1
+CHX 10
+CHX 11
+CHX 12
+CHX 13
+CHX 14
+CHX 15
+CHX 16
+CHX 17
+CHX 18
+CHX 19
+CHX 2
+CHX 20
+CHX 21
+CHX 23
+CHX 24
+CHX 25
+CHX 26
+CHX 27
+CHX 28
+CHX 3
+CHX 4
+CHX 5
+CHX 7
+CHX 8
+CHX 9
+COA   1
+COA   2
+COA   3
+COA   4
+COA   5
+COA   6
+COA   7
+COA  1
+COA  2
+COA  3
+COA  4
+COA  5
+COA  6
+COA  7
+COA 1
+COA 2
+COA 3
+COA 4
+COA 5
+COA 6
+COA 7
+COH   1
+COH  1
+COH 1
+COR   2
+COR   3
+COR   4
+COR   5
+COR   6
+COR   8
+COR   9
+COR  2
+COR  3
+COR  4
+COR  5
+COR  6
+COR  8
+COR  9
+COR 2
+COR 3
+COR 4
+COR 5
+COR 6
+COR 8
+COR 9
+COS   1
+COS   2
+COS   3
+COS   4
+COS   5
+COS   6
+COS   7
+COS   8
+COS   9
+COS  1
+COS  2
+COS  3
+COS  4
+COS  5
+COS  6
+COS  7
+COS  8
+COS  9
+COS 1
+COS 2
+COS 3
+COS 4
+COS 5
+COS 6
+COS 7
+COS 8
+COS 9
+CSH   2
+CSH  2
+CSH 2
+Chc   1
+Chc  1
+Chc 1
+Chm   1
+Chm  1
+Chm 1
+Chn   1
+Chn   2
+Chn  1
+Chn  2
+Chn 1
+Chn 2
+Cho   1
+Cho   2
+Cho  1
+Cho  2
+Cho 1
+Cho 2
+Chr   1
+Chr   2
+Chr   3
+Chr   4
+Chr  1
+Chr  2
+Chr  3
+Chr  4
+Chr 1
+Chr 2
+Chr 3
+Chr 4
+Chs   1
+Chs   2
+Chs   7
+Chs  1
+Chs  2
+Chs  7
+Chs 1
+Chs 2
+Chs 7
+Chx   10
+Chx  10
+Chx 10
+Coa   1
+Coa   2
+Coa   3
+Coa   5
+Coa   6
+Coa   7
+Coa  1
+Coa  2
+Coa  3
+Coa  5
+Coa  6
+Coa  7
+Coa 1
+Coa 2
+Coa 3
+Coa 5
+Coa 6
+Coa 7
+Coh   1
+Coh  1
+Coh 1
+Cor   1
+Cor   7
+Cor  1
+Cor  7
+Cor 1
+Cor 7
+Cos   2
+Cos  2
+Cos 2
+Csh   2
+Csh  2
+Csh 2
+LH   2
+LH  2
+LH 2
+Lh   2
+Lh  2
+Lh 2
+NOH   1
+NOH  1
+NOH 1
+NOT   1
+NOT   2
+NOT   3
+NOT   4
+NOT   5
+NOT  1
+NOT  2
+NOT  3
+NOT  4
+NOT  5
+NOT 1
+NOT 2
+NOT 3
+NOT 4
+NOT 5
+Not   2
+Not   3
+Not   4
+Not  2
+Not  3
+Not  4
+Not 2
+Not 3
+Not 4
+OCH   1
+OCH  1
+OCH 1
+OF   1
+OF   2
+OF   3
+OF   4
+OF   5
+OF   6
+OF   7
+OF   8
+OF   9
+OF  1
+OF  2
+OF  3
+OF  4
+OF  5
+OF  6
+OF  7
+OF  8
+OF  9
+OF 1
+OF 2
+OF 3
+OF 4
+OF 5
+OF 6
+OF 7
+OF 8
+OF 9
+OR 1
+OR 2
+OR 4
+Och   1
+Och  1
+Och 1
+Of   1
+Of   2
+Of   3
+Of   4
+Of   5
+Of   6
+Of   7
+Of   8
+Of   9
+Of  1
+Of  2
+Of  3
+Of  4
+Of  5
+Of  6
+Of  7
+Of  8
+Of  9
+Of 1
+Of 2
+Of 3
+Of 4
+Of 5
+Of 6
+Of 7
+Of 8
+Of 9
+Or 1
+Or 2
+Or 4
+PER 100
+POH   1
+POH  1
+POH 1
+PON   2
+PON  2
+PON 2
+PSO   1
+PSO  1
+PSO 1
+Per 100
+Pon   2
+Pon  2
+Pon 2
+SNO   2
+SNO  2
+SNO 2
+aCH   1
+aCH   2
+aCH  1
+aCH  2
+aCH 1
+aCH 2
+aCN   2
+aCN  2
+aCN 2
+aCO   1
+aCO   2
+aCO   3
+aCO   4
+aCO  1
+aCO  2
+aCO  3
+aCO  4
+aCO 1
+aCO 2
+aCO 3
+aCO 4
+aNO   1
+aNO   2
+aNO   3
+aNO   4
+aNO   5
+aNO   6
+aNO   7
+aNO   8
+aNO   9
+aNO  1
+aNO  2
+aNO  3
+aNO  4
+aNO  5
+aNO  6
+aNO  7
+aNO  8
+aNO  9
+aNO 1
+aNO 2
+aNO 3
+aNO 4
+aNO 5
+aNO 6
+aNO 7
+aNO 8
+aNO 9
+aOH   1
+aOH   3
+aOH  1
+aOH  3
+aOH 1
+aOH 3
+ach   1
+ach  1
+ach 1
+aco   1
+aco   2
+aco  1
+aco  2
+aco 1
+aco 2
+alpha
+alpha-1
+alpha1
+alpha2
+alpha3
+ano   1
+ano   2
+ano   3
+ano   4
+ano   5
+ano   6
+ano   7
+ano   8
+ano   9
+ano  1
+ano  2
+ano  3
+ano  4
+ano  5
+ano  6
+ano  7
+ano  8
+ano  9
+ano 1
+ano 2
+ano 3
+ano 4
+ano 5
+ano 6
+ano 7
+ano 8
+ano 9
+aoh   1
+aoh   2
+aoh  1
+aoh  2
+aoh 1
+aoh 2
+ar 1
+as   1
+as   2
+as   3
+as   4
+as   5
+as   6
+as   7
+as   8
+as   9
+as  1
+as  2
+as  3
+as  4
+as  5
+as  6
+as  7
+as  8
+as  9
+as 1
+as 2
+as 3
+as 4
+as 5
+as 6
+as 7
+as 8
+as 9
+at   1
+at   2
+at   3
+at   4
+at   5
+at   6
+at   7
+at   8
+at   9
+at  1
+at  2
+at  3
+at  4
+at  5
+at  6
+at  7
+at  8
+at  9
+at 1
+at 2
+at 3
+at 4
+at 5
+at 6
+at 7
+at 8
+at 9
+beta
+cH   2R
+cH   3R
+cH   42
+cH   4R
+cH   5L
+cH   6R
+cH  2R
+cH  3R
+cH  42
+cH  4R
+cH  5L
+cH  6R
+cH 2R
+cH 3R
+cH 42
+cH 4R
+cH 5L
+cH 6R
+cHA   1
+cHA   4
+cHA  1
+cHA  4
+cHA 1
+cHA 4
+cHB   1
+cHB   2
+cHB   3
+cHB   4
+cHB  1
+cHB  2
+cHB  3
+cHB  4
+cHB 1
+cHB 2
+cHB 3
+cHB 4
+cHC   1
+cHC   2
+cHC  1
+cHC  2
+cHC 1
+cHC 2
+cHM   1
+cHM   2
+cHM   5
+cHM   6
+cHM  1
+cHM  2
+cHM  5
+cHM  6
+cHM 1
+cHM 2
+cHM 5
+cHM 6
+cHN   1
+cHN   2
+cHN  1
+cHN  2
+cHN 1
+cHN 2
+cHO   1
+cHO   2
+cHO  1
+cHO  2
+cHO 1
+cHO 2
+cHR   1
+cHR   2
+cHR   3
+cHR   4
+cHR   5
+cHR   6
+cHR   7
+cHR   8
+cHR   9
+cHR  1
+cHR  2
+cHR  3
+cHR  4
+cHR  5
+cHR  6
+cHR  7
+cHR  8
+cHR  9
+cHR 1
+cHR 2
+cHR 3
+cHR 4
+cHR 5
+cHR 6
+cHR 7
+cHR 8
+cHR 9
+cHS   1
+cHS   2
+cHS   3
+cHS   4
+cHS   5
+cHS   6
+cHS   7
+cHS   8
+cHS   9
+cHS  1
+cHS  2
+cHS  3
+cHS  4
+cHS  5
+cHS  6
+cHS  7
+cHS  8
+cHS  9
+cHS 1
+cHS 2
+cHS 3
+cHS 4
+cHS 5
+cHS 6
+cHS 7
+cHS 8
+cHS 9
+cHX   01
+cHX   02
+cHX   03
+cHX   04
+cHX   05
+cHX   07
+cHX   08
+cHX   09
+cHX   1
+cHX   10
+cHX   11
+cHX   12
+cHX   13
+cHX   14
+cHX   15
+cHX   16
+cHX   17
+cHX   18
+cHX   19
+cHX   2
+cHX   20
+cHX   21
+cHX   23
+cHX   24
+cHX   25
+cHX   26
+cHX   27
+cHX   28
+cHX   3
+cHX   4
+cHX   5
+cHX   7
+cHX   8
+cHX   9
+cHX  01
+cHX  02
+cHX  03
+cHX  04
+cHX  05
+cHX  07
+cHX  08
+cHX  09
+cHX  1
+cHX  10
+cHX  11
+cHX  12
+cHX  13
+cHX  14
+cHX  15
+cHX  16
+cHX  17
+cHX  18
+cHX  19
+cHX  2
+cHX  20
+cHX  21
+cHX  23
+cHX  24
+cHX  25
+cHX  26
+cHX  27
+cHX  28
+cHX  3
+cHX  4
+cHX  5
+cHX  7
+cHX  8
+cHX  9
+cHX 01
+cHX 02
+cHX 03
+cHX 04
+cHX 05
+cHX 07
+cHX 08
+cHX 09
+cHX 1
+cHX 10
+cHX 11
+cHX 12
+cHX 13
+cHX 14
+cHX 15
+cHX 16
+cHX 17
+cHX 18
+cHX 19
+cHX 2
+cHX 20
+cHX 21
+cHX 23
+cHX 24
+cHX 25
+cHX 26
+cHX 27
+cHX 28
+cHX 3
+cHX 4
+cHX 5
+cHX 7
+cHX 8
+cHX 9
+cOA   1
+cOA   2
+cOA   3
+cOA   4
+cOA   5
+cOA   6
+cOA   7
+cOA  1
+cOA  2
+cOA  3
+cOA  4
+cOA  5
+cOA  6
+cOA  7
+cOA 1
+cOA 2
+cOA 3
+cOA 4
+cOA 5
+cOA 6
+cOA 7
+cOH   1
+cOH  1
+cOH 1
+cOR   2
+cOR   3
+cOR   4
+cOR   5
+cOR   6
+cOR   8
+cOR   9
+cOR  2
+cOR  3
+cOR  4
+cOR  5
+cOR  6
+cOR  8
+cOR  9
+cOR 2
+cOR 3
+cOR 4
+cOR 5
+cOR 6
+cOR 8
+cOR 9
+cOS   1
+cOS   2
+cOS   3
+cOS   4
+cOS   5
+cOS   6
+cOS   7
+cOS   8
+cOS   9
+cOS  1
+cOS  2
+cOS  3
+cOS  4
+cOS  5
+cOS  6
+cOS  7
+cOS  8
+cOS  9
+cOS 1
+cOS 2
+cOS 3
+cOS 4
+cOS 5
+cOS 6
+cOS 7
+cOS 8
+cOS 9
+cSH   2
+cSH  2
+cSH 2
+chc   1
+chc  1
+chc 1
+chm   1
+chm  1
+chm 1
+chn   1
+chn   2
+chn  1
+chn  2
+chn 1
+chn 2
+cho   1
+cho   2
+cho  1
+cho  2
+cho 1
+cho 2
+chr   1
+chr   2
+chr   3
+chr   4
+chr  1
+chr  2
+chr  3
+chr  4
+chr 1
+chr 2
+chr 3
+chr 4
+chs   1
+chs   2
+chs   7
+chs  1
+chs  2
+chs  7
+chs 1
+chs 2
+chs 7
+chx   10
+chx  10
+chx 10
+coa   1
+coa   2
+coa   3
+coa   5
+coa   6
+coa   7
+coa  1
+coa  2
+coa  3
+coa  5
+coa  6
+coa  7
+coa 1
+coa 2
+coa 3
+coa 5
+coa 6
+coa 7
+coh   1
+coh  1
+coh 1
+cor   1
+cor   7
+cor  1
+cor  7
+cor 1
+cor 7
+cos   2
+cos  2
+cos 2
+csh   2
+csh  2
+csh 2
+eGFR
+lH   2
+lH  2
+lH 2
+lh   2
+lh  2
+lh 2
+nOH   1
+nOH  1
+nOH 1
+nOT   1
+nOT   2
+nOT   3
+nOT   4
+nOT   5
+nOT  1
+nOT  2
+nOT  3
+nOT  4
+nOT  5
+nOT 1
+nOT 2
+nOT 3
+nOT 4
+nOT 5
+not   2
+not   3
+not   4
+not  2
+not  3
+not  4
+not 10
+not 2
+not 3
+not 4
+oCH   1
+oCH  1
+oCH 1
+och   1
+och  1
+och 1
+of   1
+of   2
+of   3
+of   4
+of   5
+of   6
+of   7
+of   8
+of   9
+of  1
+of  2
+of  3
+of  4
+of  5
+of  6
+of  7
+of  8
+of  9
+of 1
+of 2
+of 3
+of 4
+of 5
+of 6
+of 7
+of 8
+of 9
+or 1
+or 2
+or 4
+pH 2
+pOH   1
+pOH  1
+pOH 1
+pON   2
+pON  2
+pON 2
+pSO   1
+pSO  1
+pSO 1
+per 100
+pon   2
+pon  2
+pon 2
+sNO   2
+sNO  2
+sNO 2
+tank 2
+tert
+α
+β
+γ
+δ
+ε
+ζ
+η
+θ
+ι
+κ
+λ
+μ
+ν
+ξ
+ο
+π
+ρ
+σ
+τ
+υ
+φ
+χ
+ψ
+ω
+
+# From top-50 cmnts for their paper & patent hits
+albumin as
+Albumin as
+and -1
+R 4
+R  4
+R 5
+R  5
+R 6
+R  6
+R 7
+R  7
+
+# From top-50 cmnts for their paper & patent hits (windowed)
+PCI  # cmnt16667, percutaneous coronary intervention
+PCIs  # cmnt16667, percutaneous coronary interventions
+ASD  # cmnt36371, autism spectrum disorder
+ASDs  # cmnt36371, autism spectrum disorders
+PSM  # cmnt11720, propensity score matching analysis and many etc...
+PSMs  # cmnt11720, propensity score matching analysis and many etc...
+ADC  # cmnt795, apparent diffusion coefficient and etc...
+ADCs  # cmnt795, apparent diffusion coefficients and etc...
+
+# Korea Army Training Center
+Actin Is  # cmnt797
+Actin is  # cmnt797
+actin IS  # cmnt797
+actin is  # cmnt797
+Somatostatin Is  # cmnt5539
+Somatostatin is  # cmnt5539
+somatostatin is  # cmnt5539
+Hemoglobin AS  # cmnt60448
+Hemoglobin as  # cmnt60448
+hemoglobin as  # cmnt60448
+hemoglobin AS  # cmnt60448
+Hemoglobin is  # cmnt23973 -> cmnt574 
+hemoglobin is  # cmnt23973 -> cmnt574
+Hemoglobin Is  # cmnt23973 -> cmnt574

@@ -1,0 +1,6 @@
+From journal_curated_220523.zip
+
+Total 1488 journals are manually assigned their fields (GeneBib-ver),
+and they are listed as seperate files each.
+
+field2jnl.pkl is the Python dictionary object s.t. {field -> [journal]}

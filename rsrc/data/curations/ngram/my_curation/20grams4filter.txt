@@ -1,0 +1,5 @@
+keyword, paper_matches, ngram_counts, case_insensitive_in_removed
+dTDP-Rha:alpha-D-GlcNAc-pyrophosphate polyprenol, alpha-3-L-rhamnosyltransferase, 1, 0, undetermined, , {'P9WMY3', 'P9WMY2'}, {'dTDP-Rha:alpha-D-GlcNAc-pyrophosphate polyprenol, alpha-3-L-rhamnosyltransferase'}
+As(III)/H(+) and Sb(III)/H(+) antiporter, 1, 0, undetermined, , {'Q06598'}, {'As(III)/H(+) and Sb(III)/H(+)antiporter'}
+5-phospho-alpha-d-ribose-1-diphosphate:decaprenyl-phosphate 5-phosphoribosyltransferase, 1, 0, undetermined, , {'Q8NLQ9', 'P9WFR5', 'A0R626', 'P9WFR4'}, {'5-phospho-alpha-D-ribose-1-diphosphate:decaprenyl-phosphate 5-phosphoribosyltransferase'}
+(-)-13 alpha-hydroxymultiflorine/(+)-13 alpha-hydroxylupanine O-tigloyltransferase, 1, 0, undetermined, , {'Q5H873'}, {'(-)-13alpha-hydroxymultiflorine/(+)-13alpha-hydroxylupanine O-tigloyltransferase'}

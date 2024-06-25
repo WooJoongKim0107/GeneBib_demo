@@ -1,7 +1,7 @@
 # About This Repository
 This repository contains the code used to produce the core data for the research paper "Long-term Innovative Potential of Genetic Research and Its Suppression". By the end of these demo scripts, you will obtain results such as:
 
-## About Each Genes
+## Demo Result 1: Information on Each Genes
 ```python
 >>> from Communities import Community
 >>> Community.import_cache()
@@ -43,7 +43,7 @@ Community(26729)
                                     Cd274      1          0          0          0
 ```
 
-## About Their Occurrences within Demo Paper and Patent Dataset
+## Demo Result 2: Occurrences of Genes Within the Demo Paper and Patent Dataset
 ```python
 >>> from collections import Counter
 >>> from Communities import Community

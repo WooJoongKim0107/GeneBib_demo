@@ -71,7 +71,64 @@ Article(24445736)
  2021: 69}
 ```
 
-Please note that all results presented here are based solely on the demo resource data provided in this repository.
+Please note that all results presented above are based solely on the demo resource data provided in this repository.
+
+## Demo Result 3. Mathematically Modeling of New Gene Researches Over Time
+```python
+>>> import numpy as np
+>>> from Fitting.fit_sum import TDGs, TRGs, Slopes
+>>> _, _, tdg01, _ = map(np.array, zip(*TDGs(load=True).fvalues()))  # tdg01 represents fraction already studied by Dec 31 2001
+>>> _, _, trg01, trg21 = map(np.array, zip(*TRGs(load=True).fvalues()))  # trg01 represents fraction already studied by Dec 31 2001
+>>> slopes = Slopes().fvalues()
+>>> s_counts, s_starts = np.histogram(slopes, np.arange(0.09, 0.2, 0.01)-0.005, density=True)
+>>> r_counts, r_starts = np.histogram(trg21, np.arange(0.4, 0.6, 0.01)-0.005, density=True)
+
+>>> print(f'\n{tdg01.mean():.3%} +- {tdg01.std():.3%} taxonomically-dispersed genes (TDGs) studied as of 2021 had already been studied at least once before 2002')
+71.315% +- 5.436% taxonomically-dispersed genes (TDGs) studied as of 2021 had already been studied at least once before 2002
+
+>>> print(f'\n{trg01.mean():.3%} +- {trg01.std():.3%} taxonomically-restricted genes (TRGs) studied as of 2021 had already been studied at least once before 2002')
+7.963% +- 0.846% taxonomically-restricted genes (TRGs) studied as of 2021 had already been studied at least once before 2002
+
+>>> print(f'\nEstimated fraction of species-specific gene sequences:')
+>>> for i in range(s_counts.size):
+>>>     print(f'  {s_starts[i]:.3f}-{s_starts[i+1]:.3f}: {s_counts[i]:.2f}')
+Estimated fraction of species-specific gene sequences:  
+  0.085-0.095: 0.00  
+  0.095-0.105: 12.12  
+  0.105-0.115: 15.15  
+  0.115-0.125: 27.27  
+  0.125-0.135: 15.15  
+  0.135-0.145: 21.21  
+  0.145-0.155: 0.00  
+  0.155-0.165: 0.00  
+  0.165-0.175: 9.09  
+  0.175-0.185: 0.00  
+  0.185-0.195: 0.00
+
+>>> print(f'\nEstimated fraction of species-specific genes (-2021):')
+>>> for i in range(r_counts.size):
+>>>     print(f'  {r_starts[i]:.3f}-{r_starts[i+1]:.3f}: {r_counts[i]:.2f}')  
+Estimated fraction of species-specific genes (-2021):  
+  0.395-0.405: 0.00  
+  0.405-0.415: 0.00  
+  0.415-0.425: 0.00  
+  0.425-0.435: 6.06  
+  0.435-0.445: 6.06  
+  0.445-0.455: 12.12  
+  0.455-0.465: 21.21  
+  0.465-0.475: 15.15  
+  0.475-0.485: 12.12  
+  0.485-0.495: 9.09  
+  0.495-0.505: 6.06  
+  0.505-0.515: 9.09  
+  0.515-0.525: 3.03  
+  0.525-0.535: 0.00  
+  0.535-0.545: 0.00  
+  0.545-0.555: 0.00  
+  0.555-0.565: 0.00  
+  0.565-0.575: 0.00  
+  0.575-0.585: 0.00
+```
 
 # Data Coverage
 Due to GitHub file size limits and legal restrictions on some datasets, we can only provide *demo* versions of the data. You can reproduce the research data by making minor modifications to the Python code if you replace our demo dataset with the complete dataset.
@@ -97,7 +154,8 @@ If Python version 3.11.0 or later is not installed, please follow the instructio
 
 ## Install Required Libraries
 ```bash
-pip install pandas matplotlib lxml more-itertools
+pip install more-itertools
+conda install numpy pandas scipy matplotlib lxml
 ```
 
 ## Important
@@ -157,6 +215,14 @@ If all processes complete successfully, you can view the demo results presented 
 ```bash
 python main.py
 ```
+
+## (Optional) Fitting From Scratch
+Although this repository includes the fitting results of the mathematical modeling and their interpretations, those eager to reproduce the fitting results from scratch should run:
+```python
+python -m Fitting
+```
+
+We have only tested this on a system equipped with approximately 300GB of RAM and 48/96 CPU cores/threads, which took about 5 hours. You may need to make slight modifications to the code to ensure it runs properly on your system.
 
 # Contact Information
 henrik@unist.ac.kr

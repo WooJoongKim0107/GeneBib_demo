@@ -61,7 +61,7 @@ class C2E(dict):
     Sorted by its key
     """
     PATH = PathTemplate('$data/community/update_curated_cmnt_map_${date}.pkl')
-    DATES = ['220914', '231201']
+    DATES = ['220914', '231201', '240628']
 
     @classmethod
     def load(cls, date: str | int = -1) -> dict[int, tuple[str]]:

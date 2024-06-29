@@ -26,7 +26,7 @@ Community(17386), bka., mTOR
                     392 hits (EP Patent)
                     
 >>> print(Community[26729].more_info)
-Community(26729), bka., PD-L1
+Community(26729)
        Entries: ['Q9EP73', 'Q9NZQ7']
       Keywords: ['B7-H1', 'B7H1', 'B7h1', 'CD274', 'Cd274', 'PD-L1', 'PDCD1 ligand 1', 'PDCD1L1', 'PDCD1LG1', 'PDL1', 'Pdcd1l1', 'Pdcd1lg1', 'Pdl1', 'Programmed cell death 1 ligand 1', 'Programmed death ligand 1', 'hPD-L1']
     Total hits:
@@ -177,12 +177,12 @@ Afterward, you can execute the following modules in sequence:
 ```bash
 python -m Papers
 ```
-The `Papers` module processes research articles in XML format and extracts relevant information.
+The `Papers` module processes research articles provided in XML format and extracts relevant information from them.
 
 ```bash
 python -m UsPatents
 ```
-The `UsPatents` module processes US patent documents in JSON format and extracts pertinent information.
+The `UsPatents` module processes US patent documents provided in JSON format and extracts pertinent information from them. During the preprocessing steps for the JSON files, duplicated records belonging to the same DOCDB patent family are resolved.
 
 ```bash
 python -m CnPatents

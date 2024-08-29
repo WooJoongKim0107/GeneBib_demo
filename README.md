@@ -1,6 +1,8 @@
 # About This Repository
 This repository contains the code used to produce the core data for the research paper "Long-term Innovative Potential of Genetic Research and Its Suppression". By the end of these demo scripts, you will obtain results such as:
 
+### $${\color{red}\text{Please note that all results presented below are based solely on the demo resource data provided in this repository!!}}$$
+
 ## Demo Result 1: Information on Each Gene
 ```python
 >>> from Communities import Community
@@ -70,8 +72,6 @@ Article(24445736)
  2020: 76,
  2021: 69}
 ```
-
-### $${\color{red}\text{Please note that all results presented above are based solely on the demo resource data provided in this repository!!}}$$
 
 ## Demo Result 3. Mathematical Modeling of New Gene Research Over Time
 ```python

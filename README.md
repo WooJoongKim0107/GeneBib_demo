@@ -71,7 +71,7 @@ Article(24445736)
  2021: 69}
 ```
 
-Please note that all results presented above are based solely on the demo resource data provided in this repository.
+### $${\color{red}\text{Please note that all results presented above are based solely on the demo resource data provided in this repository!!}}$$
 
 ## Demo Result 3. Mathematical Modeling of New Gene Research Over Time
 ```python

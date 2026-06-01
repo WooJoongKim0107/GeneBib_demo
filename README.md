@@ -1,5 +1,5 @@
 # About This Repository
-This repository contains the code used to produce the core data for the research paper "Long-term Innovative Potential of Genetic Research and Its Suppression". By the end of these demo scripts, you will obtain results such as:
+This repository contains the code used to produce the core data for the research paper "Warning signals for the long-term innovative potential of genetic research based on 20 million papers and patents". By the end of these demo scripts, you will obtain results such as:
 
 ### $${\color{red}\text{Please note that all results presented below are based solely on the demo resource data provided in this repository!!}}$$
 
@@ -225,4 +225,5 @@ python -m Fitting
 We have only tested this on a system equipped with approximately 300GB of RAM and 48/96 CPU cores/threads, which took about 5 hours. You may need to make slight modifications to the code to ensure it runs properly on your system.
 
 # Contact Information
-henrik@unist.ac.kr
+- henrik@unist.ac.kr (only available by the end of 2026)
+- henrikwjkim@gmail.com

@@ -1,7 +1,8 @@
 # About This Repository
-This repository contains the code used to produce the core data for the research paper "Warning signals for the long-term innovative potential of genetic research based on 20 million papers and patents". By the end of these demo scripts, you will obtain results such as:
+This repository contains the code used to produce the core data for the research paper "Scientific exploration outlasts industrial momentum and sustains innovation in genetic research: survey of 20 million papers and patents". By the end of these demo scripts, you will obtain results such as:
 
-### $${\color{red}\text{Please note that all results presented below are based solely on the demo resource data provided in this repository!!}}$$
+> [!CAUTION]
+> **All results presented below are based solely on the demo resource data provided in this repository.**
 
 ## Demo Result 1: Information on Each Gene
 ```python
